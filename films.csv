@@ -1,0 +1,501 @@
+film_id,film_name,release_year,genre,film_duration,film_country,film_language,film_budget,film_box_office,film_votes_count,film_release_platform,film_name_word_count,film_age_rating,film_awards_count,studio_name
+1,Avatar,2009,Action|Adventure|Sci-Fi,162,USA,en,237000000,2923706026,13000000,Cinema,1,PG-13,3,20th Century Fox
+2,Avengers: Endgame,2019,Action|Adventure|Sci-Fi,181,USA,en,356000000,2797501328,12000000,Cinema,2,PG-13,6,Marvel Studios
+3,Avatar: The Way of Water,2022,Action|Adventure|Sci-Fi,192,USA,en,350000000,2320287321,9000000,Cinema,5,PG-13,4,20th Century Studios
+4,Titanic,1997,Drama|Romance,195,USA,en,200000000,2264645982,13000000,Cinema,1,PG-13,11,Paramount Pictures
+5,Star Wars Ep. VII: The Force Awakens,2015,Action|Adventure|Sci-Fi,138,USA,en,245000000,2071310218,9500000,Cinema,7,PG-13,5,Walt Disney Pictures
+6,Avengers: Infinity War,2018,Action|Adventure|Sci-Fi,149,USA,en,325000000,2052415039,10000000,Cinema,3,PG-13,4,Marvel Studios
+7,Ne Zha 2 (哪吒之魔童闹海),2025,Animation|Action|Fantasy,128,China,zh,20000000,868000000,500000,Cinema,5,PG,3,Beijing Enlight Pictures
+8,Spider-Man: No Way Home,2021,Action|Adventure|Fantasy,148,USA,en,200000000,1921847111,11000000,Cinema,4,PG-13,4,Marvel Studios
+9,Inside Out 2,2024,Animation|Comedy|Drama,96,USA,en,200000000,1630000000,400000,Cinema,3,PG,2,Walt Disney Pictures
+10,Jurassic World,2015,Action|Adventure|Sci-Fi,124,USA,en,150000000,1671537444,8700000,Cinema,2,PG-13,4,Universal Pictures
+11,The Lion King,2019,Animation|Adventure|Drama,118,USA,en,260000000,1663341219,7000000,Cinema,3,PG,2,Walt Disney Pictures
+12,The Avengers,2012,Action|Adventure|Sci-Fi,143,USA,en,220000000,1518812988,12000000,Cinema,2,PG-13,3,Marvel Studios
+13,Furious 7,2015,Action|Crime|Thriller,137,USA,en,190000000,1515341399,9500000,Cinema,2,PG-13,2,Universal Pictures
+14,Top Gun: Maverick,2022,Action|Drama,130,USA,en,170000000,1495565128,8000000,Cinema,3,PG-13,5,Paramount Pictures
+15,Frozen II,2019,Animation|Adventure|Comedy,103,USA,en,150000000,1450026933,6000000,Cinema,2,PG,3,Walt Disney Pictures
+16,Barbie,2023,Comedy|Fantasy,114,USA,en,145000000,1447695281,7000000,Cinema,1,PG-13,5,Warner Bros.
+17,Avengers: Age of Ultron,2015,Action|Adventure|Sci-Fi,141,USA,en,365000000,1405403694,11000000,Cinema,4,PG-13,3,Marvel Studios
+18,The Super Mario Bros. Movie,2023,Animation|Adventure|Comedy,92,USA,en,100000000,1360320794,550000,Cinema,4,PG,2,Universal Pictures
+19,Deadpool & Wolverine,2024,Action|Comedy|Sci-Fi,128,USA,en,200000000,1200000000,2000000,Cinema,3,R,3,Marvel Studios
+20,Black Panther,2018,Action|Adventure|Sci-Fi,134,USA,en,200000000,1349126343,9000000,Cinema,2,PG-13,3,Marvel Studios
+21,Star Wars Ep. VIII: The Last Jedi,2017,Action|Adventure|Sci-Fi,152,USA,en,200000000,1332539889,9000000,Cinema,7,PG-13,4,Walt Disney Pictures
+22,Harry Potter and the Deathly Hallows (Part 2),2011,Adventure|Fantasy,130,UK|USA,en,250000000,1342329209,8500000,Cinema,7,PG-13,3,Warner Bros.
+23,Jurassic World: Fallen Kingdom,2018,Action|Adventure|Sci-Fi,128,USA,en,170000000,1310466296,7000000,Cinema,4,PG-13,2,Universal Pictures
+24,Frozen,2013,Animation|Adventure|Comedy,102,USA,en,150000000,1280820561,9000000,Cinema,1,PG,2,Walt Disney Pictures
+25,Beauty and the Beast,2017,Fantasy|Musical|Romance,129,USA,en,160000000,1265469307,8000000,Cinema,4,PG,2,Walt Disney Pictures
+26,Incredibles 2,2018,Animation|Action|Adventure,118,USA,en,200000000,1244323528,7000000,Cinema,2,PG,3,Pixar Animation Studios
+27,Iron Man 3,2013,Action|Adventure|Sci-Fi,130,USA,en,200000000,1214811252,9500000,Cinema,3,PG-13,3,Marvel Studios
+28,The Fate of the Furious,2017,Action|Crime|Thriller,136,USA,en,250000000,1236005118,8500000,Cinema,4,PG-13,2,Universal Pictures
+29,Minions,2015,Animation|Adventure|Comedy,91,USA,en,74000000,1159398397,8000000,Cinema,1,PG,1,Illumination Entertainment
+30,Captain America: Civil War,2016,Action|Adventure|Sci-Fi,147,USA,en,250000000,1155039725,11000000,Cinema,3,PG-13,3,Marvel Studios
+31,Aquaman,2018,Action|Adventure|Fantasy,143,USA,en,160000000,1156491262,8000000,Cinema,1,PG-13,2,Warner Bros.
+32,Spider-Man: Far From Home,2019,Action|Adventure|Comedy,129,USA,en,160000000,1131927996,9500000,Cinema,4,PG-13,2,Marvel Studios
+33,Captain Marvel,2019,Action|Adventure|Sci-Fi,123,USA,en,175000000,1136300000,8700000,Cinema,2,PG-13,3,Marvel Studios
+34,The Lord of the Rings: The Return of the King,2003,Adventure|Fantasy,201,New Zealand|USA,en,94000000,1146531659,18000000,Cinema,8,PG-13,11,New Line Cinema
+35,Transformers: Dark of the Moon,2011,Action|Adventure|Sci-Fi,154,USA,en,195000000,1123794079,7500000,Cinema,4,PG-13,3,Paramount Pictures
+36,Skyfall,2012,Action|Thriller,143,UK|USA,en,200000000,1108561013,8700000,Cinema,1,PG-13,5,Eon Productions
+37,Transformers: Age of Extinction,2014,Action|Adventure|Sci-Fi,165,USA,en,210000000,1104342504,7200000,Cinema,4,PG-13,2,Paramount Pictures
+38,The Dark Knight Rises,2012,Action|Thriller,164,USA,en,250000000,1081041287,16000000,Cinema,4,PG-13,4,Warner Bros.
+39,Joker,2019,Crime|Drama|Thriller,122,USA,en,55000000,1074457302,13000000,Cinema,1,R,11,Warner Bros.
+40,Toy Story 4,2019,Animation|Adventure|Comedy,100,USA,en,200000000,1073394593,7500000,Cinema,3,G,3,Pixar Animation Studios
+41,Star Wars: The Rise of Skywalker,2019,Action|Adventure|Sci-Fi,142,USA,en,275000000,1075887000,8700000,Cinema,5,PG-13,3,Walt Disney Pictures
+42,Toy Story 3,2010,Animation|Adventure|Comedy,103,USA,en,200000000,1066969703,9500000,Cinema,3,G,2,Pixar Animation Studios
+43,Pirates of the Caribbean: Dead Man’s Chest,2006,Action|Adventure|Fantasy,150,USA,en,225000000,1066179725,11000000,Cinema,6,PG-13,1,Walt Disney Pictures
+44,Moana 2,2024,Animation|Adventure|Comedy,108,USA,en,200000000,1025000000,400000,Cinema,2,PG,1,Walt Disney Pictures
+45,Jurassic Park,1993,Adventure|Sci-Fi|Thriller,127,USA,en,63000000,1043740832,11000000,Cinema,2,PG-13,4,Universal Pictures
+46,Rogue One: A Star Wars Story,2016,Action|Adventure|Sci-Fi,133,USA,en,220000000,1056057273,9500000,Cinema,5,PG-13,2,Walt Disney Pictures
+47,Star Wars Ep. I: The Phantom Menace,1999,Action|Adventure|Sci-Fi,136,USA,en,115000000,1027044677,12000000,Cinema,8,PG,3,Lucasfilm
+48,Pirates of the Caribbean: On Stranger Tides,2011,Action|Adventure|Fantasy,137,USA,en,379000000,1045713802,8000000,Cinema,6,PG-13,1,Walt Disney Pictures
+49,Aladdin,2019,Adventure|Family|Fantasy,128,USA,en,183000000,1050693953,9500000,Cinema,1,PG,2,Walt Disney Pictures
+50,Lilo & Stitch,2025,Animation|Adventure|Comedy,105,USA,en,180000000,980000000,200000,Cinema,3,PG,1,Walt Disney Pictures
+51,Despicable Me 3,2017,Animation|Adventure|Comedy,96,USA,en,80000000,1034799409,7000000,Cinema,3,PG,1,Illumination Entertainment
+52,Alice in Wonderland,2010,Adventure|Family|Fantasy,108,USA,en,200000000,1025467110,8900000,Cinema,3,PG,2,Walt Disney Pictures
+53,Finding Dory,2016,Animation|Adventure|Comedy,97,USA,en,200000000,1029925209,7500000,Cinema,2,PG,2,Pixar Animation Studios
+54,Zootopia,2016,Animation|Adventure|Comedy,108,USA,en,150000000,1023784195,8500000,Cinema,1,PG,3,Walt Disney Pictures
+55,The Hobbit: An Unexpected Journey,2012,Adventure|Fantasy,169,New Zealand|USA,en,200000000,1017212149,9000000,Cinema,5,PG-13,3,Warner Bros.
+56,The Dark Knight,2008,Action|Crime|Drama,152,USA,en,185000000,1004558444,27000000,Cinema,3,PG-13,2,Warner Bros.
+57,Jurassic World: Dominion,2022,Action|Adventure|Sci-Fi,147,USA,en,265000000,1001047000,7500000,Cinema,3,PG-13,2,Universal Pictures
+58,The Lion King,1994,Animation|Adventure|Drama,88,USA,en,45000000,987483777,13000000,Cinema,3,G,4,Walt Disney Pictures
+59,Oppenheimer,2023,Biography|Drama|History,180,USA,en,100000000,982000000,12000000,Cinema,1,R,7,Universal Pictures
+60,Despicable Me 2,2013,Animation|Adventure|Comedy,98,USA,en,76000000,970766005,8500000,Cinema,3,PG,1,Illumination Entertainment
+61,Despicable Me 4,2024,Animation|Adventure|Comedy,95,USA,en,100000000,940000000,400000,Cinema,3,PG,1,Illumination Entertainment
+62,Harry Potter and the Sorcerer’s Stone,2001,Adventure|Fantasy,152,UK|USA,en,125000000,974755371,13000000,Cinema,6,PG,3,Warner Bros.
+63,Jumanji: Welcome to the Jungle,2017,Action|Adventure|Comedy,119,USA,en,90000000,962077546,9500000,Cinema,4,PG-13,2,Columbia Pictures
+64,Pirates of the Caribbean: At World’s End,2007,Action|Adventure|Fantasy,169,USA,en,300000000,963420425,10000000,Cinema,6,PG-13,1,Walt Disney Pictures
+65,The Hobbit: The Desolation of Smaug,2013,Adventure|Fantasy,161,New Zealand|USA,en,225000000,959026992,8000000,Cinema,5,PG-13,3,Warner Bros.
+66,A Minecraft Movie,2025,Adventure|Family|Fantasy,110,USA,en,180000000,900000000,200000,Cinema,3,PG,0,Warner Bros.
+67,Doctor Strange in the Multiverse of Madness,2022,Action|Adventure|Fantasy,126,USA,en,200000000,955775804,9000000,Cinema,6,PG-13,2,Marvel Studios
+68,The Jungle Book,2016,Adventure|Drama|Fantasy,106,USA,en,175000000,966554929,8700000,Cinema,3,PG,3,Walt Disney Pictures
+69,Harry Potter and the Deathly Hallows (Part 1),2010,Adventure|Fantasy,146,UK|USA,en,250000000,977043483,9500000,Cinema,7,PG-13,2,Warner Bros.
+70,The Hobbit: The Battle of the Five Armies,2014,Adventure|Fantasy,144,New Zealand|USA,en,250000000,962201338,8300000,Cinema,6,PG-13,3,Warner Bros.
+71,Minions: The Rise of Gru,2022,Animation|Adventure|Comedy,87,USA,en,80000000,940211550,6000000,Cinema,5,PG,1,Illumination Entertainment
+72,Harry Potter and the Order of the Phoenix,2007,Adventure|Fantasy,138,UK|USA,en,150000000,942034118,10000000,Cinema,7,PG-13,3,Warner Bros.
+73,Finding Nemo,2003,Animation|Adventure|Comedy,100,USA,en,94000000,940352645,14000000,Cinema,2,G,4,Pixar Animation Studios
+74,Shrek 2,2004,Animation|Adventure|Comedy,93,USA,en,150000000,935253978,16000000,Cinema,2,PG,3,DreamWorks Animation
+75,Harry Potter and the Half-Blood Prince,2009,Adventure|Fantasy,153,UK|USA,en,250000000,934482235,9800000,Cinema,6,PG,3,Warner Bros.
+76,The Lord of the Rings: The Two Towers,2002,Adventure|Fantasy,179,New Zealand|USA,en,94000000,947860230,17000000,Cinema,7,PG-13,4,New Line Cinema
+77,Star Wars Ep. III: Revenge of the Sith,2005,Action|Adventure|Sci-Fi,140,USA,en,113000000,868390560,12000000,Cinema,7,PG-13,3,Lucasfilm
+78,Spider-Man 3,2007,Action|Adventure|Fantasy,139,USA,en,258000000,894983373,14000000,Cinema,2,PG-13,2,Columbia Pictures
+79,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,178,New Zealand|USA,en,93000000,898204420,18000000,Cinema,8,PG-13,4,New Line Cinema
+80,Ice Age: Dawn of the Dinosaurs,2009,Animation|Adventure|Comedy,94,USA,en,90000000,886686817,8500000,Cinema,5,PG,1,Blue Sky Studios
+81,The Secret Life of Pets,2016,Animation|Adventure|Comedy,87,USA,en,75000000,885255630,6800000,Cinema,5,PG,1,Illumination Entertainment
+82,Harry Potter and the Goblet of Fire,2005,Adventure|Fantasy,157,UK|USA,en,150000000,896911078,11000000,Cinema,7,PG-13,2,Warner Bros.
+83,Ice Age: Continental Drift,2012,Animation|Adventure|Comedy,88,USA,en,95000000,877244782,7800000,Cinema,4,PG,1,Blue Sky Studios
+84,Bohemian Rhapsody,2018,Biography|Drama|Music,134,UK|USA,en,52000000,910809311,6500000,Cinema,2,PG-13,20,20th Century Fox
+85,Spectre,2015,Action|Adventure|Thriller,148,UK|USA,en,245000000,880674609,7500000,Cinema,1,PG-13,2,Eon Productions
+86,Spider-Man: Homecoming,2017,Action|Adventure|Sci-Fi,133,USA,en,175000000,880166924,9500000,Cinema,3,PG-13,2,Marvel Studios
+87,Harry Potter and the Chamber of Secrets,2002,Adventure|Fantasy,161,UK|USA,en,100000000,879462196,12000000,Cinema,6,PG,3,Warner Bros.
+88,Batman v Superman: Dawn of Justice,2016,Action|Adventure|Sci-Fi,151,USA,en,250000000,873634919,10000000,Cinema,5,PG-13,2,Warner Bros.
+89,Guardians of the Galaxy Vol. 2,2017,Action|Adventure|Comedy,136,USA,en,200000000,863756051,9800000,Cinema,5,PG-13,3,Marvel Studios
+90,Jurassic World Rebirth,2025,Action|Adventure|Sci-Fi,142,USA,en,250000000,950000000,200000,Cinema,3,PG-13,0,Universal Pictures
+91,The Hunger Games: Catching Fire,2013,Action|Adventure|Sci-Fi,146,USA,en,130000000,865011746,8900000,Cinema,5,PG-13,3,Lionsgate
+92,Black Panther: Wakanda Forever,2022,Action|Adventure|Drama,161,USA,en,250000000,859208836,8200000,Cinema,4,PG-13,3,Marvel Studios
+93,Venom,2018,Action|Sci-Fi|Thriller,112,USA,en,100000000,856085151,8900000,Cinema,1,PG-13,1,Columbia Pictures
+94,Thor: Ragnarok,2017,Action|Adventure|Comedy,130,USA,en,180000000,855301806,9400000,Cinema,2,PG-13,3,Marvel Studios
+95,Inside Out,2015,Animation|Adventure|Comedy,95,USA,en,175000000,858848019,9000000,Cinema,2,PG,3,Pixar Animation Studios
+96,Guardians of the Galaxy Vol. 3,2023,Action|Adventure|Comedy,150,USA,en,250000000,845500000,7000000,Cinema,5,PG-13,4,Marvel Studios
+97,"Hi, Mom (你好, 李焕英)",2021,Comedy|Drama|Fantasy,128,China,zh,60000000,848000000,500000,Cinema,3,PG,5,Beijing Culture
+98,Transformers: Revenge of the Fallen,2009,Action|Adventure|Sci-Fi,149,USA,en,200000000,836303693,9700000,Cinema,5,PG-13,1,Paramount Pictures
+99,The Twilight Saga: Breaking Dawn Part 2,2012,Adventure|Drama|Fantasy,115,USA,en,120000000,829746820,8000000,Cinema,6,PG-13,1,Summit Entertainment
+100,Inception,2010,Action|Adventure|Sci-Fi,148,USA|UK,en,160000000,837468217,25000000,Cinema,1,PG-13,4,Warner Bros.
+101,Spider-Man,2002,Action|Adventure|Fantasy,121,USA,en,139000000,825025036,16000000,Cinema,1,PG-13,2,Columbia Pictures
+102,Wonder Woman,2017,Action|Adventure|Fantasy,141,USA,en,150000000,822854286,9700000,Cinema,2,PG-13,3,Warner Bros.
+103,Independence Day,1996,Action|Adventure|Sci-Fi,145,USA,en,75000000,817400878,12000000,Cinema,2,PG-13,1,20th Century Fox
+104,Fantastic Beasts and Where to Find Them,2016,Adventure|Family|Fantasy,132,UK|USA,en,180000000,814037575,8600000,Cinema,6,PG-13,2,Warner Bros.
+105,Wolf Warrior 2 (战狼2),2017,Action|War|Thriller,123,China,zh,30000000,870325439,700000,Cinema,3,NR,3,Beijing Culture
+106,The Battle at Lake Changjin,2021,Action|Drama|War,176,China,zh,200000000,902000000,400000,Cinema,6,NR,5,China Film Group
+107,Shrek the Third,2007,Animation|Adventure|Comedy,93,USA,en,160000000,813367380,11000000,Cinema,3,PG,2,DreamWorks Animation
+108,E.T. the Extra-Terrestrial,1982,Adventure|Family|Sci-Fi,115,USA,en,10500000,792910554,17000000,Cinema,4,PG,4,Universal Pictures
+109,Spider-Man 2,2004,Action|Adventure|Fantasy,127,USA,en,200000000,788976453,16000000,Cinema,2,PG-13,3,Columbia Pictures
+110,Coco,2017,Animation|Adventure|Family,105,USA,en,175000000,814337597,9000000,Cinema,1,PG,13,Pixar Animation Studios
+111,Pirates of the Caribbean: Dead Men Tell No Tales,2017,Action|Adventure|Fantasy,129,USA,en,230000000,794861794,7500000,Cinema,7,PG-13,1,Walt Disney Pictures
+112,Jumanji: The Next Level,2019,Action|Adventure|Comedy,123,USA,en,125000000,801693929,8700000,Cinema,4,PG-13,2,Columbia Pictures
+113,Fast and Furious 6,2013,Action|Adventure|Crime,130,USA,en,160000000,789300000,8800000,Cinema,4,PG-13,1,Universal Pictures
+114,Indiana Jones and the Kingdom of the Crystal Skull,2008,Action|Adventure,122,USA,en,185000000,790653942,12000000,Cinema,8,PG-13,1,Paramount Pictures
+115,Mission: Impossible—Fallout,2018,Action|Adventure|Thriller,147,USA,en,178000000,791657398,8800000,Cinema,3,PG-13,3,Paramount Pictures
+116,Deadpool 2,2018,Action|Adventure|Comedy,119,USA,en,110000000,785896609,12000000,Cinema,2,R,2,20th Century Fox
+117,Harry Potter and the Prisoner of Azkaban,2004,Adventure|Fantasy,142,UK|USA,en,130000000,797660766,11000000,Cinema,6,PG,4,Warner Bros.
+118,Deadpool,2016,Action|Adventure|Comedy,108,USA,en,58000000,782836791,16000000,Cinema,1,R,4,20th Century Fox
+119,Star Wars Ep. IV: A New Hope,1977,Action|Adventure|Sci-Fi,121,USA,en,11000000,775800000,14000000,Cinema,7,PG,6,Lucasfilm
+120,The Batman,2022,Action|Crime|Drama,176,USA,en,185000000,772200000,9500000,Cinema,2,PG-13,4,Warner Bros.
+121,Guardians of the Galaxy,2014,Action|Adventure|Comedy,121,USA,en,170000000,773350147,12000000,Cinema,4,PG-13,3,Marvel Studios
+122,The Da Vinci Code,2006,Mystery|Thriller,149,USA,en,125000000,760006945,10000000,Cinema,4,PG-13,1,Columbia Pictures
+123,The Hunger Games: Mockingjay – Part 1,2014,Action|Adventure|Sci-Fi,123,USA,en,125000000,755356711,8000000,Cinema,6,PG-13,2,Lionsgate
+124,Thor: Love and Thunder,2022,Action|Adventure|Comedy,118,USA,en,250000000,760928081,6800000,Cinema,4,PG-13,1,Marvel Studios
+125,Fast & Furious Presents: Hobbs & Shaw,2019,Action|Adventure|Comedy,137,USA,en,200000000,760732926,8500000,Cinema,6,PG-13,1,Universal Pictures
+126,No Time to Die,2021,Action|Adventure|Thriller,163,UK|USA,en,250000000,774153007,7000000,Cinema,4,PG-13,3,Eon Productions
+127,The Amazing Spider-Man,2012,Action|Adventure|Sci-Fi,136,USA,en,230000000,757930663,10000000,Cinema,3,PG-13,2,Columbia Pictures
+128,Maleficent,2014,Adventure|Family|Fantasy,97,USA,en,180000000,758411779,9500000,Cinema,1,PG,2,Walt Disney Pictures
+129,2012,2009,Action|Adventure|Sci-Fi,158,USA,en,200000000,769679473,8800000,Cinema,1,PG-13,1,Columbia Pictures
+130,Shrek Forever After,2010,Animation|Adventure|Comedy,93,USA,en,165000000,752600867,9500000,Cinema,3,PG,1,DreamWorks Animation
+131,Wicked,2024,Musical|Fantasy|Romance,160,USA,en,150000000,950000000,200000,Cinema,1,PG-13,0,Universal Pictures
+132,Suicide Squad,2016,Action|Adventure|Fantasy,123,USA,en,175000000,747583431,11000000,Cinema,2,PG-13,1,Warner Bros.
+133,X-Men: Days of Future Past,2014,Action|Adventure|Sci-Fi,132,USA,en,200000000,746045700,9700000,Cinema,5,PG-13,3,20th Century Fox
+134,Madagascar 3: Europe’s Most Wanted,2012,Animation|Adventure|Comedy,93,USA,en,145000000,746921274,9000000,Cinema,5,PG,2,DreamWorks Animation
+135,Monsters University,2013,Animation|Adventure|Comedy,104,USA,en,200000000,743559607,9500000,Cinema,2,G,2,Pixar Animation Studios
+136,Ne Zha (哪吒之魔童降世),2019,Animation|Action|Fantasy,110,China,zh,20000000,742000000,600000,Cinema,5,PG,5,Beijing Enlight Pictures
+137,The Matrix Reloaded,2003,Action|Sci-Fi,138,USA,en,150000000,738576929,14000000,Cinema,3,R,2,Warner Bros.
+138,Up,2009,Animation|Adventure|Comedy,96,USA,en,175000000,735099082,10000000,Cinema,1,PG,5,Pixar Animation Studios
+139,Mufasa: The Lion King,2024,Animation|Adventure|Drama,125,USA,en,260000000,980000000,300000,Cinema,3,PG,0,Walt Disney Pictures
+140,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Adventure|Family|Fantasy,150,UK|USA,en,180000000,745013115,11000000,Cinema,8,PG,2,Walt Disney Pictures
+141,F9: The Fast Saga,2021,Action|Adventure|Crime,143,USA,en,200000000,726229501,7200000,Cinema,4,PG-13,1,Universal Pictures
+142,Dune: Part Two,2024,Action|Adventure|Sci-Fi,166,USA,en,190000000,711800000,300000,Cinema,3,PG-13,6,Warner Bros.
+143,Captain America: The Winter Soldier,2014,Action|Adventure|Sci-Fi,136,USA,en,170000000,714421503,11000000,Cinema,5,PG-13,3,Marvel Studios
+144,Fast X,2023,Action|Adventure|Crime,141,USA,en,340000000,714600000,500000,Cinema,2,PG-13,1,Universal Pictures
+145,Dawn of the Planet of the Apes,2014,Action|Drama|Sci-Fi,130,USA,en,170000000,710644566,9500000,Cinema,5,PG-13,3,20th Century Fox
+146,The Amazing Spider-Man 2,2014,Action|Adventure|Sci-Fi,142,USA,en,255000000,709000000,9300000,Cinema,4,PG-13,1,Columbia Pictures
+147,Transformers,2007,Action|Adventure|Sci-Fi,144,USA,en,150000000,709709780,14000000,Cinema,1,PG-13,3,Paramount Pictures
+148,The Twilight Saga: Eclipse,2010,Adventure|Drama|Fantasy,124,USA,en,68000000,698491347,8500000,Cinema,5,PG-13,1,Summit Entertainment
+149,It,2017,Horror|Thriller,135,USA,en,35000000,701842551,10000000,Cinema,1,R,4,Warner Bros.
+150,Mission: Impossible—Ghost Protocol,2011,Action|Adventure|Thriller,132,USA,en,145000000,694713380,9300000,Cinema,3,PG-13,2,Paramount Pictures
+151,Spider-Man: Across the Spider-Verse,2023,Animation|Action|Adventure,140,USA,en,100000000,690500000,500000,Cinema,4,PG,4,Sony Pictures Animation
+152,Mission: Impossible—Rogue Nation,2015,Action|Adventure|Thriller,131,USA,en,150000000,688884651,9600000,Cinema,3,PG-13,3,Paramount Pictures
+153,The Twilight Saga: New Moon,2009,Adventure|Drama|Fantasy,130,USA,en,50000000,711025481,8900000,Cinema,5,PG-13,1,Summit Entertainment
+154,Gravity,2013,Drama|Sci-Fi|Thriller,91,UK|USA,en,100000000,723192705,13000000,Cinema,1,PG-13,7,Warner Bros.
+155,Moana,2016,Animation|Adventure|Comedy,107,USA,en,150000000,687229889,8700000,Cinema,1,PG,2,Walt Disney Pictures
+156,The Twilight Saga: Breaking Dawn – Part 1,2011,Adventure|Drama|Fantasy,117,USA,en,110000000,712205856,8700000,Cinema,7,PG-13,1,Summit Entertainment
+157,Forrest Gump,1994,Drama|Romance,142,USA,en,55000000,678226133,24000000,Cinema,2,PG-13,6,Paramount Pictures
+158,The Hunger Games,2012,Action|Adventure|Sci-Fi,142,USA,en,78000000,694394724,12000000,Cinema,3,PG-13,3,Lionsgate
+159,Doctor Strange,2016,Action|Adventure|Fantasy,115,USA,en,165000000,677796076,11000000,Cinema,2,PG-13,3,Marvel Studios
+160,The Sixth Sense,1999,Drama|Mystery|Thriller,107,USA,en,40000000,672806292,16000000,Cinema,3,PG-13,6,Buena Vista Pictures
+161,Man of Steel,2013,Action|Adventure|Sci-Fi,143,USA,en,225000000,668045518,11000000,Cinema,3,PG-13,2,Warner Bros.
+162,Kung Fu Panda 2,2011,Animation|Action|Adventure,91,USA,en,150000000,665692281,10000000,Cinema,4,PG,2,DreamWorks Animation
+163,Justice League,2017,Action|Adventure|Sci-Fi,120,USA,en,300000000,657924295,9700000,Cinema,2,PG-13,1,Warner Bros.
+164,Star Wars Ep. II: Attack of the Clones,2002,Action|Adventure|Sci-Fi,142,USA,en,115000000,653800000,13000000,Cinema,8,PG,3,Lucasfilm
+165,Fantastic Beasts: The Crimes of Grindelwald,2018,Adventure|Family|Fantasy,134,UK|USA,en,200000000,654855901,8000000,Cinema,6,PG-13,2,Warner Bros.
+166,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Action|Adventure|Fantasy,143,USA,en,140000000,654264015,11000000,Cinema,8,PG-13,3,Walt Disney Pictures
+167,Men in Black 3,2012,Action|Adventure|Comedy,106,USA,en,225000000,654213485,9800000,Cinema,3,PG-13,2,Columbia Pictures
+168,The Martian,2015,Adventure|Drama|Sci-Fi,144,USA,en,108000000,654457036,12000000,Cinema,2,PG-13,7,20th Century Fox
+169,Ice Age: The Meltdown,2006,Animation|Adventure|Comedy,91,USA,en,80000000,660940780,10000000,Cinema,4,PG,1,Blue Sky Studios
+170,Big Hero 6,2014,Animation|Action|Adventure,102,USA,en,165000000,657827828,9500000,Cinema,3,PG,2,Walt Disney Pictures
+171,The Hunger Games: Mockingjay – Part 2,2015,Action|Adventure|Sci-Fi,137,USA,en,160000000,653428261,8200000,Cinema,6,PG-13,2,Lionsgate
+172,Thor: The Dark World,2013,Action|Adventure|Fantasy,112,USA,en,170000000,644783140,9500000,Cinema,4,PG-13,2,Marvel Studios
+173,Interstellar,2014,Adventure|Drama|Sci-Fi,169,USA|UK,en,165000000,647190615,18000000,Cinema,1,PG-13,7,Paramount Pictures
+174,Demon Slayer: The Movie – To the Hashira Training,2025,Animation|Action|Fantasy,118,Japan,ja,30000000,700000000,200000,Cinema,7,PG-13,0,Toho
+175,How to Train Your Dragon,2025,Animation|Adventure|Family,112,USA,en,150000000,850000000,300000,Cinema,5,PG,0,DreamWorks Animation
+176,Wonka,2023,Adventure|Comedy|Family,116,USA|UK,en,125000000,633000000,400000,Cinema,1,PG,2,Warner Bros.
+177,Kung Fu Panda,2008,Animation|Action|Adventure,92,USA,en,130000000,631744560,14000000,Cinema,3,PG,3,DreamWorks Animation
+178,The Incredibles,2004,Animation|Action|Adventure,115,USA,en,92000000,631607053,15000000,Cinema,2,PG,2,Pixar Animation Studios
+179,Sing,2016,Animation|Comedy|Family,108,USA,en,75000000,634249947,9000000,Cinema,1,PG,2,Illumination Entertainment
+180,Fast Five,2011,Action|Adventure|Crime,130,USA,en,125000000,626137675,9500000,Cinema,2,PG-13,2,Universal Pictures
+181,F1: The Movie,2025,Action|Drama|Sport,135,USA,en,180000000,900000000,250000,Cinema,3,PG-13,0,Universal Pictures
+182,Ratatouille,2007,Animation|Comedy|Family,111,USA,en,150000000,626700971,13000000,Cinema,1,G,2,Pixar Animation Studios
+183,Hancock,2008,Action|Comedy|Drama,92,USA,en,150000000,629443428,10000000,Cinema,1,PG-13,1,Columbia Pictures
+184,Ant-Man and the Wasp,2018,Action|Adventure|Comedy,118,USA,en,195000000,622674139,9000000,Cinema,4,PG-13,2,Marvel Studios
+185,The Passion of the Christ,2004,Drama,127,USA,ar|la|he|it,30000000,612054564,2000000,Cinema,5,R,3,Icon Productions
+186,Iron Man 2,2010,Action|Adventure|Sci-Fi,124,USA,en,200000000,621156389,12000000,Cinema,3,PG-13,2,Marvel Studios
+187,Life of Pi,2012,Adventure|Drama|Fantasy,127,USA|Taiwan,en,120000000,609016565,11000000,Cinema,3,PG,4,20th Century Fox
+188,The Lost World: Jurassic Park,1997,Action|Adventure|Sci-Fi,129,USA,en,73000000,618638999,13000000,Cinema,5,PG-13,2,Universal Pictures
+189,Superman,2025,Action|Adventure|Sci-Fi,145,USA,en,200000000,950000000,200000,Cinema,1,PG-13,0,Warner Bros.
+190,How to Train Your Dragon 2,2014,Animation|Action|Adventure,102,USA,en,145000000,621537519,9600000,Cinema,5,PG,2,DreamWorks Animation
+191,Logan,2017,Action|Drama|Sci-Fi,137,USA,en,97000000,619179950,11000000,Cinema,1,R,4,20th Century Fox
+192,The Wandering Earth (流浪地球),2019,Action|Sci-Fi|Drama,125,China,zh,50000000,700000000,400000,Cinema,3,PG-13,4,China Film Group
+193,War of the Worlds,2005,Action|Adventure|Sci-Fi,116,USA,en,132000000,603873119,12000000,Cinema,4,PG-13,2,Paramount Pictures
+194,Transformers: The Last Knight,2017,Action|Adventure|Sci-Fi,154,USA,en,260000000,605425157,8500000,Cinema,5,PG-13,1,Paramount Pictures
+195,Madagascar: Escape 2 Africa,2008,Animation|Adventure|Comedy,89,USA,en,150000000,603900354,9800000,Cinema,4,PG,1,DreamWorks Animation
+196,Casino Royale,2006,Action|Adventure|Thriller,144,UK|USA,en,150000000,616501619,11000000,Cinema,2,PG-13,3,Eon Productions
+197,Quantum of Solace,2008,Action|Adventure|Thriller,106,UK|USA,en,200000000,589580695,9500000,Cinema,3,PG-13,1,Eon Productions
+198,Mission: Impossible—The Final Reckoning,2025,Action|Adventure|Thriller,165,USA,en,290000000,950000000,200000,Cinema,4,PG-13,0,Paramount Pictures
+199,Men in Black,1997,Action|Adventure|Comedy,98,USA,en,90000000,589390539,15000000,Cinema,3,PG-13,3,Columbia Pictures
+200,The Hangover Part II,2011,Comedy|Crime,102,USA,en,80000000,586764305,8900000,Cinema,4,R,1,Warner Bros.
+201,I Am Legend,2007,Action|Drama|Sci-Fi,101,USA,en,150000000,585410052,14000000,Cinema,3,PG-13,2,Warner Bros.
+202,Iron Man,2008,Action|Adventure|Sci-Fi,126,USA,en,140000000,585796247,18000000,Cinema,2,PG-13,4,Marvel Studios
+203,Ready Player One,2018,Action|Adventure|Sci-Fi,140,USA,en,175000000,583000000,9600000,Cinema,3,PG-13,2,Warner Bros.
+204,Tangled,2010,Animation|Adventure|Comedy,100,USA,en,260000000,592462816,9300000,Cinema,1,PG,3,Walt Disney Pictures
+205,Full River Red (满江红),2023,Drama|Comedy|Mystery,159,China,zh,60000000,673000000,300000,Cinema,3,PG-13,4,Beijing Enlight Pictures
+206,Mamma Mia!,2008,Comedy|Romance|Musical,108,USA|UK,en,52000000,609841637,12000000,Cinema,2,PG-13,2,Universal Pictures
+207,Night at the Museum,2006,Adventure|Comedy|Family,108,USA,en,110000000,574480841,9500000,Cinema,4,PG,2,20th Century Fox
+208,The Croods,2013,Animation|Adventure|Comedy,98,USA,en,135000000,587204668,9800000,Cinema,2,PG,2,DreamWorks Animation
+209,Godzilla x Kong: The New Empire,2024,Action|Adventure|Sci-Fi,115,USA,en,200000000,567000000,400000,Cinema,5,PG-13,1,Legendary Pictures
+210,Kong: Skull Island,2017,Action|Adventure|Fantasy,118,USA,en,185000000,566652812,9700000,Cinema,3,PG-13,2,Legendary Pictures
+211,Fifty Shades of Grey,2015,Drama|Romance,125,USA,en,40000000,569651467,9000000,Cinema,4,R,1,Universal Pictures
+212,Detective Chinatown 3 (唐人街探案3),2021,Action|Comedy|Mystery,136,China,zh,125000000,695000000,300000,Cinema,3,PG-13,2,Huayi Brothers
+213,The Little Mermaid,2023,Adventure|Family|Fantasy,135,USA,en,250000000,569600000,500000,Cinema,3,PG,2,Walt Disney Pictures
+214,Mission: Impossible – Dead Reckoning Part One,2023,Action|Adventure|Thriller,163,USA,en,290000000,568800000,450000,Cinema,6,PG-13,2,Paramount Pictures
+215,The Smurfs,2011,Animation|Adventure|Comedy,103,USA,en,110000000,563749323,9400000,Cinema,2,PG,1,Columbia Pictures
+216,"Monsters, Inc.",2001,Animation|Adventure|Comedy,92,USA,en,115000000,561000000,18000000,Cinema,2,G,4,Pixar Animation Studios
+217,Cars 2,2011,Animation|Adventure|Comedy,106,USA,en,200000000,562110557,9600000,Cinema,2,G,2,Pixar Animation Studios
+218,King Kong,2005,Action|Adventure|Drama,187,USA,en,207000000,562363449,13000000,Cinema,2,PG-13,3,Universal Pictures
+219,Madagascar,2005,Animation|Adventure|Comedy,86,USA,en,75000000,556559994,14000000,Cinema,1,PG,2,DreamWorks Animation
+220,Ted,2012,Comedy|Fantasy,106,USA,en,50000000,556962710,12500000,Cinema,1,R,1,Universal Pictures
+221,The Day After Tomorrow,2004,Action|Adventure|Sci-Fi,124,USA,en,125000000,552639571,12000000,Cinema,4,PG-13,1,20th Century Fox
+222,Puss in Boots,2011,Animation|Adventure|Comedy,90,USA,en,130000000,555000000,11000000,Cinema,3,PG,2,DreamWorks Animation
+223,Brave,2012,Animation|Adventure|Family,93,USA,en,185000000,540437956,10000000,Cinema,1,PG,2,Pixar Animation Studios
+224,Armageddon,1998,Action|Adventure|Sci-Fi,151,USA,en,140000000,553709788,14000000,Cinema,1,PG-13,4,Buena Vista Pictures
+225,Mission: Impossible 2,2000,Action|Adventure|Thriller,123,USA,en,125000000,546388105,13000000,Cinema,3,PG-13,2,Paramount Pictures
+226,Star Wars Ep. V: The Empire Strikes Back,1980,Action|Adventure|Sci-Fi,124,USA,en,18000000,538400000,15000000,Cinema,8,PG,2,Lucasfilm
+227,Kung Fu Panda 4,2024,Animation|Action|Adventure,94,USA,en,85000000,545000000,400000,Cinema,3,PG,1,DreamWorks Animation
+228,American Sniper,2014,Action|Biography|Drama,133,USA,en,59000000,547400157,11000000,Cinema,2,R,6,Warner Bros.
+229,Despicable Me,2010,Animation|Adventure|Comedy,95,USA,en,69000000,543157985,12000000,Cinema,2,PG,1,Illumination Entertainment
+230,Detective Chinatown 2 (唐人街探案2),2018,Action|Comedy|Mystery,121,China,zh,30000000,544000000,500000,Cinema,3,PG-13,2,Huayi Brothers
+231,X-Men: Apocalypse,2016,Action|Adventure|Sci-Fi,144,USA,en,178000000,543934105,9000000,Cinema,3,PG-13,2,20th Century Fox
+232,Cinderella,2015,Drama|Family|Fantasy,105,USA,en,95000000,542358331,10000000,Cinema,1,PG,2,Walt Disney Pictures
+233,Sherlock Holmes: A Game of Shadows,2011,Action|Adventure|Mystery,129,USA|UK,en,125000000,543848418,9000000,Cinema,5,PG-13,2,Warner Bros.
+234,The Revenant,2015,Adventure|Drama|Thriller,156,USA,en,135000000,533000000,9000000,Cinema,2,R,12,20th Century Fox
+235,WALL-E,2008,Animation|Adventure|Family,98,USA,en,180000000,532508146,16000000,Cinema,1,G,6,Pixar Animation Studios
+236,World War Z,2013,Action|Adventure|Horror,116,USA,en,190000000,540007876,11000000,Cinema,3,PG-13,2,Paramount Pictures
+237,Ralph Breaks the Internet,2018,Animation|Adventure|Comedy,112,USA,en,175000000,529323962,7000000,Cinema,3,PG,2,Walt Disney Pictures
+238,The Meg,2018,Action|Horror|Sci-Fi,113,USA|China,en,130000000,530200000,7000000,Cinema,2,PG-13,1,Warner Bros.
+239,Godzilla,2014,Action|Adventure|Sci-Fi,123,USA,en,160000000,529076069,10000000,Cinema,1,PG-13,2,Legendary Pictures
+240,Dunkirk,2017,Action|Drama|History,106,UK|USA,en,100000000,527016307,9500000,Cinema,1,PG-13,8,Warner Bros.
+241,The Boss Baby,2017,Animation|Adventure|Comedy,97,USA,en,125000000,528000000,8000000,Cinema,3,PG,1,DreamWorks Animation
+242,Hotel Transylvania 3: Summer Vacation,2018,Animation|Adventure|Comedy,97,USA,en,80000000,528583774,6000000,Cinema,6,PG,1,Columbia Pictures
+243,The Simpsons Movie,2007,Animation|Adventure|Comedy,87,USA,en,75000000,536414293,14000000,Cinema,3,PG-13,1,20th Century Fox
+244,The Mermaid (美人鱼),2016,Comedy|Fantasy|Romance,94,China,zh,60000000,553810228,400000,Cinema,3,PG,4,China Film Group
+245,The Fantastic Four: First Steps,2025,Action|Adventure|Sci-Fi,138,USA,en,220000000,800000000,250000,Cinema,5,PG-13,0,Marvel Studios
+246,How to Train Your Dragon: The Hidden World,2019,Animation|Action|Adventure,104,USA,en,129000000,525000000,6500000,Cinema,6,PG,2,DreamWorks Animation
+247,Kung Fu Panda 3,2016,Animation|Action|Adventure,95,USA|China,en,145000000,521200000,8700000,Cinema,3,PG,2,DreamWorks Animation
+248,Ant-Man,2015,Action|Adventure|Comedy,117,USA,en,130000000,519311965,9500000,Cinema,1,PG-13,2,Marvel Studios
+249,Ghost,1990,Drama|Fantasy|Romance,127,USA,en,22000000,517600000,20000000,Cinema,1,PG-13,2,Paramount Pictures
+250,The Wandering Earth 2 (流浪地球2),2023,Action|Sci-Fi|Drama,173,China,zh,70000000,605000000,300000,Cinema,4,PG-13,3,China Film Group
+251,Meet the Fockers,2004,Comedy|Romance,115,USA,en,80000000,516600000,13000000,Cinema,3,PG-13,1,Universal Pictures
+252,Water Gate Bridge (长津湖之水门桥),2022,Action|Drama|War,159,China,zh,200000000,626000000,300000,Cinema,4,NR,3,China Film Group
+253,Terminator 2: Judgment Day,1991,Action|Sci-Fi|Thriller,137,USA,en,100000000,520881154,19000000,Cinema,4,R,6,TriStar Pictures
+254,Dr. Seuss’ The Grinch,2018,Animation|Comedy|Family,86,USA,en,75000000,526700000,6000000,Cinema,4,PG,2,Illumination Entertainment
+255,Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train,2020,Animation|Action|Fantasy,117,Japan,ja,15000000,507100000,500000,Cinema,7,R,6,Toho
+256,Toy Story 2,1999,Animation|Adventure|Comedy,92,USA,en,90000000,511358276,18000000,Cinema,3,G,2,Pixar Animation Studios
+257,No More Bets (孤注一掷),2023,Crime|Thriller,130,China,zh,30000000,540000000,250000,Cinema,3,PG-13,2,Alibaba Pictures
+258,La La Land,2016,Comedy|Drama|Music,128,USA,en,30000000,472700000,11000000,Cinema,3,PG-13,14,Lionsgate
+259,Aladdin,1992,Animation|Adventure|Family,90,USA,en,28000000,504050219,20000000,Cinema,1,G,2,Walt Disney Pictures
+260,Venom: Let There Be Carnage,2021,Action|Adventure|Sci-Fi,97,USA,en,110000000,506863592,6500000,Cinema,5,PG-13,1,Columbia Pictures
+261,Twister,1996,Action|Adventure|Thriller,113,USA,en,92000000,495700000,11000000,Cinema,1,PG-13,2,Warner Bros.
+262,Sherlock Holmes,2009,Action|Adventure|Mystery,128,USA|UK,en,90000000,524028679,12000000,Cinema,2,PG-13,2,Warner Bros.
+263,Jaws,1975,Adventure|Thriller,124,USA,en,9000000,476500000,20000000,Cinema,1,PG,3,Universal Pictures
+264,Wreck-It Ralph,2012,Animation|Adventure|Comedy,101,USA,en,165000000,496500000,9500000,Cinema,3,PG,3,Walt Disney Pictures
+265,How to Train Your Dragon,2010,Animation|Action|Adventure,98,USA,en,165000000,494878759,11000000,Cinema,5,PG,2,DreamWorks Animation
+266,Clash of the Titans,2010,Action|Adventure|Fantasy,106,USA,en,125000000,493214993,9500000,Cinema,4,PG-13,1,Warner Bros.
+267,Operation Red Sea (红海行动),2018,Action|War|Drama,142,China,zh,70000000,579000000,300000,Cinema,3,NR,3,Bona Film Group
+268,Rio 2,2014,Animation|Adventure|Comedy,101,USA,en,103000000,498818936,9000000,Cinema,2,G,2,20th Century Fox
+269,Shrek,2001,Animation|Adventure|Comedy,90,USA,en,60000000,491812794,17000000,Cinema,1,PG,4,DreamWorks Animation
+270,Angels & Demons,2009,Mystery|Thriller,138,USA,en,150000000,485930816,10000000,Cinema,3,PG-13,2,Columbia Pictures
+271,Oz the Great and Powerful,2013,Adventure|Family|Fantasy,130,USA,en,215000000,493310825,9500000,Cinema,4,PG,1,Walt Disney Pictures
+272,Sonic the Hedgehog 3,2024,Action|Adventure|Comedy,120,USA,en,120000000,600000000,400000,Cinema,4,PG,0,Paramount Pictures
+273,War for the Planet of the Apes,2017,Action|Adventure|Drama,140,USA,en,150000000,490719763,8500000,Cinema,5,PG-13,4,20th Century Fox
+274,Maleficent: Mistress of Evil,2019,Adventure|Family|Fantasy,119,USA,en,185000000,491730089,6700000,Cinema,3,PG,1,Walt Disney Pictures
+275,Rio,2011,Animation|Adventure|Comedy,96,USA,en,90000000,484635760,11000000,Cinema,1,G,2,20th Century Fox
+276,Mr. & Mrs. Smith,2005,Action|Comedy|Romance,120,USA,en,110000000,487287646,13000000,Cinema,3,PG-13,2,20th Century Fox
+277,Saving Private Ryan,1998,Drama|War,169,USA,en,70000000,482349603,16000000,Cinema,3,R,9,DreamWorks Pictures
+278,Teenage Mutant Ninja Turtles,2014,Action|Adventure|Comedy,101,USA,en,125000000,485004754,8000000,Cinema,4,PG-13,1,Paramount Pictures
+279,Elemental,2023,Animation|Adventure|Comedy,102,USA,en,200000000,496500000,500000,Cinema,1,PG,2,Pixar Animation Studios
+280,Les Intouchables,2011,Biography|Comedy|Drama,112,France,fr,9500000,426588510,6000000,Cinema,2,R,5,Gaumont
+281,Bruce Almighty,2003,Comedy|Fantasy,101,USA,en,81000000,484592874,16000000,Cinema,2,PG-13,1,Universal Pictures
+282,Puss in Boots: The Last Wish,2022,Animation|Adventure|Comedy,102,USA,en,90000000,484500000,5500000,Cinema,5,PG,3,DreamWorks Animation
+283,Troy,2004,Action|Adventure|Drama,163,USA,en,175000000,497409852,11000000,Cinema,1,R,1,Warner Bros.
+284,Star Wars Ep. VI: Return of the Jedi,1983,Action|Adventure|Sci-Fi,131,USA,en,32500000,475100000,16000000,Cinema,8,PG,2,Lucasfilm
+285,Home Alone,1990,Comedy|Family,103,USA,en,18000000,476700000,22000000,Cinema,2,PG,3,20th Century Fox
+286,Ant-Man and the Wasp: Quantumania,2023,Action|Adventure|Comedy,124,USA,en,200000000,476100000,600000,Cinema,5,PG-13,1,Marvel Studios
+287,Charlie and the Chocolate Factory,2005,Adventure|Comedy|Family,115,USA|UK,en,150000000,475000000,13000000,Cinema,5,PG,3,Warner Bros.
+288,Hotel Transylvania 2,2015,Animation|Adventure|Comedy,89,USA,en,80000000,474800000,9000000,Cinema,3,PG,1,Columbia Pictures
+289,San Andreas,2015,Action|Adventure|Thriller,114,USA,en,110000000,474009150,8500000,Cinema,2,PG-13,1,Warner Bros.
+290,Venom: The Last Dance,2024,Action|Adventure|Sci-Fi,112,USA,en,120000000,600000000,400000,Cinema,4,PG-13,0,Columbia Pictures
+291,Indiana Jones and the Last Crusade,1989,Action|Adventure,127,USA,en,48000000,474171806,20000000,Cinema,5,PG-13,3,Paramount Pictures
+292,The Conjuring: Last Rites,2025,Horror|Thriller|Mystery,125,USA,en,60000000,500000000,200000,Cinema,4,R,0,Warner Bros.
+293,It: Chapter Two,2019,Horror|Thriller,169,USA,en,79000000,473000000,6700000,Cinema,3,R,2,Warner Bros.
+294,Rise of the Planet of the Apes,2011,Action|Drama|Sci-Fi,105,USA,en,93000000,481800873,9700000,Cinema,6,PG-13,3,20th Century Fox
+295,Godzilla vs. Kong,2021,Action|Adventure|Sci-Fi,113,USA,en,155000000,470100000,5000000,Cinema,3,PG-13,2,Legendary Pictures
+296,The Lego Movie,2014,Animation|Action|Adventure,100,USA,en,60000000,471900000,10000000,Cinema,3,PG,2,Warner Bros.
+297,Star Trek Into Darkness,2013,Action|Adventure|Sci-Fi,132,USA,en,190000000,467400000,9500000,Cinema,4,PG-13,1,Paramount Pictures
+298,The Matrix,1999,Action|Sci-Fi,136,USA,en,63000000,467222728,19000000,Cinema,2,R,4,Warner Bros.
+299,The Hangover,2009,Comedy,100,USA,en,35000000,469300000,15000000,Cinema,2,R,2,Warner Bros.
+300,Bumblebee,2018,Action|Adventure|Sci-Fi,114,USA,en,135000000,468000000,8000000,Cinema,1,PG-13,2,Paramount Pictures
+301,Cars,2006,Animation|Adventure|Comedy,117,USA,en,120000000,462000000,15000000,Cinema,1,G,2,Pixar Animation Studios
+302,Gladiator II,2024,Action|Adventure|Drama,155,USA|UK,en,250000000,700000000,300000,Cinema,2,R,0,Paramount Pictures
+303,Moon Man (独行月球),2022,Comedy|Sci-Fi|Adventure,122,China,zh,62000000,460000000,250000,Cinema,2,PG-13,2,Alibaba Pictures
+304,X-Men: The Last Stand,2006,Action|Adventure|Sci-Fi,104,USA,en,210000000,459359555,11000000,Cinema,5,PG-13,1,20th Century Fox
+305,Mission: Impossible,1996,Action|Adventure|Thriller,110,USA,en,80000000,457696359,14000000,Cinema,2,PG-13,3,Paramount Pictures
+306,Lucy,2014,Action|Sci-Fi|Thriller,89,France|USA,en,40000000,463380000,11000000,Cinema,1,R,1,Universal Pictures
+307,National Treasure: Book of Secrets,2007,Action|Adventure|Mystery,124,USA,en,130000000,459247078,12000000,Cinema,5,PG,2,Walt Disney Pictures
+308,The Last Samurai,2003,Action|Drama|War,154,USA|Japan,en,140000000,456800000,16000000,Cinema,3,R,4,Warner Bros.
+309,Detective Chinatown 1900 (唐人街探案1900),2025,Action|Comedy|Mystery,140,China,zh,90000000,520000000,150000,Cinema,3,PG-13,0,Huayi Brothers
+310,300,2007,Action|Drama|War,117,USA,en,65000000,456082343,18000000,Cinema,1,R,2,Warner Bros.
+311,Beetlejuice Beetlejuice,2024,Comedy|Fantasy|Horror,120,USA,en,100000000,500000000,250000,Cinema,2,PG-13,0,Warner Bros.
+312,Gladiator,2000,Action|Adventure|Drama,155,USA|UK,en,103000000,460583960,16000000,Cinema,1,R,5,DreamWorks Pictures
+313,Wo Bi Shi Yao Shen,2018,Comedy|Drama,117,China,zh,13000000,453000000,300000,Cinema,4,PG-13,5,Beijing Enlight Pictures
+314,Ocean’s Eleven,2001,Crime|Thriller,116,USA,en,85000000,450728529,16000000,Cinema,2,PG-13,2,Warner Bros.
+315,Django Unchained,2012,Drama|Western,165,USA,en,100000000,449800000,17000000,Cinema,2,R,8,The Weinstein Company
+316,Thor,2011,Action|Adventure|Fantasy,115,USA,en,150000000,449326618,12000000,Cinema,1,PG-13,2,Marvel Studios
+317,Pearl Harbor,2001,Action|Drama|Romance,183,USA,en,140000000,449220945,14000000,Cinema,2,PG-13,4,Buena Vista Pictures
+318,Tarzan,1999,Animation|Adventure|Family,88,USA,en,130000000,448200000,18000000,Cinema,1,G,2,Walt Disney Pictures
+319,John Wick: Chapter 4,2023,Action|Thriller|Crime,169,USA,en,100000000,440100000,450000,Cinema,4,R,4,Lionsgate
+320,The Secret Life of Pets 2,2019,Animation|Adventure|Comedy,86,USA,en,80000000,444100000,6000000,Cinema,5,PG,1,Illumination Entertainment
+321,"My People, My Country (我和我的祖国)",2019,Drama|History,158,China,zh,50000000,475000000,250000,Cinema,4,PG,4,China Film Group
+322,Lost in the Stars (消失的她),2023,Crime|Thriller,121,China,zh,35000000,500000000,200000,Cinema,4,PG-13,2,Alibaba Pictures
+323,The Bourne Ultimatum,2007,Action|Thriller,115,USA,en,110000000,444100000,13000000,Cinema,3,PG-13,3,Universal Pictures
+324,Alvin and the Chipmunks: The Squeakquel,2009,Animation|Comedy|Family,88,USA,en,75000000,443140005,9000000,Cinema,5,PG,1,20th Century Fox
+325,Men in Black 2,2002,Action|Adventure|Comedy,88,USA,en,140000000,441818803,13000000,Cinema,4,PG-13,1,Columbia Pictures
+326,Mrs. Doubtfire,1993,Comedy|Drama|Family,125,USA,en,25000000,441286195,21000000,Cinema,2,PG-13,2,20th Century Fox
+327,Aquaman and the Lost Kingdom,2023,Action|Adventure|Fantasy,124,USA,en,205000000,434000000,450000,Cinema,5,PG-13,1,Warner Bros.
+328,Transformers: Rise of the Beasts,2023,Action|Adventure|Sci-Fi,127,USA,en,200000000,439000000,600000,Cinema,4,PG-13,1,Paramount Pictures
+329,Warcraft,2016,Action|Adventure|Fantasy,123,USA|China,en,160000000,439048914,8500000,Cinema,1,PG-13,1,Legendary Pictures
+330,Beauty and the Beast,1991,Animation|Family|Fantasy,84,USA,en,25000000,440100000,22000000,Cinema,4,G,2,Walt Disney Pictures
+331,The Eight Hundred (八佰),2020,Action|Drama|War,147,China,zh,80000000,461000000,300000,Cinema,3,PG-13,4,Huayi Brothers
+332,A Star Is Born,2018,Drama|Music|Romance,136,USA,en,36000000,436200000,9700000,Cinema,4,R,8,Warner Bros.
+333,Les Misérables,2012,Drama|Musical|Romance,158,UK|USA,en,61000000,442300000,10000000,Cinema,2,PG-13,3,Universal Pictures
+334,The Mummy Returns,2001,Action|Adventure|Fantasy,130,USA,en,98000000,443000000,13000000,Cinema,3,PG-13,2,Universal Pictures
+335,Pokémon: Detective Pikachu,2019,Action|Adventure|Comedy,104,USA|Japan,en,150000000,433000000,6500000,Cinema,3,PG,2,Warner Bros.
+336,Terminator 3: Rise of the Machines,2003,Action|Sci-Fi,109,USA,en,187000000,433371112,12000000,Cinema,5,R,2,Warner Bros.
+337,Pretty Woman,1990,Comedy|Romance,119,USA,en,14000000,432600000,19000000,Cinema,2,R,1,Buena Vista Pictures
+338,Shang-Chi and the Legend of the Ten Rings,2021,Action|Adventure|Fantasy,132,USA,en,150000000,432200000,5500000,Cinema,6,PG-13,2,Marvel Studios
+339,Terminator: Genisys,2015,Action|Adventure|Sci-Fi,126,USA,en,155000000,440603537,9000000,Cinema,3,PG-13,1,Paramount Pictures
+340,Die Another Day,2002,Action|Adventure|Thriller,133,UK|USA,en,142000000,431971116,14000000,Cinema,3,PG-13,2,Eon Productions
+341,The King’s Speech,2010,Biography|Drama|History,118,UK|Australia,en,15000000,427400000,11000000,Cinema,3,R,12,The Weinstein Company
+342,YOLO (热辣滚烫),2024,Comedy|Drama|Sport,120,China,zh,30000000,475000000,200000,Cinema,2,PG,2,Alibaba Pictures
+343,Dune,2021,Action|Adventure|Sci-Fi,155,USA,en,165000000,434800000,5200000,Cinema,1,PG-13,6,Warner Bros.
+344,The Exorcist,1973,Horror|Thriller,122,USA,en,12000000,441300000,17000000,Cinema,2,R,10,Warner Bros.
+345,The Greatest Showman,2017,Biography|Drama|Musical,105,USA,en,84000000,435000000,9700000,Cinema,3,PG,3,20th Century Fox
+346,Rampage,2018,Action|Adventure|Sci-Fi,107,USA,en,120000000,428000000,8500000,Cinema,1,PG-13,1,Warner Bros.
+347,The Matrix Revolutions,2003,Action|Sci-Fi,129,USA,en,150000000,427343298,14000000,Cinema,3,R,1,Warner Bros.
+348,Cast Away,2000,Adventure|Drama,143,USA,en,90000000,429632142,19000000,Cinema,2,PG-13,4,20th Century Fox
+349,Successor (抓娃娃),2024,Comedy|Drama,118,China,zh,25000000,300000000,150000,Cinema,1,PG,1,Alibaba Pictures
+350,Bad Boys for Life,2020,Action|Comedy|Crime,124,USA,en,90000000,426505244,4700000,Cinema,4,R,2,Columbia Pictures
+351,Dances with Wolves,1990,Adventure|Drama|Western,181,USA,en,22000000,424200000,13000000,Cinema,3,PG-13,7,Orion Pictures
+352,Pegasus 2 (飞驰人生2),2024,Comedy|Drama|Sport,121,China,zh,40000000,450000000,200000,Cinema,3,PG,1,Alibaba Pictures
+353,The Mummy,1999,Action|Adventure|Fantasy,124,USA,en,80000000,416400000,19000000,Cinema,2,PG-13,3,Universal Pictures
+354,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,Adventure|Family|Fantasy,113,UK|USA,en,155000000,415700000,10000000,Cinema,7,PG,2,20th Century Fox
+355,The Chronicles of Narnia: Prince Caspian,2008,Adventure|Family|Fantasy,150,UK|USA,en,225000000,419700000,12000000,Cinema,5,PG,1,Walden Media
+356,The Wolverine,2013,Action|Adventure|Sci-Fi,126,USA,en,120000000,414828246,9600000,Cinema,2,PG-13,2,20th Century Fox
+357,Jason Bourne,2016,Action|Thriller,123,USA,en,120000000,415500000,9000000,Cinema,2,PG-13,2,Universal Pictures
+358,Sex and the City,2008,Comedy|Drama|Romance,145,USA,en,65000000,415200000,10000000,Cinema,4,R,1,New Line Cinema
+359,Captain America: Brave New World,2025,Action|Adventure|Sci-Fi,150,USA,en,225000000,950000000,200000,Cinema,4,PG-13,0,Marvel Studios
+360,Batman,1989,Action|Adventure,126,USA,en,35000000,411600000,20000000,Cinema,1,PG-13,1,Warner Bros.
+361,Rain Man,1988,Drama,133,USA,en,25000000,412800000,16000000,Cinema,2,R,4,United Artists
+362,Pacific Rim,2013,Action|Adventure|Sci-Fi,131,USA|China,en,190000000,411000000,9800000,Cinema,2,PG-13,2,Warner Bros.
+363,The Bodyguard,1992,Drama|Romance|Thriller,129,USA,en,25000000,411000000,15000000,Cinema,2,R,1,Warner Bros.
+364,The Mummy,2017,Action|Adventure|Fantasy,110,USA,en,125000000,410000000,8500000,Cinema,2,PG-13,1,Universal Pictures
+365,Kingsman: The Golden Circle,2017,Action|Adventure|Comedy,141,UK|USA,en,104000000,410900000,9000000,Cinema,4,R,2,20th Century Fox
+366,Signs,2002,Drama|Mystery|Sci-Fi,106,USA,en,72000000,408247917,16000000,Cinema,1,PG-13,2,Buena Vista Pictures
+367,Fantastic Beasts: The Secrets of Dumbledore,2022,Adventure|Family|Fantasy,142,UK|USA,en,200000000,407200000,5000000,Cinema,6,PG-13,1,Warner Bros.
+368,Uncharted,2022,Action|Adventure,116,USA,en,120000000,407100000,4200000,Cinema,1,PG-13,2,Columbia Pictures
+369,X-Men 2,2003,Action|Adventure|Sci-Fi,134,USA,en,110000000,407711549,13000000,Cinema,2,PG-13,2,20th Century Fox
+370,The Mummy: Tomb of the Dragon Emperor,2008,Action|Adventure|Fantasy,112,USA|China,en,145000000,403449830,10000000,Cinema,5,PG-13,1,Universal Pictures
+371,Kingsman: The Secret Service,2015,Action|Adventure|Comedy,129,UK|USA,en,94000000,414351546,9500000,Cinema,4,R,2,20th Century Fox
+372,Sing 2,2021,Animation|Adventure|Comedy,110,USA,en,85000000,408400000,5000000,Cinema,2,PG,2,Illumination Entertainment
+373,Sonic the Hedgehog 2,2022,Action|Adventure|Comedy,122,USA,en,110000000,405400000,4500000,Cinema,4,PG,2,Paramount Pictures
+374,Prometheus,2012,Adventure|Mystery|Sci-Fi,124,USA|UK,en,130000000,403354469,9500000,Cinema,1,R,3,20th Century Fox
+375,Twilight,2008,Drama|Fantasy|Romance,122,USA,en,37000000,408400000,11000000,Cinema,1,PG-13,3,Summit Entertainment
+376,Night at the Museum: Battle of the Smithsonian,2009,Adventure|Comedy|Family,105,USA,en,150000000,413100000,9500000,Cinema,5,PG,1,20th Century Fox
+377,Ice Age: Collision Course,2016,Animation|Adventure|Comedy,94,USA,en,105000000,408579278,8000000,Cinema,4,PG,1,Blue Sky Studios
+378,Alita: Battle Angel,2019,Action|Adventure|Sci-Fi,122,USA,en,170000000,405000000,7000000,Cinema,3,PG-13,3,20th Century Fox
+379,Eternals,2021,Action|Adventure|Fantasy,156,USA,en,200000000,402000000,4200000,Cinema,1,PG-13,1,Marvel Studios
+380,Snow White and the Huntsman,2012,Action|Adventure|Drama,127,USA|UK,en,170000000,396600000,9700000,Cinema,5,PG-13,2,Universal Pictures
+381,Bad Boys: Ride or Die,2024,Action|Comedy|Crime,115,USA,en,100000000,426000000,300000,Cinema,4,R,1,Columbia Pictures
+382,Tron: Legacy,2010,Action|Adventure|Sci-Fi,125,USA,en,170000000,400062763,9500000,Cinema,2,PG,2,Walt Disney Pictures
+383,Mission: Impossible III,2006,Action|Adventure|Thriller,126,USA,en,150000000,398479497,11000000,Cinema,3,PG-13,2,Paramount Pictures
+384,Meg 2: The Trench,2023,Action|Adventure|Sci-Fi,116,USA|China,en,129000000,397000000,400000,Cinema,5,PG-13,1,Warner Bros.
+385,Kingdom of the Planet of the Apes,2024,Action|Adventure|Sci-Fi,145,USA,en,160000000,390000000,250000,Cinema,5,PG-13,0,20th Century Studios
+386,Mamma Mia! Here We Go Again,2018,Comedy|Musical|Romance,114,USA|UK,en,75000000,402000000,7000000,Cinema,5,PG-13,1,Universal Pictures
+387,Spirited Away (千と千尋の神隠し),2001,Animation|Adventure|Fantasy,125,Japan,ja,19000000,395580000,16000000,Cinema,3,PG,6,Studio Ghibli
+388,Grease,1978,Comedy|Musical|Romance,110,USA,en,6000000,396271103,18000000,Cinema,1,PG,2,Paramount Pictures
+389,Black Adam,2022,Action|Adventure|Fantasy,125,USA,en,195000000,393200000,4000000,Cinema,2,PG-13,1,Warner Bros.
+390,Solo: A Star Wars Story,2018,Action|Adventure|Sci-Fi,135,USA,en,275000000,392900000,8800000,Cinema,5,PG-13,1,Lucasfilm
+391,Superman Returns,2006,Action|Adventure|Sci-Fi,154,USA,en,204000000,391081192,12000000,Cinema,2,PG-13,1,Warner Bros.
+392,Gone with the Wind,1939,Drama|History|Romance,221,USA,en,3900000,390000000,25000000,Cinema,4,NR,10,Metro-Goldwyn-Mayer
+393,Robin Hood: Prince of Thieves,1991,Action|Adventure|Drama,143,USA,en,48000000,390500000,13000000,Cinema,4,PG-13,1,Warner Bros.
+394,The Wolf of Wall Street,2013,Biography|Comedy|Crime,180,USA,en,100000000,406878233,15000000,Cinema,5,R,5,Paramount Pictures
+395,Back to the Future,1985,Adventure|Comedy|Sci-Fi,116,USA,en,19000000,388800000,21000000,Cinema,4,PG,4,Universal Pictures
+396,Godzilla: King of the Monsters,2019,Action|Adventure|Sci-Fi,132,USA,en,170000000,386600000,6000000,Cinema,4,PG-13,2,Legendary Pictures
+397,Star Trek,2009,Action|Adventure|Sci-Fi,127,USA,en,150000000,385700000,12000000,Cinema,2,PG-13,3,Paramount Pictures
+398,Ice Age,2002,Animation|Adventure|Comedy,81,USA,en,59000000,386100000,16000000,Cinema,2,PG,2,Blue Sky Studios
+399,Home,2015,Animation|Adventure|Comedy,94,USA,en,135000000,386000000,9000000,Cinema,1,PG,1,DreamWorks Animation
+400,Happy Feet,2006,Animation|Adventure|Comedy,108,Australia|USA,en,100000000,384300000,14000000,Cinema,2,PG,3,Warner Bros.
+401,Independence Day: Resurgence,2016,Action|Adventure|Sci-Fi,120,USA,en,165000000,389700000,9000000,Cinema,3,PG-13,1,20th Century Fox
+402,Indiana Jones and the Dial of Destiny,2023,Action|Adventure,154,USA,en,295000000,383000000,450000,Cinema,6,PG-13,2,Lucasfilm
+403,Slumdog Millionaire,2008,Drama|Romance,120,UK|India,en,15000000,378000000,16000000,Cinema,2,R,8,Pathé Pictures
+404,1917,2019,Action|Drama|War,119,UK|USA,en,95000000,384900000,8000000,Cinema,1,R,10,Universal Pictures
+405,Cars 3,2017,Animation|Adventure|Comedy,102,USA,en,175000000,383900000,7000000,Cinema,2,G,2,Pixar Animation Studios
+406,Thunderbolts*,2025,Action|Adventure|Sci-Fi,150,USA,en,220000000,900000000,200000,Cinema,1,PG-13,0,Marvel Studios
+407,Live Free or Die Hard,2007,Action|Thriller,128,USA,en,110000000,383531464,13000000,Cinema,5,PG-13,2,20th Century Fox
+408,Monsters vs. Aliens,2009,Animation|Action|Comedy,94,USA,en,175000000,381509870,12000000,Cinema,3,PG,2,DreamWorks Animation
+409,Fifty Shades Darker,2017,Drama|Romance,118,USA,en,55000000,381800000,8000000,Cinema,3,R,1,Universal Pictures
+410,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi,120,Australia|USA,en,150000000,379400000,10000000,Cinema,4,R,6,Warner Bros.
+411,Black Widow,2021,Action|Adventure|Sci-Fi,134,USA,en,200000000,379800000,4500000,Cinema,2,PG-13,1,Marvel Studios
+412,Taken 2,2012,Action|Thriller,92,France|USA,en,45000000,376100000,11000000,Cinema,2,PG-13,1,EuropaCorp
+413,Once Upon a Time…in Hollywood,2019,Comedy|Drama,161,USA,en,90000000,377400000,9000000,Cinema,4,R,10,Columbia Pictures
+414,Hotel Transylvania,2012,Animation|Comedy|Family,91,USA,en,85000000,377000000,9500000,Cinema,2,PG,1,Columbia Pictures
+415,Godzilla,1998,Action|Adventure|Sci-Fi,139,USA,en,130000000,379000000,15000000,Cinema,1,PG-13,1,TriStar Pictures
+416,G.I. Joe: Retaliation,2013,Action|Adventure|Sci-Fi,110,USA,en,130000000,375700000,9300000,Cinema,3,PG-13,1,Paramount Pictures
+417,Toy Story,1995,Animation|Adventure|Comedy,81,USA,en,30000000,373600000,23000000,Cinema,2,G,4,Pixar Animation Studios
+418,My Big Fat Greek Wedding,2002,Comedy|Romance,95,USA,en,5000000,368700000,17000000,Cinema,4,PG,2,IFC Films
+419,X-Men Origins: Wolverine,2009,Action|Adventure|Sci-Fi,107,USA,en,150000000,373000000,12000000,Cinema,3,PG-13,1,20th Century Fox
+420,What Women Want,2000,Comedy|Fantasy|Romance,127,USA,en,70000000,374111707,16000000,Cinema,3,PG-13,1,Paramount Pictures
+421,The Adventures of Tintin,2011,Animation|Action|Adventure,107,USA|NewZealand,en,135000000,373993951,9000000,Cinema,4,PG,3,Amblin Entertainment
+422,Spider-Man: Into The Spider-Verse 3D,2018,Animation|Action|Adventure,117,USA,en,90000000,384256930,7000000,Cinema,5,PG,6,Columbia Pictures
+423,Zhongguo jizhang,2019,Drama|History,111,China,zh,15000000,456000000,300000,Cinema,2,PG,3,Bona Film Group
+424,Dead To Rights (南京照相馆),2025,Drama|Mystery,130,China,zh,20000000,250000000,100000,Cinema,4,PG-13,0,Alibaba Pictures
+425,Twisters,2024,Action|Adventure|Thriller,122,USA,en,200000000,460000000,300000,Cinema,1,PG-13,0,Universal Pictures
+426,Fifty Shades Freed,2018,Drama|Romance,105,USA,en,55000000,372000000,7500000,Cinema,3,R,1,Universal Pictures
+427,Shark Tale,2004,Animation|Adventure|Comedy,90,USA,en,75000000,374600000,15000000,Cinema,2,PG,1,DreamWorks Animation
+428,Captain America: The First Avenger,2011,Action|Adventure|Sci-Fi,124,USA,en,140000000,370600000,11500000,Cinema,6,PG-13,2,Marvel Studios
+429,There’s Something About Mary,1998,Comedy|Romance,119,USA,en,23000000,369884651,19000000,Cinema,4,R,4,20th Century Fox
+430,Raiders of the Lost Ark,1981,Action|Adventure,115,USA,en,18000000,389925971,25000000,Cinema,5,PG,5,Lucasfilm
+431,The Golden Compass,2007,Adventure|Family|Fantasy,113,UK|USA,en,180000000,372234864,12000000,Cinema,3,PG-13,1,New Line Cinema
+432,Gone Girl,2014,Drama|Mystery|Thriller,149,USA,en,61000000,369330363,9500000,Cinema,2,R,6,20th Century Fox
+433,Edge of Tomorrow,2014,Action|Adventure|Sci-Fi,113,USA|Canada,en,178000000,370500000,9500000,Cinema,3,PG-13,3,Warner Bros.
+434,Penguins of Madagascar,2014,Animation|Adventure|Comedy,92,USA,en,132000000,373552094,9000000,Cinema,3,PG,1,DreamWorks Animation
+435,Hitch,2005,Comedy|Romance,118,USA,en,70000000,371600000,15000000,Cinema,1,PG-13,1,Columbia Pictures
+436,Sinners,2025,Horror|Thriller,110,USA,en,40000000,200000000,150000,Cinema,1,R,0,Blumhouse Productions
+437,Tenet,2020,Action|Sci-Fi|Thriller,150,UK|USA,en,205000000,365900000,4800000,Cinema,1,PG-13,3,Warner Bros.
+438,Die Hard: With a Vengeance,1995,Action|Thriller,128,USA,en,90000000,366100000,17000000,Cinema,4,R,1,20th Century Fox
+439,The Nun,2018,Horror|Mystery|Thriller,96,USA,en,22000000,366200000,8000000,Cinema,2,R,1,Warner Bros.
+440,Shazam!,2019,Action|Adventure|Comedy,132,USA,en,100000000,366100000,6500000,Cinema,1,PG-13,2,Warner Bros.
+441,Jurassic Park III,2001,Action|Adventure|Sci-Fi,92,USA,en,93000000,368800000,17000000,Cinema,3,PG-13,1,Universal Pictures
+442,Terminator Salvation,2009,Action|Sci-Fi,115,USA,en,200000000,365500000,11000000,Cinema,2,PG-13,1,Warner Bros.
+443,True Lies,1994,Action|Comedy|Thriller,141,USA,en,100000000,378882411,20000000,Cinema,2,R,2,20th Century Fox
+444,Notting Hill,1999,Comedy|Drama|Romance,124,UK|USA,en,42000000,364000000,16000000,Cinema,2,PG-13,3,Universal Pictures
+445,A Bug’s Life,1998,Animation|Adventure|Comedy,95,USA,en,120000000,363400000,18000000,Cinema,3,G,2,Pixar Animation Studios
+446,Ocean’s Twelve,2004,Crime|Thriller,125,USA,en,110000000,362900000,14000000,Cinema,2,PG-13,2,Warner Bros.
+447,Alvin and the Chipmunks,2007,Animation|Comedy|Family,92,USA,en,60000000,361366633,13000000,Cinema,4,PG,1,20th Century Fox
+448,Planet of the Apes,2001,Action|Adventure|Sci-Fi,119,USA,en,100000000,362200000,16000000,Cinema,4,PG-13,1,20th Century Fox
+449,The Hangover 3,2013,Comedy|Crime,100,USA,en,103000000,362000000,9500000,Cinema,3,R,1,Warner Bros.
+450,The World is Not Enough,1999,Action|Adventure|Thriller,128,UK|USA,en,135000000,361832400,18000000,Cinema,5,PG-13,2,Eon Productions
+451,Zhuo yao ji 2,2018,Adventure|Comedy|Fantasy,110,China,zh,150000000,369000000,500000,Cinema,3,PG,2,Edko Films
+452,Fast & Furious,2009,Action|Crime|Thriller,107,USA,en,85000000,360400000,11000000,Cinema,2,PG-13,2,Universal Pictures
+453,Home Alone 2: Lost in New York,1992,Adventure|Comedy|Family,120,USA,en,28000000,359000000,20000000,Cinema,6,PG,2,20th Century Fox
+454,Minority Report,2002,Action|Crime|Sci-Fi,145,USA,en,102000000,358400000,13000000,Cinema,2,PG-13,3,20th Century Fox
+455,The Flintstones,1994,Comedy|Family|Fantasy,91,USA,en,46000000,358500000,17000000,Cinema,2,PG,1,Universal Pictures
+456,Peter Rabbit,2018,Adventure|Comedy|Family,95,USA|Australia,en,50000000,351300000,7000000,Cinema,2,PG,1,Columbia Pictures
+457,Top Gun,1986,Action|Drama,110,USA,en,15000000,357800000,24000000,Cinema,2,PG,1,Paramount Pictures
+458,The Legend of Tarzan,2016,Action|Adventure|Drama,110,USA,en,180000000,356700000,8500000,Cinema,4,PG-13,1,Warner Bros.
+459,Batman Begins,2005,Action|Crime|Drama,140,USA|UK,en,150000000,373700000,17000000,Cinema,2,PG-13,3,Warner Bros.
+460,Goldeneye,1995,Action|Adventure|Thriller,130,UK|USA,en,60000000,356400000,16000000,Cinema,1,PG-13,2,Eon Productions
+461,American Beauty,1999,Drama,122,USA,en,15000000,356300000,18000000,Cinema,2,R,5,DreamWorks Pictures
+462,Dinosaur,2000,Animation|Adventure|Family,82,USA,en,127500000,349800000,16000000,Cinema,1,PG,1,Walt Disney Pictures
+463,Wo He Wo De Jia Xiang,2020,Drama|History,157,China,zh,30000000,330000000,200000,Cinema,5,PG,3,China Film Group
+464,Catch Me if You Can,2002,Biography|Crime|Drama,141,USA,en,52000000,352100000,17000000,Cinema,5,PG-13,3,DreamWorks Pictures
+465,X-Men: First Class,2011,Action|Adventure|Sci-Fi,132,USA,en,160000000,353600000,11000000,Cinema,3,PG-13,2,20th Century Fox
+466,Your Name,2016,Animation|Drama|Fantasy,107,Japan,ja,5600000,382200000,9000000,Cinema,2,PG,8,Toho
+467,The Fugitive,1993,Action|Thriller,130,USA,en,44000000,368900000,15000000,Cinema,2,PG-13,7,Warner Bros.
+468,Night at the Museum: Secret of the Tomb,2014,Adventure|Comedy|Family,98,USA,en,127000000,363200000,9000000,Cinema,6,PG,1,20th Century Fox
+469,The Great Gatsby,2013,Drama|Romance,143,Australia|USA,en,105000000,353600000,10000000,Cinema,3,PG-13,2,Warner Bros.
+470,Dumbo,2019,Adventure|Family|Fantasy,112,USA,en,170000000,353300000,6700000,Cinema,1,PG,1,Walt Disney Pictures
+471,Noah,2014,Action|Adventure|Drama,138,USA,en,125000000,359200000,9300000,Cinema,1,PG-13,2,Paramount Pictures
+472,Basic Instinct,1992,Drama|Mystery|Thriller,128,USA,en,49000000,352900000,16000000,Cinema,2,R,2,TriStar Pictures
+473,The Angry Birds Movie,2016,Animation|Action|Comedy,97,USA,en,73000000,352300000,8000000,Cinema,4,PG,1,Rovio Animation
+474,The Mask,1994,Action|Comedy|Fantasy,101,USA,en,23000000,351600000,20000000,Cinema,2,PG-13,3,New Line Cinema
+475,The Karate Kid,2010,Action|Drama|Family,140,USA|China,en,40000000,359100000,12000000,Cinema,3,PG,2,Columbia Pictures
+476,Murder on the Orient Express,2017,Crime|Drama|Mystery,114,USA,en,55000000,353000000,8800000,Cinema,4,PG-13,2,20th Century Fox
+477,Who Framed Roger Rabbit?,1988,Animation|Adventure|Comedy,104,USA,en,70000000,351500000,17000000,Cinema,4,PG,4,Touchstone Pictures
+478,Dr. Seuss’ The Lorax,2012,Animation|Adventure|Comedy,86,USA,en,70000000,349600000,10000000,Cinema,4,PG,1,Illumination Entertainment
+479,Alien: Romulus,2024,Horror|Sci-Fi,119,USA,en,100000000,340000000,250000,Cinema,2,R,0,20th Century Studios
+480,Hannibal,2001,Crime|Drama|Thriller,131,USA|UK,en,87000000,351692268,15000000,Cinema,1,R,3,MGM
+481,It Ends With Us,2024,Drama|Romance,131,USA,en,45000000,330000000,200000,Cinema,4,PG-13,0,Columbia Pictures
+482,Deep Impact,1998,Action|Drama|Sci-Fi,120,USA,en,80000000,349464664,17000000,Cinema,2,PG-13,1,Paramount Pictures
+483,Alvin and the Chipmunks: Chipwrecked,2011,Animation|Adventure|Comedy,87,USA,en,75000000,342700000,10000000,Cinema,4,G,1,20th Century Fox
+484,"I, Robot",2004,Action|Sci-Fi|Thriller,115,USA,en,120000000,353100000,13000000,Cinema,2,PG-13,1,20th Century Fox
+485,The Smurfs 2,2013,Animation|Adventure|Comedy,105,USA,en,105000000,347500000,9300000,Cinema,3,PG,1,Columbia Pictures
+486,The Maze Runner,2014,Action|Mystery|Sci-Fi,113,USA,en,34000000,348300000,9500000,Cinema,3,PG-13,2,20th Century Fox
+487,The Hunger Games: The Ballad of Songbirds & Snakes,2023,Action|Adventure|Drama,157,USA,en,100000000,337400000,500000,Cinema,8,PG-13,2,Lionsgate
+488,How the Grinch Stole Christmas,2000,Comedy|Family|Fantasy,104,USA,en,123000000,345823032,16000000,Cinema,5,PG,3,Imagine Entertainment
+489,Rush Hour 2,2001,Action|Comedy|Crime,90,USA|HongKong,en,90000000,347325802,15000000,Cinema,3,PG-13,1,New Line Cinema
+490,Pocahontas,1995,Animation|Adventure|Drama,81,USA,en,55000000,346100000,21000000,Cinema,1,G,2,Walt Disney Pictures
+491,Mary Poppins Returns,2018,Comedy|Family|Fantasy,130,USA|UK,en,130000000,349500000,6700000,Cinema,3,PG,4,Walt Disney Pictures
+492,xXx: Return of Xander Cage,2017,Action|Adventure|Thriller,107,USA,en,85000000,346100000,9500000,Cinema,4,PG-13,1,Paramount Pictures
+493,Over the Hedge,2006,Animation|Adventure|Comedy,83,USA,en,80000000,343400000,13000000,Cinema,3,PG,1,DreamWorks Animation
+494,Trolls,2016,Animation|Adventure|Comedy,92,USA,en,125000000,347000000,8000000,Cinema,1,PG,1,DreamWorks Animation
+495,Now You See Me,2013,Crime|Mystery|Thriller,115,USA|France,en,75000000,351700000,10000000,Cinema,3,PG-13,1,Summit Entertainment
+496,Wanted,2008,Action|Crime|Thriller,110,USA|Germany,en,75000000,342500000,13000000,Cinema,1,R,2,Universal Pictures
+497,Zhuo yao ji,2015,Adventure|Comedy|Fantasy,117,China,zh,50000000,385000000,300000,Cinema,3,PG,4,Edko Films
+498,Close Encounters of the Third Kind,1977,Drama|Sci-Fi,137,USA,en,20000000,342900000,24000000,Cinema,5,PG,3,Columbia Pictures
+499,Enchanted,2007,Animation|Comedy|Family,107,USA,en,85000000,340487652,11000000,Cinema,1,PG,2,Walt Disney Pictures
+500,Tomorrow Never Dies,1997,Action|Adventure|Thriller,119,UK|USA,en,110000000,339500000,19000000,Cinema,3,PG-13,1,Eon Productions

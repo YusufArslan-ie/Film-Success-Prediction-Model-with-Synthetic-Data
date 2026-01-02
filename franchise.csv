@@ -1,0 +1,501 @@
+film_id,is_sequel,sequel_number,franchise_name,franchise_total_films,franchise_avg_rating,in_universe_order
+1,FALSE,,,,,
+2,TRUE,4,Marvel Cinematic Universe,33,7.8,22
+3,TRUE,2,Avatar,5,7.9,2
+4,FALSE,,,,,
+5,TRUE,7,Star Wars,12,7.6,7
+6,TRUE,3,Marvel Cinematic Universe,33,7.8,21
+7,TRUE,2,Ne Zha,2,7.5,2
+8,TRUE,3,Marvel Cinematic Universe,33,7.8,27
+9,TRUE,2,Inside Out,2,8.0,2
+10,TRUE,4,Jurassic Park,6,6.9,4
+11,TRUE,2,The Lion King,2,7.0,2
+12,FALSE,,,,,
+13,TRUE,7,Fast & Furious,11,6.8,7
+14,TRUE,2,Top Gun,2,8.3,2
+15,TRUE,2,Frozen,2,7.3,2
+16,FALSE,,,,,
+17,TRUE,2,Marvel Cinematic Universe,33,7.8,13
+18,FALSE,,,,,
+19,TRUE,3,Deadpool,3,8.0,3
+20,FALSE,,,,,
+21,TRUE,8,Star Wars,12,7.6,8
+22,TRUE,8,Harry Potter,8,7.7,8
+23,TRUE,5,Jurassic Park,6,6.9,5
+24,FALSE,,,,,
+25,FALSE,,,,,
+26,TRUE,2,The Incredibles,2,8.0,2
+27,TRUE,3,Marvel Cinematic Universe,33,7.8,7
+28,TRUE,8,Fast & Furious,11,6.8,8
+29,TRUE,0,Despicable Me,5,7.0,0
+30,TRUE,3,Marvel Cinematic Universe,33,7.8,13
+31,FALSE,,,,,
+32,TRUE,2,Marvel Cinematic Universe,33,7.8,28
+33,FALSE,,,,,
+34,TRUE,3,The Lord of the Rings,3,8.9,3
+35,TRUE,3,Transformers,6,6.0,3
+36,TRUE,23,James Bond,25,7.1,23
+37,TRUE,4,Transformers,6,6.0,4
+38,TRUE,3,The Dark Knight Trilogy,3,8.7,3
+39,FALSE,,,,,
+40,TRUE,4,Toy Story,4,8.2,4
+41,TRUE,9,Star Wars,12,7.6,9
+42,TRUE,3,Toy Story,4,8.2,3
+43,TRUE,2,Pirates of the Caribbean,5,7.2,2
+44,TRUE,2,Moana,2,7.5,2
+45,FALSE,,,,,
+46,TRUE,3,Star Wars,12,7.6,3
+47,TRUE,1,Star Wars,12,7.6,1
+48,TRUE,4,Pirates of the Caribbean,5,7.2,4
+49,FALSE,,,,,
+50,TRUE,2,Lilo & Stitch,2,7.3,2
+51,TRUE,3,Despicable Me,5,7.0,3
+52,TRUE,1,Alice in Wonderland,2,6.5,1
+53,TRUE,2,Finding Nemo,2,8.0,2
+54,FALSE,,,,,
+55,TRUE,1,The Hobbit,3,7.5,1
+56,TRUE,2,The Dark Knight Trilogy,3,8.7,2
+57,TRUE,6,Jurassic Park,6,6.9,6
+58,FALSE,,,,,
+59,FALSE,,,,,
+60,TRUE,2,Despicable Me,5,7.0,2
+61,TRUE,4,Despicable Me,5,7.0,4
+62,TRUE,1,Harry Potter,8,7.7,1
+63,TRUE,2,Jumanji,3,6.9,2
+64,TRUE,3,Pirates of the Caribbean,5,7.2,3
+65,TRUE,2,The Hobbit,3,7.5,2
+66,FALSE,,,,,
+67,TRUE,2,Marvel Cinematic Universe,33,7.8,29
+68,FALSE,,,,,
+69,TRUE,7,Harry Potter,8,7.7,7
+70,TRUE,3,The Hobbit,3,7.5,3
+71,TRUE,2,Despicable Me,5,7.0,1
+72,TRUE,5,Harry Potter,8,7.7,5
+73,FALSE,,,,,
+74,TRUE,2,Shrek,4,7.4,2
+75,TRUE,6,Harry Potter,8,7.7,6
+76,TRUE,2,The Lord of the Rings,3,8.9,2
+77,TRUE,3,Star Wars,12,7.6,3
+78,TRUE,3,Spider-Man (Raimi),3,7.3,3
+79,TRUE,1,The Lord of the Rings,3,8.9,1
+80,TRUE,3,Ice Age,5,6.6,3
+81,FALSE,,,,,
+82,TRUE,4,Harry Potter,8,7.7,4
+83,TRUE,4,Ice Age,5,6.6,4
+84,FALSE,,,,,
+85,TRUE,24,James Bond,25,7.1,24
+86,TRUE,1,Marvel Cinematic Universe,33,7.8,26
+87,TRUE,2,Harry Potter,8,7.7,2
+88,TRUE,2,DC Extended Universe,15,6.6,2
+89,TRUE,2,Marvel Cinematic Universe,33,7.8,15
+90,TRUE,7,Jurassic Park,7,6.9,7
+91,TRUE,2,The Hunger Games,4,7.2,2
+92,TRUE,2,Black Panther,2,7.6,2
+93,FALSE,,,,,
+94,TRUE,3,Marvel Cinematic Universe,33,7.8,17
+95,FALSE,,,,,
+96,TRUE,3,Marvel Cinematic Universe,33,7.8,16
+97,FALSE,,,,,
+98,TRUE,2,Transformers,6,6.0,2
+99,TRUE,5,The Twilight Saga,5,5.9,5
+100,FALSE,,,,,
+101,FALSE,,,,,
+102,FALSE,,,,,
+103,TRUE,1,Independence Day,2,6.5,1
+104,TRUE,1,Fantastic Beasts,3,6.7,1
+105,TRUE,2,Wolf Warrior,2,6.8,2
+106,TRUE,1,The Battle at Lake Changjin,2,6.2,1
+107,TRUE,3,Shrek,4,7.4,3
+108,FALSE,,,,,
+109,TRUE,2,Spider-Man (Raimi),3,7.3,2
+110,FALSE,,,,,
+111,TRUE,5,Pirates of the Caribbean,5,7.2,5
+112,TRUE,3,Jumanji,3,6.9,3
+113,TRUE,6,Fast & Furious,11,6.8,6
+114,TRUE,4,Indiana Jones,5,7.7,4
+115,TRUE,6,Mission: Impossible,7,7.5,6
+116,TRUE,2,Deadpool,3,8.0,2
+117,TRUE,3,Harry Potter,8,7.7,3
+118,FALSE,,,,,
+119,TRUE,4,Star Wars,12,7.6,4
+120,FALSE,,,,,
+121,TRUE,1,Marvel Cinematic Universe,33,7.8,14
+122,TRUE,1,Robert Langdon,3,6.4,1
+123,TRUE,3,The Hunger Games,4,7.2,3
+124,TRUE,4,Marvel Cinematic Universe,33,7.8,18
+125,TRUE,9,Fast & Furious,11,6.8,9
+126,TRUE,25,James Bond,25,7.1,25
+127,TRUE,1,The Amazing Spider-Man,2,6.9,1
+128,TRUE,1,Maleficent,2,6.7,1
+129,FALSE,,,,,
+130,TRUE,4,Shrek,4,7.4,4
+131,FALSE,,,,,
+132,TRUE,3,DC Extended Universe,15,6.6,3
+133,TRUE,7,X-Men,13,7.0,7
+134,TRUE,3,Madagascar,3,6.8,3
+135,TRUE,2,Monsters Inc.,2,7.9,1
+136,FALSE,,,,,
+137,TRUE,2,The Matrix,4,7.2,2
+138,FALSE,,,,,
+139,TRUE,3,The Lion King,3,7.0,3
+140,TRUE,1,The Chronicles of Narnia,3,6.6,1
+141,TRUE,10,Fast & Furious,11,6.8,10
+142,TRUE,2,Dune,2,8.4,2
+143,TRUE,2,Marvel Cinematic Universe,33,7.8,12
+144,TRUE,11,Fast & Furious,11,6.8,11
+145,TRUE,2,Planet of the Apes (Reboot),3,7.6,2
+146,TRUE,2,The Amazing Spider-Man,2,6.9,2
+147,FALSE,,,,,
+148,TRUE,3,The Twilight Saga,5,5.9,3
+149,TRUE,1,It,2,7.3,1
+150,TRUE,4,Mission: Impossible,7,7.5,4
+151,TRUE,2,Spider-Verse,3,8.7,2
+152,TRUE,5,Mission: Impossible,7,7.5,5
+153,TRUE,2,The Twilight Saga,5,5.9,2
+154,FALSE,,,,,
+155,FALSE,,,,,
+156,TRUE,4,The Twilight Saga,5,5.9,4
+157,FALSE,,,,,
+158,TRUE,1,The Hunger Games,4,7.2,1
+159,TRUE,1,Marvel Cinematic Universe,33,7.8,11
+160,FALSE,,,,,
+161,TRUE,1,DC Extended Universe,15,6.6,1
+162,TRUE,2,Kung Fu Panda,3,7.5,2
+163,TRUE,5,DC Extended Universe,15,6.6,5
+164,TRUE,2,Star Wars,12,7.6,2
+165,TRUE,2,Fantastic Beasts,3,6.7,2
+166,FALSE,,,,,
+167,TRUE,3,Men in Black,4,6.8,3
+168,FALSE,,,,,
+169,TRUE,2,Ice Age,5,6.6,2
+170,FALSE,,,,,
+171,TRUE,4,The Hunger Games,4,7.2,4
+172,TRUE,2,Marvel Cinematic Universe,33,7.8,8
+173,FALSE,,,,,
+174,TRUE,3,Demon Slayer,3,8.4,3
+175,TRUE,3,How to Train Your Dragon,3,7.8,3
+176,TRUE,0,Charlie and the Chocolate Factory,2,7.0,0
+177,FALSE,,,,,
+178,FALSE,,,,,
+179,FALSE,,,,,
+180,TRUE,5,Fast & Furious,11,6.8,5
+181,FALSE,,,,,
+182,FALSE,,,,,
+183,FALSE,,,,,
+184,TRUE,2,Marvel Cinematic Universe,33,7.8,20
+185,FALSE,,,,,
+186,TRUE,2,Marvel Cinematic Universe,33,7.8,5
+187,FALSE,,,,,
+188,TRUE,2,Jurassic Park,6,6.9,2
+189,TRUE,0,DC Universe,15,6.6,0
+190,TRUE,2,How to Train Your Dragon,3,7.8,2
+191,TRUE,10,X-Men,13,7.0,10
+192,TRUE,1,The Wandering Earth,2,7.0,1
+193,FALSE,,,,,
+194,TRUE,5,Transformers,6,6.0,5
+195,TRUE,2,Madagascar,3,6.8,2
+196,TRUE,21,James Bond,25,7.1,21
+197,TRUE,22,James Bond,25,7.1,22
+198,TRUE,7,Mission: Impossible,7,7.5,7
+199,FALSE,,,,,
+200,TRUE,2,The Hangover,3,6.7,2
+201,FALSE,,,,,
+202,TRUE,1,Marvel Cinematic Universe,33,7.8,1
+203,FALSE,,,,,
+204,FALSE,,,,,
+205,FALSE,,,,,
+206,TRUE,1,Mamma Mia,2,6.5,1
+207,TRUE,1,Night at the Museum,3,6.4,1
+208,TRUE,1,The Croods,2,7.0,1
+209,TRUE,5,MonsterVerse,5,6.6,5
+210,TRUE,2,MonsterVerse,5,6.6,2
+211,TRUE,1,Fifty Shades,3,4.6,1
+212,TRUE,3,Detective Chinatown,3,6.2,3
+213,FALSE,,,,,
+214,TRUE,7,Mission: Impossible,7,7.5,7
+215,TRUE,1,The Smurfs,2,5.8,1
+216,FALSE,,,,,
+217,TRUE,2,Cars,3,6.6,2
+218,TRUE,0,King Kong,9,7.0,0
+219,TRUE,1,Madagascar,3,6.8,1
+220,TRUE,1,Ted,2,6.8,1
+221,FALSE,,,,,
+222,TRUE,0,Shrek,4,7.4,0
+223,FALSE,,,,,
+224,FALSE,,,,,
+225,TRUE,2,Mission: Impossible,7,7.5,2
+226,TRUE,5,Star Wars,12,7.6,5
+227,TRUE,4,Kung Fu Panda,4,7.5,4
+228,FALSE,,,,,
+229,TRUE,1,Despicable Me,5,7.0,1
+230,TRUE,2,Detective Chinatown,3,6.2,2
+231,TRUE,9,X-Men,13,7.0,9
+232,FALSE,,,,,
+233,TRUE,2,Sherlock Holmes,2,7.4,2
+234,FALSE,,,,,
+235,FALSE,,,,,
+236,FALSE,,,,,
+237,TRUE,2,Wreck-It Ralph,2,7.1,2
+238,TRUE,1,The Meg,2,5.6,1
+239,TRUE,1,MonsterVerse,5,6.6,1
+240,FALSE,,,,,
+241,TRUE,1,The Boss Baby,2,6.0,1
+242,TRUE,3,Hotel Transylvania,4,6.7,3
+243,FALSE,,,,,
+244,FALSE,,,,,
+245,TRUE,1,Marvel Cinematic Universe,33,7.8,1
+246,TRUE,3,How to Train Your Dragon,3,7.8,3
+247,TRUE,3,Kung Fu Panda,4,7.5,3
+248,TRUE,1,Marvel Cinematic Universe,33,7.8,19
+249,FALSE,,,,,
+250,TRUE,2,The Wandering Earth,2,7.0,2
+251,TRUE,2,Meet the Parents,3,6.5,2
+252,TRUE,2,The Battle at Lake Changjin,2,6.2,2
+253,TRUE,2,Terminator,6,7.0,2
+254,TRUE,3,The Grinch,3,6.7,3
+255,TRUE,1,Demon Slayer,3,8.4,1
+256,TRUE,2,Toy Story,4,8.2,2
+257,FALSE,,,,,
+258,FALSE,,,,,
+259,TRUE,1,Aladdin,2,7.4,1
+260,TRUE,2,Venom,3,6.5,2
+261,FALSE,,,,,
+262,FALSE,,,,,
+263,TRUE,1,Jaws,4,6.5,1
+264,FALSE,,,,,
+265,TRUE,1,How to Train Your Dragon,3,7.8,1
+266,TRUE,1,Clash of the Titans,2,5.8,1
+267,FALSE,,,,,
+268,TRUE,2,Rio,2,6.7,2
+269,FALSE,,,,,
+270,TRUE,2,Robert Langdon,3,6.4,2
+271,TRUE,0,Oz,3,6.3,0
+272,TRUE,3,Sonic the Hedgehog,3,6.7,3
+273,TRUE,3,Planet of the Apes (Reboot),3,7.6,3
+274,TRUE,2,Maleficent,2,6.7,2
+275,FALSE,,,,,
+276,FALSE,,,,,
+277,FALSE,,,,,
+278,TRUE,5,Teenage Mutant Ninja Turtles,7,6.3,5
+279,FALSE,,,,,
+280,FALSE,,,,,
+281,FALSE,,,,,
+282,TRUE,2,Shrek,4,7.4,0
+283,FALSE,,,,,
+284,TRUE,6,Star Wars,12,7.6,6
+285,TRUE,1,Home Alone,6,6.5,1
+286,TRUE,3,Marvel Cinematic Universe,33,7.8,21
+287,TRUE,0,Charlie and the Chocolate Factory,2,7.0,0
+288,TRUE,2,Hotel Transylvania,4,6.7,2
+289,FALSE,,,,,
+290,TRUE,3,Venom,3,6.5,3
+291,TRUE,3,Indiana Jones,5,7.7,3
+292,TRUE,4,The Conjuring,4,7.1,4
+293,TRUE,2,It,2,7.3,2
+294,TRUE,1,Planet of the Apes (Reboot),3,7.6,1
+295,TRUE,4,MonsterVerse,5,6.6,4
+296,TRUE,1,The Lego Movie,4,7.2,1
+297,TRUE,12,Star Trek,13,7.2,12
+298,TRUE,1,The Matrix,4,7.2,1
+299,TRUE,1,The Hangover,3,6.7,1
+300,TRUE,6,Transformers,6,6.0,6
+301,TRUE,1,Cars,3,6.6,1
+302,TRUE,2,Gladiator,2,8.5,2
+303,FALSE,,,,,
+304,TRUE,3,X-Men,13,7.0,3
+305,FALSE,,,,,
+306,FALSE,,,,,
+307,TRUE,2,National Treasure,2,6.8,2
+308,FALSE,,,,,
+309,TRUE,4,Detective Chinatown,4,6.2,1
+310,FALSE,,,,,
+311,TRUE,2,Beetlejuice,2,7.0,2
+312,FALSE,,,,,
+313,FALSE,,,,,
+314,TRUE,1,Ocean’s,3,7.4,1
+315,FALSE,,,,,
+316,TRUE,1,Marvel Cinematic Universe,33,7.8,7
+317,FALSE,,,,,
+318,FALSE,,,,,
+319,TRUE,4,John Wick,4,7.6,4
+320,TRUE,2,The Secret Life of Pets,2,6.5,2
+321,TRUE,1,My Country Anthology,3,6.9,1
+322,FALSE,,,,,
+323,TRUE,3,Bourne,5,7.7,3
+324,TRUE,2,Alvin and the Chipmunks,4,5.5,2
+325,TRUE,2,Men in Black,4,6.8,2
+326,FALSE,,,,,
+327,TRUE,2,Aquaman,2,6.6,2
+328,TRUE,7,Transformers,7,6.0,7
+329,FALSE,,,,,
+330,FALSE,,,,,
+331,FALSE,,,,,
+332,TRUE,4,A Star Is Born,4,7.6,4
+333,FALSE,,,,,
+334,TRUE,2,The Mummy,3,6.4,2
+335,TRUE,1,Pokémon,23,6.5,1
+336,TRUE,3,Terminator,6,7.0,3
+337,FALSE,,,,,
+338,TRUE,1,Marvel Cinematic Universe,33,7.8,25
+339,TRUE,5,Terminator,6,7.0,5
+340,TRUE,20,James Bond,25,7.1,20
+341,FALSE,,,,,
+342,FALSE,,,,,
+343,TRUE,1,Dune,2,8.4,1
+344,TRUE,1,The Exorcist,6,7.1,1
+345,FALSE,,,,,
+346,FALSE,,,,,
+347,TRUE,3,The Matrix,4,7.2,3
+348,FALSE,,,,,
+349,FALSE,,,,,
+350,TRUE,3,Bad Boys,3,6.7,3
+351,FALSE,,,,,
+352,TRUE,2,Pegasus,2,6.5,2
+353,TRUE,1,The Mummy,3,6.4,1
+354,TRUE,3,The Chronicles of Narnia,3,6.6,3
+355,TRUE,2,The Chronicles of Narnia,3,6.6,2
+356,TRUE,6,X-Men,13,7.0,6
+357,TRUE,5,Bourne,5,7.7,5
+358,TRUE,1,Sex and the City,2,5.6,1
+359,TRUE,4,Marvel Cinematic Universe,33,7.8,11
+360,TRUE,1,Batman,16,7.3,1
+361,FALSE,,,,,
+362,TRUE,1,Pacific Rim,2,6.8,1
+363,FALSE,,,,,
+364,TRUE,4,The Mummy,4,6.0,4
+365,TRUE,2,Kingsman,3,7.0,2
+366,FALSE,,,,,
+367,TRUE,3,Fantastic Beasts,3,6.7,3
+368,FALSE,,,,,
+369,TRUE,2,X-Men,13,7.0,2
+370,TRUE,3,The Mummy,3,6.4,3
+371,TRUE,1,Kingsman,3,7.0,1
+372,TRUE,2,Sing,2,7.0,2
+373,TRUE,2,Sonic the Hedgehog,3,6.7,2
+374,TRUE,5,Alien,9,7.4,5
+375,TRUE,1,The Twilight Saga,5,5.9,1
+376,TRUE,2,Night at the Museum,3,6.4,2
+377,TRUE,5,Ice Age,5,6.6,5
+378,FALSE,,,,,
+379,TRUE,1,Marvel Cinematic Universe,33,7.8,28
+380,TRUE,1,Snow White,2,6.1,1
+381,TRUE,4,Bad Boys,4,6.7,4
+382,TRUE,2,Tron,2,6.8,2
+383,TRUE,3,Mission: Impossible,7,7.5,3
+384,TRUE,2,The Meg,2,5.6,2
+385,TRUE,4,Planet of the Apes (Reboot),4,7.6,4
+386,TRUE,2,Mamma Mia,2,6.5,2
+387,FALSE,,,,,
+388,FALSE,,,,,
+389,TRUE,5,DC Extended Universe,15,6.6,5
+390,TRUE,1,Star Wars Stories,2,6.8,1
+391,TRUE,5,Superman,7,6.6,5
+392,FALSE,,,,,
+393,FALSE,,,,,
+394,FALSE,,,,,
+395,TRUE,1,Back to the Future,3,8.3,1
+396,TRUE,3,MonsterVerse,5,6.6,3
+397,TRUE,11,Star Trek,13,7.2,11
+398,TRUE,1,Ice Age,5,6.6,1
+399,FALSE,,,,,
+400,TRUE,1,Happy Feet,2,6.8,1
+401,TRUE,2,Independence Day,2,6.5,2
+402,TRUE,5,Indiana Jones,5,7.7,5
+403,FALSE,,,,,
+404,FALSE,,,,,
+405,TRUE,3,Cars,3,6.6,3
+406,TRUE,1,Marvel Cinematic Universe,33,7.8,31
+407,TRUE,4,Die Hard,5,7.2,4
+408,FALSE,,,,,
+409,TRUE,2,Fifty Shades,3,4.6,2
+410,TRUE,4,Mad Max,4,7.4,4
+411,TRUE,24,Marvel Cinematic Universe,33,7.8,24
+412,TRUE,2,Taken,3,6.6,2
+413,FALSE,,,,,
+414,TRUE,1,Hotel Transylvania,4,6.7,1
+415,TRUE,2,Godzilla,8,6.2,2
+416,TRUE,2,G.I. Joe,2,5.7,2
+417,FALSE,,,,,
+418,TRUE,1,My Big Fat Greek Wedding,3,6.1,1
+419,TRUE,5,X-Men,13,7.0,5
+420,FALSE,,,,,
+421,FALSE,,,,,
+422,TRUE,1,Spider-Verse,3,8.7,1
+423,FALSE,,,,,
+424,FALSE,,,,,
+425,TRUE,2,Twister,2,6.4,2
+426,TRUE,3,Fifty Shades,3,4.6,3
+427,FALSE,,,,,
+428,TRUE,1,Marvel Cinematic Universe,33,7.8,6
+429,FALSE,,,,,
+430,TRUE,1,Indiana Jones,5,7.7,1
+431,TRUE,1,His Dark Materials,3,6.0,1
+432,FALSE,,,,,
+433,FALSE,,,,,
+434,TRUE,3,Madagascar,3,6.8,3
+435,FALSE,,,,,
+436,FALSE,,,,,
+437,FALSE,,,,,
+438,TRUE,3,Die Hard,5,7.2,3
+439,TRUE,5,The Conjuring,6,7.1,5
+440,TRUE,7,DC Extended Universe,15,6.6,7
+441,TRUE,3,Jurassic Park,6,6.9,3
+442,TRUE,4,Terminator,6,7.0,4
+443,FALSE,,,,,
+444,FALSE,,,,,
+445,FALSE,,,,,
+446,TRUE,2,Ocean’s,3,7.4,2
+447,TRUE,1,Alvin and the Chipmunks,4,5.5,1
+448,TRUE,7,Planet of the Apes,10,7.1,7
+449,TRUE,3,The Hangover,3,6.7,3
+450,TRUE,19,James Bond,25,7.1,19
+451,TRUE,2,Monster Hunt,2,6.9,2
+452,TRUE,4,Fast & Furious,11,6.8,4
+453,TRUE,2,Home Alone,6,6.5,2
+454,FALSE,,,,,
+455,FALSE,,,,,
+456,TRUE,1,Peter Rabbit,2,6.5,1
+457,FALSE,,,,,
+458,TRUE,0,Tarzan,6,7.0,0
+459,TRUE,1,The Dark Knight Trilogy,3,8.7,1
+460,TRUE,17,James Bond,25,7.1,17
+461,FALSE,,,,,
+462,FALSE,,,,,
+463,TRUE,2,My Country Anthology,3,6.9,2
+464,FALSE,,,,,
+465,TRUE,5,X-Men,13,7.0,5
+466,FALSE,,,,,
+467,FALSE,,,,,
+468,TRUE,3,Night at the Museum,3,6.4,3
+469,FALSE,,,,,
+470,TRUE,2,Dumbo,2,6.0,2
+471,FALSE,,,,,
+472,TRUE,1,Basic Instinct,2,6.5,1
+473,TRUE,1,The Angry Birds,2,6.3,1
+474,FALSE,,,,,
+475,TRUE,5,The Karate Kid,5,6.9,5
+476,TRUE,1,Hercule Poirot,3,6.5,1
+477,FALSE,,,,,
+478,TRUE,1,Dr. Seuss,3,6.7,1
+479,TRUE,9,Alien,9,7.4,9
+480,TRUE,2,The Silence of the Lambs,5,7.4,2
+481,FALSE,,,,,
+482,FALSE,,,,,
+483,TRUE,3,Alvin and the Chipmunks,4,5.5,3
+484,FALSE,,,,,
+485,TRUE,2,The Smurfs,2,5.8,2
+486,TRUE,1,The Maze Runner,3,6.4,1
+487,TRUE,0,The Hunger Games,5,7.2,0
+488,TRUE,2,The Grinch,3,6.7,2
+489,TRUE,2,Rush Hour,3,6.9,2
+490,FALSE,,,,,
+491,TRUE,2,Mary Poppins,2,7.0,2
+492,TRUE,3,xXx,3,5.8,3
+493,FALSE,,,,,
+494,TRUE,1,Trolls,3,6.5,1
+495,TRUE,1,Now You See Me,2,6.7,1
+496,FALSE,,,,,
+497,TRUE,1,Monster Hunt,2,6.9,1
+498,FALSE,,,,,
+499,TRUE,1,Enchanted,2,7.0,1
+500,TRUE,18,James Bond,25,7.1,18

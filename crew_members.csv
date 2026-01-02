@@ -1,0 +1,4192 @@
+crew_id,film_id,person_name,job_title,department,award_won_for_film
+1,1,James Cameron,Director,Directing,TRUE
+2,1,James Cameron,Writer,Writing,FALSE
+3,1,Jon Landau,Producer,Production,FALSE
+4,1,James Horner,Composer,Sound,TRUE
+5,1,Mauro Fiore,Cinematographer,Camera,TRUE
+6,1,John Refoua,Editor,Editing,FALSE
+7,1,Rick Carter,Art Director,Art,FALSE
+8,1,Joe Letteri,Visual Effects Supervisor,VisualEffects,TRUE
+
+9,2,Anthony Russo,Director,Directing,FALSE
+10,2,Joe Russo,Director,Directing,FALSE
+11,2,Christopher Markus,Writer,Writing,FALSE
+12,2,Stephen McFeely,Writer,Writing,FALSE
+13,2,Kevin Feige,Producer,Production,TRUE
+14,2,Alan Silvestri,Composer,Sound,FALSE
+15,2,Trent Opaloch,Cinematographer,Camera,FALSE
+16,2,Dan DeLeeuw,Visual Effects Supervisor,VisualEffects,TRUE
+
+17,3,James Cameron,Director,Directing,FALSE
+18,3,James Cameron,Writer,Writing,FALSE
+19,3,Jon Landau,Producer,Production,FALSE
+20,3,Simon Franglen,Composer,Sound,FALSE
+21,3,Russell Carpenter,Cinematographer,Camera,FALSE
+22,3,Dylan Cole,Production Designer,Art,FALSE
+23,3,Joe Letteri,Visual Effects Supervisor,VisualEffects,TRUE
+24,3,Stephen Rivkin,Editor,Editing,FALSE
+
+25,4,James Cameron,Director,Directing,TRUE
+26,4,James Cameron,Writer,Writing,TRUE
+27,4,Jon Landau,Producer,Production,TRUE
+28,4,James Horner,Composer,Sound,TRUE
+29,4,Russell Carpenter,Cinematographer,Camera,TRUE
+30,4,Conrad Buff,Editor,Editing,TRUE
+31,4,Peter Lamont,Art Director,Art,TRUE
+32,4,Robert Legato,Visual Effects Supervisor,VisualEffects,TRUE
+
+33,5,J.J. Abrams,Director,Directing,FALSE
+34,5,Lawrence Kasdan,Writer,Writing,FALSE
+35,5,Michael Arndt,Writer,Writing,FALSE
+36,5,Kathleen Kennedy,Producer,Production,FALSE
+37,5,John Williams,Composer,Sound,FALSE
+38,5,Dan Mindel,Cinematographer,Camera,FALSE
+39,5,Maryann Brandon,Editor,Editing,FALSE
+40,5,Rick Carter,Production Designer,Art,FALSE
+
+41,6,Anthony Russo,Director,Directing,FALSE
+42,6,Joe Russo,Director,Directing,FALSE
+43,6,Christopher Markus,Writer,Writing,FALSE
+44,6,Stephen McFeely,Writer,Writing,FALSE
+45,6,Kevin Feige,Producer,Production,FALSE
+46,6,Alan Silvestri,Composer,Sound,FALSE
+47,6,Trent Opaloch,Cinematographer,Camera,FALSE
+48,6,Dan DeLeeuw,Visual Effects Supervisor,VisualEffects,FALSE
+
+49,7,Yang Yu (Jiaozi),Director,Directing,FALSE
+50,7,Yang Yu (Jiaozi),Writer,Writing,FALSE
+51,7,Light Chaser Animation Studios,Producer,Production,FALSE
+52,7,Wei Dong Liu,Composer,Sound,FALSE
+53,7,Chen Li,Cinematographer,Camera,FALSE
+54,7,Sun Nan,Art Director,Art,FALSE
+55,7,Zhang Lei,Visual Effects Supervisor,VisualEffects,FALSE
+
+56,8,Jon Watts,Director,Directing,FALSE
+57,8,Chris McKenna,Writer,Writing,FALSE
+58,8,Erik Sommers,Writer,Writing,FALSE
+59,8,Amy Pascal,Producer,Production,FALSE
+60,8,Michael Giacchino,Composer,Sound,FALSE
+61,8,Mauro Fiore,Cinematographer,Camera,FALSE
+62,8,Jeffrey Ford,Editor,Editing,FALSE
+63,8,Dan Sudick,Visual Effects Supervisor,VisualEffects,FALSE
+
+64,9,Kelsey Mann,Director,Directing,FALSE
+65,9,Meg LeFauve,Writer,Writing,FALSE
+66,9,Mark Nielsen,Producer,Production,FALSE
+67,9,Andrea Datzman,Composer,Sound,FALSE
+68,9,Adam Habib,Cinematographer,Camera,FALSE
+69,9,Ralph Eggleston,Art Director,Art,FALSE
+70,9,Kevin Nolting,Editor,Editing,FALSE
+71,9,Danielle Feinberg,Visual Effects Supervisor,VisualEffects,FALSE
+
+72,10,Colin Trevorrow,Director,Directing,FALSE
+73,10,Rick Jaffa,Writer,Writing,FALSE
+74,10,Amanda Silver,Writer,Writing,FALSE
+75,10,Frank Marshall,Producer,Production,FALSE
+76,10,Michael Giacchino,Composer,Sound,FALSE
+77,10,John Schwartzman,Cinematographer,Camera,FALSE
+78,10,Kevin Stitt,Editor,Editing,FALSE
+79,10,Tim Alexander,Visual Effects Supervisor,VisualEffects,FALSE
+80,11,Jon Favreau,Director,Directing,FALSE
+81,11,Jeff Nathanson,Writer,Writing,FALSE
+82,11,Karen Gilchrist,Producer,Production,FALSE
+83,11,Hans Zimmer,Composer,Sound,FALSE
+84,11,Caleb Deschanel,Cinematographer,Camera,FALSE
+85,11,Mark Livolsi,Editor,Editing,FALSE
+86,11,James Chinlund,Production Designer,Art,FALSE
+87,11,Robert Legato,Visual Effects Supervisor,VisualEffects,FALSE
+
+88,12,Joss Whedon,Director,Directing,FALSE
+89,12,Joss Whedon,Writer,Writing,FALSE
+90,12,Kevin Feige,Producer,Production,FALSE
+91,12,Alan Silvestri,Composer,Sound,FALSE
+92,12,Seamus McGarvey,Cinematographer,Camera,FALSE
+93,12,Jeffrey Ford,Editor,Editing,FALSE
+94,12,James Chinlund,Production Designer,Art,FALSE
+95,12,Janek Sirrs,Visual Effects Supervisor,VisualEffects,TRUE
+
+96,13,James Wan,Director,Directing,FALSE
+97,13,Chris Morgan,Writer,Writing,FALSE
+98,13,Vin Diesel,Producer,Production,FALSE
+99,13,Brian Tyler,Composer,Sound,FALSE
+100,13,Marc Spicer,Cinematographer,Camera,FALSE
+101,13,Christian Wagner,Editor,Editing,FALSE
+102,13,Bill Brzeski,Production Designer,Art,FALSE
+103,13,Dan Sudick,Visual Effects Supervisor,VisualEffects,FALSE
+
+104,14,Joseph Kosinski,Director,Directing,FALSE
+105,14,Christopher McQuarrie,Writer,Writing,FALSE
+106,14,Jerry Bruckheimer,Producer,Production,TRUE
+107,14,Hans Zimmer,Composer,Sound,FALSE
+108,14,Claudio Miranda,Cinematographer,Camera,TRUE
+109,14,Eddie Hamilton,Editor,Editing,TRUE
+110,14,Jeremy Hindle,Production Designer,Art,FALSE
+111,14,Ryan Tudhope,Visual Effects Supervisor,VisualEffects,FALSE
+
+112,15,Chris Buck,Director,Directing,FALSE
+113,15,Jennifer Lee,Director,Directing,FALSE
+114,15,Jennifer Lee,Writer,Writing,FALSE
+115,15,Peter Del Vecho,Producer,Production,FALSE
+116,15,Christophe Beck,Composer,Sound,FALSE
+117,15,Mohit Kallianpur,Cinematographer,Camera,FALSE
+118,15,Jeff Draheim,Editor,Editing,FALSE
+119,15,Michael Giaimo,Production Designer,Art,FALSE
+
+120,16,Greta Gerwig,Director,Directing,FALSE
+121,16,Greta Gerwig,Writer,Writing,FALSE
+122,16,Noah Baumbach,Writer,Writing,FALSE
+123,16,David Heyman,Producer,Production,FALSE
+124,16,Mark Ronson,Composer,Sound,FALSE
+125,16,Rodrigo Prieto,Cinematographer,Camera,FALSE
+126,16,Nick Houy,Editor,Editing,FALSE
+127,16,Sarah Greenwood,Production Designer,Art,FALSE
+
+128,17,Joss Whedon,Director,Directing,FALSE
+129,17,Joss Whedon,Writer,Writing,FALSE
+130,17,Kevin Feige,Producer,Production,FALSE
+131,17,Danny Elfman,Composer,Sound,FALSE
+132,17,Ben Davis,Cinematographer,Camera,FALSE
+133,17,Jeffrey Ford,Editor,Editing,FALSE
+134,17,Charles Wood,Production Designer,Art,FALSE
+135,17,Christopher Townsend,Visual Effects Supervisor,VisualEffects,FALSE
+
+136,18,Aaron Horvath,Director,Directing,FALSE
+137,18,Michael Jelenic,Director,Directing,FALSE
+138,18,Matthew Fogel,Writer,Writing,FALSE
+139,18,Chris Meledandri,Producer,Production,FALSE
+140,18,Brian Tyler,Composer,Sound,FALSE
+141,18,Renato Falcão,Cinematographer,Camera,FALSE
+142,18,Eric Osmond,Editor,Editing,FALSE
+143,18,Aaron Draplin,Production Designer,Art,FALSE
+
+144,19,Shawn Levy,Director,Directing,FALSE
+145,19,Rhett Reese,Writer,Writing,FALSE
+146,19,Paul Wernick,Writer,Writing,FALSE
+147,19,Kevin Feige,Producer,Production,FALSE
+148,19,Rob Simonsen,Composer,Sound,FALSE
+149,19,George Richmond,Cinematographer,Camera,FALSE
+150,19,Dean Zimmerman,Editor,Editing,FALSE
+151,19,Dan Glass,Visual Effects Supervisor,VisualEffects,FALSE
+
+152,20,Ryan Coogler,Director,Directing,TRUE
+153,20,Ryan Coogler,Writer,Writing,TRUE
+154,20,Kevin Feige,Producer,Production,TRUE
+155,20,Ludwig Göransson,Composer,Sound,TRUE
+156,20,Rachel Morrison,Cinematographer,Camera,TRUE
+157,20,Michael P. Shawver,Editor,Editing,FALSE
+158,20,Hannah Beachler,Production Designer,Art,TRUE
+159,20,Geoffrey Baumann,Visual Effects Supervisor,VisualEffects,FALSE
+160,21,Rian Johnson,Director,Directing,FALSE
+161,21,Rian Johnson,Writer,Writing,FALSE
+162,21,Kathleen Kennedy,Producer,Production,FALSE
+163,21,John Williams,Composer,Sound,FALSE
+164,21,Steve Yedlin,Cinematographer,Camera,FALSE
+165,21,Bob Ducsay,Editor,Editing,FALSE
+166,21,Rick Heinrichs,Production Designer,Art,FALSE
+167,21,Ben Morris,Visual Effects Supervisor,VisualEffects,FALSE
+
+168,22,David Yates,Director,Directing,FALSE
+169,22,Steve Kloves,Writer,Writing,FALSE
+170,22,David Heyman,Producer,Production,FALSE
+171,22,Alexandre Desplat,Composer,Sound,TRUE
+172,22,Eduardo Serra,Cinematographer,Camera,FALSE
+173,22,Mark Day,Editor,Editing,FALSE
+174,22,Stuart Craig,Production Designer,Art,TRUE
+175,22,Tim Burke,Visual Effects Supervisor,VisualEffects,FALSE
+
+176,23,J.A. Bayona,Director,Directing,FALSE
+177,23,Colin Trevorrow,Writer,Writing,FALSE
+178,23,Derek Connolly,Writer,Writing,FALSE
+179,23,Frank Marshall,Producer,Production,FALSE
+180,23,Michael Giacchino,Composer,Sound,FALSE
+181,23,Óscar Faura,Cinematographer,Camera,FALSE
+182,23,Bernat Vilaplana,Editor,Editing,FALSE
+183,23,Andy Nicholson,Production Designer,Art,FALSE
+
+184,24,Chris Buck,Director,Directing,TRUE
+185,24,Jennifer Lee,Director,Directing,TRUE
+186,24,Jennifer Lee,Writer,Writing,TRUE
+187,24,Peter Del Vecho,Producer,Production,TRUE
+188,24,Christophe Beck,Composer,Sound,TRUE
+189,24,Mohit Kallianpur,Cinematographer,Camera,FALSE
+190,24,Jeff Draheim,Editor,Editing,TRUE
+191,24,Michael Giaimo,Production Designer,Art,TRUE
+
+192,25,Bill Condon,Director,Directing,FALSE
+193,25,Stephen Chbosky,Writer,Writing,FALSE
+194,25,Evan Spiliotopoulos,Writer,Writing,FALSE
+195,25,David Hoberman,Producer,Production,FALSE
+196,25,Alan Menken,Composer,Sound,FALSE
+197,25,Tobias A. Schliessler,Cinematographer,Camera,FALSE
+198,25,Virginia Katz,Editor,Editing,FALSE
+199,25,Sarah Greenwood,Production Designer,Art,FALSE
+
+200,26,Brad Bird,Director,Directing,FALSE
+201,26,Brad Bird,Writer,Writing,FALSE
+202,26,John Walker,Producer,Production,FALSE
+203,26,Michael Giacchino,Composer,Sound,FALSE
+204,26,Erik Smitt,Cinematographer,Camera,FALSE
+205,26,Stephen Schaffer,Editor,Editing,FALSE
+206,26,Ralph Eggleston,Production Designer,Art,FALSE
+207,26,Brad Bird,Visual Effects Supervisor,VisualEffects,FALSE
+
+208,27,Shane Black,Director,Directing,FALSE
+209,27,Drew Pearce,Writer,Writing,FALSE
+210,27,Kevin Feige,Producer,Production,FALSE
+211,27,Brian Tyler,Composer,Sound,FALSE
+212,27,John Toll,Cinematographer,Camera,FALSE
+213,27,Peter S. Elliot,Editor,Editing,FALSE
+214,27,Bill Brzeski,Production Designer,Art,FALSE
+215,27,Chris Townsend,Visual Effects Supervisor,VisualEffects,FALSE
+
+216,28,F. Gary Gray,Director,Directing,FALSE
+217,28,Chris Morgan,Writer,Writing,FALSE
+218,28,Neal H. Moritz,Producer,Production,FALSE
+219,28,Brian Tyler,Composer,Sound,FALSE
+220,28,Stephen F. Windon,Cinematographer,Camera,FALSE
+221,28,Paul Rubell,Editor,Editing,FALSE
+222,28,Bill Brzeski,Production Designer,Art,FALSE
+223,28,Dan Sudick,Visual Effects Supervisor,VisualEffects,FALSE
+
+224,29,Kyle Balda,Director,Directing,FALSE
+225,29,Pierre Coffin,Director,Directing,FALSE
+226,29,Brian Lynch,Writer,Writing,FALSE
+227,29,Chris Meledandri,Producer,Production,FALSE
+228,29,Heitor Pereira,Composer,Sound,FALSE
+229,29,Samuel Tourneux,Cinematographer,Camera,FALSE
+230,29,Claire Dodgson,Editor,Editing,FALSE
+231,29,Eric Guillon,Production Designer,Art,FALSE
+
+232,30,Anthony Russo,Director,Directing,FALSE
+233,30,Joe Russo,Director,Directing,FALSE
+234,30,Christopher Markus,Writer,Writing,FALSE
+235,30,Stephen McFeely,Writer,Writing,FALSE
+236,30,Kevin Feige,Producer,Production,FALSE
+237,30,Henry Jackman,Composer,Sound,FALSE
+238,30,Trent Opaloch,Cinematographer,Camera,FALSE
+239,30,Jeffrey Ford,Editor,Editing,FALSE
+240,31,James Wan,Director,Directing,FALSE
+241,31,David Leslie Johnson-McGoldrick,Writer,Writing,FALSE
+242,31,Peter Safran,Producer,Production,FALSE
+243,31,Rupert Gregson-Williams,Composer,Sound,FALSE
+244,31,Don Burgess,Cinematographer,Camera,FALSE
+245,31,Kirk M. Morri,Editor,Editing,FALSE
+246,31,Bill Brzeski,Production Designer,Art,FALSE
+247,31,Kelvin McIlwain,Visual Effects Supervisor,VisualEffects,FALSE
+
+248,32,Jon Watts,Director,Directing,FALSE
+249,32,Chris McKenna,Writer,Writing,FALSE
+250,32,Erik Sommers,Writer,Writing,FALSE
+251,32,Amy Pascal,Producer,Production,FALSE
+252,32,Michael Giacchino,Composer,Sound,FALSE
+253,32,Matthew J. Lloyd,Cinematographer,Camera,FALSE
+254,32,Leigh Folsom Boyd,Editor,Editing,FALSE
+255,32,Dan Sudick,Visual Effects Supervisor,VisualEffects,FALSE
+
+256,33,Anna Boden,Director,Directing,FALSE
+257,33,Ryan Fleck,Director,Directing,FALSE
+258,33,Anna Boden,Writer,Writing,FALSE
+259,33,Ryan Fleck,Writer,Writing,FALSE
+260,33,Kevin Feige,Producer,Production,FALSE
+261,33,Pinar Toprak,Composer,Sound,FALSE
+262,33,Ben Davis,Cinematographer,Camera,FALSE
+263,33,Debbie Berman,Editor,Editing,FALSE
+
+264,34,Peter Jackson,Director,Directing,TRUE
+265,34,Fran Walsh,Writer,Writing,TRUE
+266,34,Philippa Boyens,Writer,Writing,TRUE
+267,34,Barrie M. Osborne,Producer,Production,TRUE
+268,34,Howard Shore,Composer,Sound,TRUE
+269,34,Andrew Lesnie,Cinematographer,Camera,TRUE
+270,34,Jamie Selkirk,Editor,Editing,TRUE
+271,34,Richard Taylor,Visual Effects Supervisor,VisualEffects,TRUE
+
+272,35,Michael Bay,Director,Directing,FALSE
+273,35,Ehren Kruger,Writer,Writing,FALSE
+274,35,Lorenzo di Bonaventura,Producer,Production,FALSE
+275,35,Steve Jablonsky,Composer,Sound,FALSE
+276,35,Amir Mokri,Cinematographer,Camera,FALSE
+277,35,William Goldenberg,Editor,Editing,FALSE
+278,35,Nelson Coates,Production Designer,Art,FALSE
+279,35,Scott Farrar,Visual Effects Supervisor,VisualEffects,FALSE
+
+280,36,Sam Mendes,Director,Directing,TRUE
+281,36,Neal Purvis,Writer,Writing,FALSE
+282,36,Robert Wade,Writer,Writing,FALSE
+283,36,Barbara Broccoli,Producer,Production,TRUE
+284,36,Thomas Newman,Composer,Sound,FALSE
+285,36,Roger Deakins,Cinematographer,Camera,TRUE
+286,36,Stuart Baird,Editor,Editing,FALSE
+287,36,Chris Corbould,Visual Effects Supervisor,VisualEffects,TRUE
+
+288,37,Michael Bay,Director,Directing,FALSE
+289,37,Ehren Kruger,Writer,Writing,FALSE
+290,37,Lorenzo di Bonaventura,Producer,Production,FALSE
+291,37,Steve Jablonsky,Composer,Sound,FALSE
+292,37,Amir Mokri,Cinematographer,Camera,FALSE
+293,37,William Goldenberg,Editor,Editing,FALSE
+294,37,Jeff Mann,Production Designer,Art,FALSE
+295,37,Scott Farrar,Visual Effects Supervisor,VisualEffects,FALSE
+
+296,38,Christopher Nolan,Director,Directing,FALSE
+297,38,Jonathan Nolan,Writer,Writing,FALSE
+298,38,Emma Thomas,Producer,Production,FALSE
+299,38,Hans Zimmer,Composer,Sound,FALSE
+300,38,Wally Pfister,Cinematographer,Camera,TRUE
+301,38,Lee Smith,Editor,Editing,FALSE
+302,38,Nathan Crowley,Production Designer,Art,FALSE
+303,38,Paul Franklin,Visual Effects Supervisor,VisualEffects,TRUE
+
+304,39,Todd Phillips,Director,Directing,TRUE
+305,39,Todd Phillips,Writer,Writing,TRUE
+306,39,Scott Silver,Writer,Writing,TRUE
+307,39,Bradley Cooper,Producer,Production,TRUE
+308,39,Hildur Guðnadóttir,Composer,Sound,TRUE
+309,39,Laurence Sher,Cinematographer,Camera,FALSE
+310,39,Jeff Groth,Editor,Editing,TRUE
+311,39,Mark Friedberg,Production Designer,Art,FALSE
+
+312,40,Josh Cooley,Director,Directing,TRUE
+313,40,Andrew Stanton,Writer,Writing,FALSE
+314,40,Stephany Folsom,Writer,Writing,FALSE
+315,40,Mark Nielsen,Producer,Production,TRUE
+316,40,Randy Newman,Composer,Sound,TRUE
+317,40,Patrick Lin,Cinematographer,Camera,FALSE
+318,40,Axel Geddes,Editor,Editing,FALSE
+319,40,Bob Pauley,Production Designer,Art,FALSE
+
+320,41,J.J. Abrams,Director,Directing,FALSE
+321,41,Chris Terrio,Writer,Writing,FALSE
+322,41,Kathleen Kennedy,Producer,Production,FALSE
+323,41,John Williams,Composer,Sound,FALSE
+324,41,Dan Mindel,Cinematographer,Camera,FALSE
+325,41,Maryann Brandon,Editor,Editing,FALSE
+326,41,Rick Carter,Production Designer,Art,FALSE
+327,41,Roger Guyett,Visual Effects Supervisor,VisualEffects,FALSE
+
+328,42,Lee Unkrich,Director,Directing,TRUE
+329,42,Michael Arndt,Writer,Writing,TRUE
+330,42,Darla K. Anderson,Producer,Production,TRUE
+331,42,Randy Newman,Composer,Sound,TRUE
+332,42,Jeremy Lasky,Cinematographer,Camera,FALSE
+333,42,Ken Schretzmann,Editor,Editing,FALSE
+334,42,Bob Pauley,Production Designer,Art,FALSE
+335,42,Galyn Susman,Visual Effects Supervisor,VisualEffects,FALSE
+
+336,43,Gore Verbinski,Director,Directing,TRUE
+337,43,Ted Elliott,Writer,Writing,FALSE
+338,43,Terry Rossio,Writer,Writing,FALSE
+339,43,Jerry Bruckheimer,Producer,Production,TRUE
+340,43,Hans Zimmer,Composer,Sound,FALSE
+341,43,Dariusz Wolski,Cinematographer,Camera,FALSE
+342,43,Stephen Rivkin,Editor,Editing,FALSE
+343,43,John Myhre,Production Designer,Art,TRUE
+
+344,44,David Derrick Jr.,Director,Directing,FALSE
+345,44,Jason Hand,Director,Directing,FALSE
+346,44,Christina Chen,Writer,Writing,FALSE
+347,44,Osnat Shurer,Producer,Production,FALSE
+348,44,Lin-Manuel Miranda,Composer,Sound,FALSE
+349,44,Adolph Lusinsky,Cinematographer,Camera,FALSE
+350,44,Jeff Draheim,Editor,Editing,FALSE
+351,44,Ian Gooding,Production Designer,Art,FALSE
+
+352,45,Steven Spielberg,Director,Directing,TRUE
+353,45,Michael Crichton,Writer,Writing,TRUE
+354,45,David Koepp,Writer,Writing,TRUE
+355,45,Kathleen Kennedy,Producer,Production,TRUE
+356,45,John Williams,Composer,Sound,TRUE
+357,45,Dean Cundey,Cinematographer,Camera,TRUE
+358,45,Michael Kahn,Editor,Editing,TRUE
+359,45,Rick Carter,Production Designer,Art,TRUE
+
+360,46,Gareth Edwards,Director,Directing,FALSE
+361,46,Chris Weitz,Writer,Writing,FALSE
+362,46,Kathleen Kennedy,Producer,Production,FALSE
+363,46,Michael Giacchino,Composer,Sound,FALSE
+364,46,Greig Fraser,Cinematographer,Camera,FALSE
+365,46,Jabez Olssen,Editor,Editing,FALSE
+366,46,Doug Chiang,Production Designer,Art,FALSE
+367,46,John Knoll,Visual Effects Supervisor,VisualEffects,TRUE
+
+368,47,George Lucas,Director,Directing,FALSE
+369,47,George Lucas,Writer,Writing,FALSE
+370,47,Rick McCallum,Producer,Production,FALSE
+371,47,John Williams,Composer,Sound,FALSE
+372,47,David Tattersall,Cinematographer,Camera,FALSE
+373,47,Ben Burtt,Editor,Editing,FALSE
+374,47,Gavin Bocquet,Production Designer,Art,FALSE
+375,47,John Knoll,Visual Effects Supervisor,VisualEffects,FALSE
+
+376,48,Rob Marshall,Director,Directing,FALSE
+377,48,Ted Elliott,Writer,Writing,FALSE
+378,48,Terry Rossio,Writer,Writing,FALSE
+379,48,Jerry Bruckheimer,Producer,Production,FALSE
+380,48,Hans Zimmer,Composer,Sound,FALSE
+381,48,Dariusz Wolski,Cinematographer,Camera,FALSE
+382,48,David Brenner,Editor,Editing,FALSE
+383,48,John Myhre,Production Designer,Art,FALSE
+
+384,49,Guy Ritchie,Director,Directing,FALSE
+385,49,John August,Writer,Writing,FALSE
+386,49,Dan Lin,Producer,Production,FALSE
+387,49,Alan Menken,Composer,Sound,FALSE
+388,49,Alan Stewart,Cinematographer,Camera,FALSE
+389,49,James Herbert,Editor,Editing,FALSE
+390,49,Gemma Jackson,Production Designer,Art,FALSE
+391,49,Dan Lebental,Visual Effects Supervisor,VisualEffects,FALSE
+
+392,50,Dean Fleischer Camp,Director,Directing,FALSE
+393,50,Chris Kekaniokalani Bright,Writer,Writing,FALSE
+394,50,Dan Lin,Producer,Production,FALSE
+395,50,Mark Mancina,Composer,Sound,FALSE
+396,50,Adolph Lusinsky,Cinematographer,Camera,FALSE
+397,50,Jeff Draheim,Editor,Editing,FALSE
+398,50,Ian Gooding,Production Designer,Art,FALSE
+399,50,Eric Saindon,Visual Effects Supervisor,VisualEffects,FALSE
+400,51,Pierre Coffin,Director,Directing,FALSE
+401,51,Kyle Balda,Director,Directing,FALSE
+402,51,Ken Daurio,Writer,Writing,FALSE
+403,51,Chris Meledandri,Producer,Production,FALSE
+404,51,Heitor Pereira,Composer,Sound,FALSE
+405,51,Bruno Chauffard,Cinematographer,Camera,FALSE
+406,51,Claire Dodgson,Editor,Editing,FALSE
+407,51,Eric Guillon,Production Designer,Art,FALSE
+
+408,52,Tim Burton,Director,Directing,FALSE
+409,52,Linda Woolverton,Writer,Writing,FALSE
+410,52,Richard D. Zanuck,Producer,Production,FALSE
+411,52,Danny Elfman,Composer,Sound,FALSE
+412,52,Dariusz Wolski,Cinematographer,Camera,FALSE
+413,52,Chris Lebenzon,Editor,Editing,FALSE
+414,52,Robert Stromberg,Production Designer,Art,TRUE
+415,52,Ken Ralston,Visual Effects Supervisor,VisualEffects,TRUE
+
+416,53,Andrew Stanton,Director,Directing,FALSE
+417,53,Victoria Strouse,Writer,Writing,FALSE
+418,53,Lindsey Collins,Producer,Production,FALSE
+419,53,Thomas Newman,Composer,Sound,FALSE
+420,53,Jeremy Lasky,Cinematographer,Camera,FALSE
+421,53,Axel Geddes,Editor,Editing,FALSE
+422,53,Steve Pilcher,Production Designer,Art,FALSE
+423,53,Patrick Lin,Visual Effects Supervisor,VisualEffects,FALSE
+
+424,54,Byron Howard,Director,Directing,TRUE
+425,54,Rich Moore,Director,Directing,TRUE
+426,54,Jared Bush,Writer,Writing,TRUE
+427,54,Clark Spencer,Producer,Production,TRUE
+428,54,Michael Giacchino,Composer,Sound,TRUE
+429,54,Nathan Warner,Cinematographer,Camera,FALSE
+430,54,Fabienne Rawley,Editor,Editing,FALSE
+431,54,David Goetz,Production Designer,Art,FALSE
+
+432,55,Peter Jackson,Director,Directing,FALSE
+433,55,Fran Walsh,Writer,Writing,FALSE
+434,55,Philippa Boyens,Writer,Writing,FALSE
+435,55,Barrie M. Osborne,Producer,Production,FALSE
+436,55,Howard Shore,Composer,Sound,FALSE
+437,55,Andrew Lesnie,Cinematographer,Camera,FALSE
+438,55,Jabez Olssen,Editor,Editing,FALSE
+439,55,Dan Hennah,Production Designer,Art,FALSE
+
+440,56,Christopher Nolan,Director,Directing,TRUE
+441,56,Jonathan Nolan,Writer,Writing,TRUE
+442,56,Emma Thomas,Producer,Production,TRUE
+443,56,Hans Zimmer,Composer,Sound,TRUE
+444,56,Wally Pfister,Cinematographer,Camera,TRUE
+445,56,Lee Smith,Editor,Editing,TRUE
+446,56,Nathan Crowley,Production Designer,Art,FALSE
+447,56,Paul Franklin,Visual Effects Supervisor,VisualEffects,TRUE
+
+448,57,Colin Trevorrow,Director,Directing,FALSE
+449,57,Emily Carmichael,Writer,Writing,FALSE
+450,57,Frank Marshall,Producer,Production,FALSE
+451,57,Michael Giacchino,Composer,Sound,FALSE
+452,57,John Schwartzman,Cinematographer,Camera,FALSE
+453,57,Mark Sanger,Editor,Editing,FALSE
+454,57,Kevin Jenkins,Production Designer,Art,FALSE
+455,57,David Vickery,Visual Effects Supervisor,VisualEffects,FALSE
+
+456,58,Roger Allers,Director,Directing,TRUE
+457,58,Rob Minkoff,Director,Directing,TRUE
+458,58,Irene Mecchi,Writer,Writing,TRUE
+459,58,Don Hahn,Producer,Production,TRUE
+460,58,Hans Zimmer,Composer,Sound,TRUE
+461,58,Andy Gaskill,Cinematographer,Camera,FALSE
+462,58,Irene Mecchi,Editor,Editing,FALSE
+463,58,Chris Sanders,Production Designer,Art,FALSE
+
+464,59,Christopher Nolan,Director,Directing,TRUE
+465,59,Christopher Nolan,Writer,Writing,TRUE
+466,59,Emma Thomas,Producer,Production,TRUE
+467,59,Ludwig Göransson,Composer,Sound,TRUE
+468,59,Hoyte van Hoytema,Cinematographer,Camera,TRUE
+469,59,Jennifer Lame,Editor,Editing,TRUE
+470,59,Ruth De Jong,Production Designer,Art,TRUE
+471,59,Andrew Jackson,Visual Effects Supervisor,VisualEffects,TRUE
+
+472,60,Pierre Coffin,Director,Directing,FALSE
+473,60,Chris Renaud,Director,Directing,FALSE
+474,60,Ken Daurio,Writer,Writing,FALSE
+475,60,Chris Meledandri,Producer,Production,FALSE
+476,60,Heitor Pereira,Composer,Sound,FALSE
+477,60,Bruno Chauffard,Cinematographer,Camera,FALSE
+478,60,Greg Perler,Editor,Editing,FALSE
+479,60,Eric Guillon,Production Designer,Art,FALSE
+
+480,61,Chris Renaud,Director,Directing,FALSE
+481,61,Patrick Delage,Director,Directing,FALSE
+482,61,Mike White,Writer,Writing,FALSE
+483,61,Chris Meledandri,Producer,Production,FALSE
+484,61,Heitor Pereira,Composer,Sound,FALSE
+485,61,Bruno Chauffard,Cinematographer,Camera,FALSE
+486,61,Greg Perler,Editor,Editing,FALSE
+487,61,Eric Guillon,Production Designer,Art,FALSE
+
+488,62,Chris Columbus,Director,Directing,FALSE
+489,62,Steve Kloves,Writer,Writing,FALSE
+490,62,David Heyman,Producer,Production,FALSE
+491,62,John Williams,Composer,Sound,FALSE
+492,62,John Seale,Cinematographer,Camera,FALSE
+493,62,Richard Francis-Bruce,Editor,Editing,FALSE
+494,62,Stuart Craig,Production Designer,Art,FALSE
+495,62,Nick Dudman,Visual Effects Supervisor,VisualEffects,FALSE
+
+496,63,Jake Kasdan,Director,Directing,FALSE
+497,63,Chris McKenna,Writer,Writing,FALSE
+498,63,Scott Rosenberg,Writer,Writing,FALSE
+499,63,Matt Tolmach,Producer,Production,FALSE
+500,63,Henry Jackman,Composer,Sound,FALSE
+501,63,Gyula Pados,Cinematographer,Camera,FALSE
+502,63,Mark Helfrich,Editor,Editing,FALSE
+503,63,Owen Paterson,Production Designer,Art,FALSE
+
+504,64,Gore Verbinski,Director,Directing,FALSE
+505,64,Ted Elliott,Writer,Writing,FALSE
+506,64,Terry Rossio,Writer,Writing,FALSE
+507,64,Jerry Bruckheimer,Producer,Production,FALSE
+508,64,Hans Zimmer,Composer,Sound,FALSE
+509,64,Dariusz Wolski,Cinematographer,Camera,FALSE
+510,64,Stephen Rivkin,Editor,Editing,FALSE
+511,64,Rick Heinrichs,Production Designer,Art,FALSE
+
+512,65,Peter Jackson,Director,Directing,FALSE
+513,65,Fran Walsh,Writer,Writing,FALSE
+514,65,Philippa Boyens,Writer,Writing,FALSE
+515,65,Carolynne Cunningham,Producer,Production,FALSE
+516,65,Howard Shore,Composer,Sound,FALSE
+517,65,Andrew Lesnie,Cinematographer,Camera,FALSE
+518,65,Jabez Olssen,Editor,Editing,FALSE
+519,65,Dan Hennah,Production Designer,Art,FALSE
+
+520,66,Jared Hess,Director,Directing,FALSE
+521,66,Chris Bowman,Writer,Writing,FALSE
+522,66,Hubbel Palmer,Writer,Writing,FALSE
+523,66,Mary Parent,Producer,Production,FALSE
+524,66,Mark Mothersbaugh,Composer,Sound,FALSE
+525,66,Eric Steelberg,Cinematographer,Camera,FALSE
+526,66,Tom Eagles,Editor,Editing,FALSE
+527,66,Grant Major,Production Designer,Art,FALSE
+
+528,67,Sam Raimi,Director,Directing,FALSE
+529,67,Michael Waldron,Writer,Writing,FALSE
+530,67,Kevin Feige,Producer,Production,FALSE
+531,67,Danny Elfman,Composer,Sound,FALSE
+532,67,John Mathieson,Cinematographer,Camera,FALSE
+533,67,Bob Murawski,Editor,Editing,FALSE
+534,67,Charles Wood,Production Designer,Art,FALSE
+535,67,Janek Sirrs,Visual Effects Supervisor,VisualEffects,FALSE
+
+536,68,Jon Favreau,Director,Directing,TRUE
+537,68,Justin Marks,Writer,Writing,FALSE
+538,68,Brigham Taylor,Producer,Production,TRUE
+539,68,John Debney,Composer,Sound,FALSE
+540,68,Bill Pope,Cinematographer,Camera,FALSE
+541,68,Mark Livolsi,Editor,Editing,FALSE
+542,68,Christopher Glass,Production Designer,Art,FALSE
+543,68,Robert Legato,Visual Effects Supervisor,VisualEffects,TRUE
+
+544,69,David Yates,Director,Directing,FALSE
+545,69,Steve Kloves,Writer,Writing,FALSE
+546,69,David Heyman,Producer,Production,FALSE
+547,69,Alexandre Desplat,Composer,Sound,FALSE
+548,69,Eduardo Serra,Cinematographer,Camera,FALSE
+549,69,Mark Day,Editor,Editing,FALSE
+550,69,Stuart Craig,Production Designer,Art,FALSE
+551,69,Tim Burke,Visual Effects Supervisor,VisualEffects,FALSE
+
+552,70,Peter Jackson,Director,Directing,FALSE
+553,70,Fran Walsh,Writer,Writing,FALSE
+554,70,Philippa Boyens,Writer,Writing,FALSE
+555,70,Carolynne Cunningham,Producer,Production,FALSE
+556,70,Howard Shore,Composer,Sound,FALSE
+557,70,Andrew Lesnie,Cinematographer,Camera,FALSE
+558,70,Jabez Olssen,Editor,Editing,FALSE
+559,70,Dan Hennah,Production Designer,Art,FALSE
+560,71,Kyle Balda,Director,Directing,FALSE
+561,71,Matthew Fogel,Writer,Writing,FALSE
+562,71,Chris Meledandri,Producer,Production,FALSE
+563,71,Heitor Pereira,Composer,Sound,FALSE
+564,71,Bruno Chauffard,Cinematographer,Camera,FALSE
+565,71,Claire Dodgson,Editor,Editing,FALSE
+566,71,Eric Guillon,Production Designer,Art,FALSE
+567,71,Pierre Coffin,Visual Effects Supervisor,VisualEffects,FALSE
+
+568,72,David Yates,Director,Directing,FALSE
+569,72,Michael Goldenberg,Writer,Writing,FALSE
+570,72,David Heyman,Producer,Production,FALSE
+571,72,Nicholas Hooper,Composer,Sound,FALSE
+572,72,Slawomir Idziak,Cinematographer,Camera,FALSE
+573,72,Mark Day,Editor,Editing,FALSE
+574,72,Stuart Craig,Production Designer,Art,FALSE
+575,72,Tim Burke,Visual Effects Supervisor,VisualEffects,FALSE
+
+576,73,Andrew Stanton,Director,Directing,TRUE
+577,73,Lee Unkrich,Co-Director,Directing,TRUE
+578,73,Andrew Stanton,Writer,Writing,TRUE
+579,73,Graham Walters,Producer,Production,TRUE
+580,73,Thomas Newman,Composer,Sound,TRUE
+581,73,Sharon Calahan,Cinematographer,Camera,TRUE
+582,73,David Ian Salter,Editor,Editing,TRUE
+583,73,Ralph Eggleston,Production Designer,Art,TRUE
+
+584,74,Andrew Adamson,Director,Directing,FALSE
+585,74,Kelly Asbury,Director,Directing,FALSE
+586,74,Conrad Vernon,Director,Directing,FALSE
+587,74,Joe Stillman,Writer,Writing,FALSE
+588,74,Aron Warner,Producer,Production,FALSE
+589,74,Harry Gregson-Williams,Composer,Sound,FALSE
+590,74,Yong Duk Jhun,Cinematographer,Camera,FALSE
+591,74,Sim Evan-Jones,Editor,Editing,FALSE
+
+592,75,David Yates,Director,Directing,FALSE
+593,75,Steve Kloves,Writer,Writing,FALSE
+594,75,David Heyman,Producer,Production,FALSE
+595,75,Nicholas Hooper,Composer,Sound,FALSE
+596,75,Bruno Delbonnel,Cinematographer,Camera,TRUE
+597,75,Mark Day,Editor,Editing,FALSE
+598,75,Stuart Craig,Production Designer,Art,FALSE
+599,75,Tim Burke,Visual Effects Supervisor,VisualEffects,FALSE
+
+600,76,Peter Jackson,Director,Directing,TRUE
+601,76,Fran Walsh,Writer,Writing,TRUE
+602,76,Philippa Boyens,Writer,Writing,TRUE
+603,76,Barrie M. Osborne,Producer,Production,TRUE
+604,76,Howard Shore,Composer,Sound,TRUE
+605,76,Andrew Lesnie,Cinematographer,Camera,TRUE
+606,76,Michael Horton,Editor,Editing,TRUE
+607,76,Dan Hennah,Production Designer,Art,TRUE
+
+608,77,George Lucas,Director,Directing,FALSE
+609,77,George Lucas,Writer,Writing,FALSE
+610,77,Rick McCallum,Producer,Production,FALSE
+611,77,John Williams,Composer,Sound,FALSE
+612,77,David Tattersall,Cinematographer,Camera,FALSE
+613,77,Ben Burtt,Editor,Editing,FALSE
+614,77,Gavin Bocquet,Production Designer,Art,FALSE
+615,77,John Knoll,Visual Effects Supervisor,VisualEffects,FALSE
+
+616,78,Sam Raimi,Director,Directing,FALSE
+617,78,Sam Raimi,Writer,Writing,FALSE
+618,78,Ivan Raimi,Writer,Writing,FALSE
+619,78,Avi Arad,Producer,Production,FALSE
+620,78,Christopher Young,Composer,Sound,FALSE
+621,78,Bill Pope,Cinematographer,Camera,FALSE
+622,78,Bob Murawski,Editor,Editing,FALSE
+623,78,Neil Spisak,Production Designer,Art,FALSE
+
+624,79,Peter Jackson,Director,Directing,TRUE
+625,79,Fran Walsh,Writer,Writing,TRUE
+626,79,Philippa Boyens,Writer,Writing,TRUE
+627,79,Barrie M. Osborne,Producer,Production,TRUE
+628,79,Howard Shore,Composer,Sound,TRUE
+629,79,Andrew Lesnie,Cinematographer,Camera,TRUE
+630,79,John Gilbert,Editor,Editing,TRUE
+631,79,Grant Major,Production Designer,Art,TRUE
+
+632,80,Carlos Saldanha,Director,Directing,FALSE
+633,80,Michael Berg,Writer,Writing,FALSE
+634,80,Peter Ackerman,Writer,Writing,FALSE
+635,80,Lori Forte,Producer,Production,FALSE
+636,80,John Powell,Composer,Sound,FALSE
+637,80,Renato Falcão,Cinematographer,Camera,FALSE
+638,80,Harry Hitner,Editor,Editing,FALSE
+639,80,Thomas Cardone,Production Designer,Art,FALSE
+
+640,81,Chris Renaud,Director,Directing,FALSE
+641,81,Yarrow Cheney,Director,Directing,FALSE
+642,81,Brian Lynch,Writer,Writing,FALSE
+643,81,Chris Meledandri,Producer,Production,FALSE
+644,81,Alexandre Desplat,Composer,Sound,FALSE
+645,81,Julien Bisaro,Cinematographer,Camera,FALSE
+646,81,Ken Schretzmann,Editor,Editing,FALSE
+647,81,Eric Guillon,Production Designer,Art,FALSE
+
+648,82,Mike Newell,Director,Directing,FALSE
+649,82,Steve Kloves,Writer,Writing,FALSE
+650,82,David Heyman,Producer,Production,FALSE
+651,82,Patrick Doyle,Composer,Sound,FALSE
+652,82,Roger Pratt,Cinematographer,Camera,FALSE
+653,82,Mick Audsley,Editor,Editing,FALSE
+654,82,Stuart Craig,Production Designer,Art,FALSE
+655,82,Jim Mitchell,Visual Effects Supervisor,VisualEffects,FALSE
+
+656,83,Steve Martino,Director,Directing,FALSE
+657,83,Michael Thurmeier,Director,Directing,FALSE
+658,83,Michael Berg,Writer,Writing,FALSE
+659,83,Lori Forte,Producer,Production,FALSE
+660,83,John Powell,Composer,Sound,FALSE
+661,83,Renato Falcão,Cinematographer,Camera,FALSE
+662,83,Harry Hitner,Editor,Editing,FALSE
+663,83,Thomas Cardone,Production Designer,Art,FALSE
+
+664,84,Bryan Singer,Director,Directing,TRUE
+665,84,Anthony McCarten,Writer,Writing,TRUE
+666,84,Graham King,Producer,Production,TRUE
+667,84,John Ottman,Composer,Sound,TRUE
+668,84,Newton Thomas Sigel,Cinematographer,Camera,FALSE
+669,84,John Ottman,Editor,Editing,TRUE
+670,84,Aaron Haye,Production Designer,Art,TRUE
+671,84,Paul Norris,Visual Effects Supervisor,VisualEffects,FALSE
+
+672,85,Sam Mendes,Director,Directing,FALSE
+673,85,John Logan,Writer,Writing,FALSE
+674,85,Neal Purvis,Writer,Writing,FALSE
+675,85,Barbara Broccoli,Producer,Production,FALSE
+676,85,Thomas Newman,Composer,Sound,FALSE
+677,85,Hoyle van Hoytema,Cinematographer,Camera,FALSE
+678,85,Lee Smith,Editor,Editing,FALSE
+679,85,Dennis Gassner,Production Designer,Art,FALSE
+
+680,86,Jon Watts,Director,Directing,FALSE
+681,86,John Francis Daley,Writer,Writing,FALSE
+682,86,Jonathan Goldstein,Writer,Writing,FALSE
+683,86,Amy Pascal,Producer,Production,FALSE
+684,86,Michael Giacchino,Composer,Sound,FALSE
+685,86,Salvatore Totino,Cinematographer,Camera,FALSE
+686,86,Dan Lebental,Editor,Editing,FALSE
+687,86,Oliver Scholl,Production Designer,Art,FALSE
+
+688,87,Chris Columbus,Director,Directing,FALSE
+689,87,Steve Kloves,Writer,Writing,FALSE
+690,87,David Heyman,Producer,Production,FALSE
+691,87,John Williams,Composer,Sound,FALSE
+692,87,Roger Pratt,Cinematographer,Camera,FALSE
+693,87,Peter Honess,Editor,Editing,FALSE
+694,87,Stuart Craig,Production Designer,Art,FALSE
+695,87,Nick Dudman,Visual Effects Supervisor,VisualEffects,FALSE
+
+696,88,Zack Snyder,Director,Directing,FALSE
+697,88,Chris Terrio,Writer,Writing,FALSE
+698,88,Charles Roven,Producer,Production,FALSE
+699,88,Hans Zimmer,Composer,Sound,FALSE
+700,88,Larry Fong,Cinematographer,Camera,FALSE
+701,88,David Brenner,Editor,Editing,FALSE
+702,88,Patrick Tatopoulos,Production Designer,Art,FALSE
+703,88,John DesJardin,Visual Effects Supervisor,VisualEffects,FALSE
+
+704,89,James Gunn,Director,Directing,FALSE
+705,89,James Gunn,Writer,Writing,FALSE
+706,89,Kevin Feige,Producer,Production,FALSE
+707,89,Tyler Bates,Composer,Sound,FALSE
+708,89,Henry Braham,Cinematographer,Camera,FALSE
+709,89,Fred Raskin,Editor,Editing,FALSE
+710,89,Scott Chambliss,Production Designer,Art,FALSE
+711,89,Christopher Townsend,Visual Effects Supervisor,VisualEffects,FALSE
+
+712,90,Colin Trevorrow,Director,Directing,FALSE
+713,90,Emily Carmichael,Writer,Writing,FALSE
+714,90,Frank Marshall,Producer,Production,FALSE
+715,90,Michael Giacchino,Composer,Sound,FALSE
+716,90,John Schwartzman,Cinematographer,Camera,FALSE
+717,90,Mark Sanger,Editor,Editing,FALSE
+718,90,Kevin Jenkins,Production Designer,Art,FALSE
+719,90,David Vickery,Visual Effects Supervisor,VisualEffects,FALSE
+720,91,Francis Lawrence,Director,Directing,FALSE
+721,91,Suzanne Collins,Writer,Writing,FALSE
+722,91,Simon Beaufoy,Writer,Writing,FALSE
+723,91,Nina Jacobson,Producer,Production,FALSE
+724,91,James Newton Howard,Composer,Sound,FALSE
+725,91,Jo Willems,Cinematographer,Camera,FALSE
+726,91,Alan Edward Bell,Editor,Editing,FALSE
+727,91,Philip Messina,Production Designer,Art,FALSE
+
+728,92,Ryan Coogler,Director,Directing,TRUE
+729,92,Ryan Coogler,Writer,Writing,TRUE
+730,92,Kevin Feige,Producer,Production,TRUE
+731,92,Ludwig Göransson,Composer,Sound,TRUE
+732,92,Autumn Durald Arkapaw,Cinematographer,Camera,FALSE
+733,92,Michael P. Shawver,Editor,Editing,FALSE
+734,92,Hannah Beachler,Production Designer,Art,TRUE
+735,92,Geoffrey Baumann,Visual Effects Supervisor,VisualEffects,FALSE
+
+736,93,Ruben Fleischer,Director,Directing,FALSE
+737,93,Jeff Pinkner,Writer,Writing,FALSE
+738,93,Kelly Marcel,Writer,Writing,FALSE
+739,93,Avi Arad,Producer,Production,FALSE
+740,93,Ludwig Göransson,Composer,Sound,FALSE
+741,93,Matthew Libatique,Cinematographer,Camera,FALSE
+742,93,Maryann Brandon,Editor,Editing,FALSE
+743,93,Paul Franklin,Visual Effects Supervisor,VisualEffects,FALSE
+
+744,94,Taika Waititi,Director,Directing,FALSE
+745,94,Eric Pearson,Writer,Writing,FALSE
+746,94,Kevin Feige,Producer,Production,FALSE
+747,94,Mark Mothersbaugh,Composer,Sound,FALSE
+748,94,Javier Aguirresarobe,Cinematographer,Camera,FALSE
+749,94,Joel Negron,Editor,Editing,FALSE
+750,94,Dan Hennah,Production Designer,Art,FALSE
+751,94,Jake Morrison,Visual Effects Supervisor,VisualEffects,FALSE
+
+752,95,Pete Docter,Director,Directing,TRUE
+753,95,Ronnie del Carmen,Co-Director,Directing,TRUE
+754,95,Pete Docter,Writer,Writing,TRUE
+755,95,Jonas Rivera,Producer,Production,TRUE
+756,95,Michael Giacchino,Composer,Sound,TRUE
+757,95,Patrick Lin,Cinematographer,Camera,FALSE
+758,95,Kevin Nolting,Editor,Editing,TRUE
+759,95,Ralph Eggleston,Production Designer,Art,TRUE
+
+760,96,James Gunn,Director,Directing,FALSE
+761,96,James Gunn,Writer,Writing,FALSE
+762,96,Kevin Feige,Producer,Production,FALSE
+763,96,John Murphy,Composer,Sound,FALSE
+764,96,Henry Braham,Cinematographer,Camera,FALSE
+765,96,Fred Raskin,Editor,Editing,FALSE
+766,96,Beth Mickle,Production Designer,Art,FALSE
+767,96,Stephane Ceretti,Visual Effects Supervisor,VisualEffects,FALSE
+
+768,97,Jia Ling,Director,Directing,TRUE
+769,97,Jia Ling,Writer,Writing,TRUE
+770,97,Chen Zhixi,Producer,Production,TRUE
+771,97,Qian Lei,Composer,Sound,FALSE
+772,97,Zhao Fei,Cinematographer,Camera,FALSE
+773,97,Wang Di,Editor,Editing,FALSE
+774,97,Li Miao,Production Designer,Art,FALSE
+
+775,98,Michael Bay,Director,Directing,FALSE
+776,98,Roberto Orci,Writer,Writing,FALSE
+777,98,Alex Kurtzman,Writer,Writing,FALSE
+778,98,Lorenzo di Bonaventura,Producer,Production,FALSE
+779,98,Steve Jablonsky,Composer,Sound,FALSE
+780,98,Ben Seresin,Cinematographer,Camera,FALSE
+781,98,Roger Barton,Editor,Editing,FALSE
+782,98,Scott Farrar,Visual Effects Supervisor,VisualEffects,FALSE
+
+783,99,Bill Condon,Director,Directing,FALSE
+784,99,Melissa Rosenberg,Writer,Writing,FALSE
+785,99,Wyck Godfrey,Producer,Production,FALSE
+786,99,Carter Burwell,Composer,Sound,FALSE
+787,99,Guillermo Navarro,Cinematographer,Camera,FALSE
+788,99,Virginia Katz,Editor,Editing,FALSE
+789,99,Richard Sherman,Production Designer,Art,FALSE
+790,99,John Bruno,Visual Effects Supervisor,VisualEffects,FALSE
+
+791,100,Christopher Nolan,Director,Directing,TRUE
+792,100,Christopher Nolan,Writer,Writing,TRUE
+793,100,Emma Thomas,Producer,Production,TRUE
+794,100,Hans Zimmer,Composer,Sound,TRUE
+795,100,Wally Pfister,Cinematographer,Camera,TRUE
+796,100,Lee Smith,Editor,Editing,TRUE
+797,100,Nathan Crowley,Production Designer,Art,TRUE
+798,100,Paul Franklin,Visual Effects Supervisor,VisualEffects,TRUE
+
+799,101,Sam Raimi,Director,Directing,FALSE
+800,101,David Koepp,Writer,Writing,FALSE
+801,101,Avi Arad,Producer,Production,FALSE
+802,101,Danny Elfman,Composer,Sound,FALSE
+803,101,Don Burgess,Cinematographer,Camera,FALSE
+804,101,Bob Murawski,Editor,Editing,FALSE
+805,101,Neil Spisak,Production Designer,Art,FALSE
+806,101,John Dykstra,Visual Effects Supervisor,VisualEffects,TRUE
+
+807,102,Patty Jenkins,Director,Directing,FALSE
+808,102,Allan Heinberg,Writer,Writing,FALSE
+809,102,Charles Roven,Producer,Production,FALSE
+810,102,Rupert Gregson-Williams,Composer,Sound,FALSE
+811,102,Matthew Jensen,Cinematographer,Camera,FALSE
+812,102,Martin Walsh,Editor,Editing,FALSE
+813,102,Lindy Hemming,Production Designer,Art,FALSE
+814,102,Bill Westenhofer,Visual Effects Supervisor,VisualEffects,FALSE
+
+815,103,Roland Emmerich,Director,Directing,TRUE
+816,103,Dean Devlin,Writer,Writing,TRUE
+817,103,Dean Devlin,Producer,Production,TRUE
+818,103,David Arnold,Composer,Sound,TRUE
+819,103,Karl Walter Lindenlaub,Cinematographer,Camera,FALSE
+820,103,David Brenner,Editor,Editing,FALSE
+821,103,Patrick Tatopoulos,Production Designer,Art,FALSE
+822,103,Volker Engel,Visual Effects Supervisor,VisualEffects,TRUE
+
+823,104,David Yates,Director,Directing,FALSE
+824,104,J.K. Rowling,Writer,Writing,FALSE
+825,104,David Heyman,Producer,Production,FALSE
+826,104,James Newton Howard,Composer,Sound,FALSE
+827,104,Philippe Rousselot,Cinematographer,Camera,FALSE
+828,104,Mark Day,Editor,Editing,FALSE
+829,104,Stuart Craig,Production Designer,Art,FALSE
+830,104,Christian Manz,Visual Effects Supervisor,VisualEffects,FALSE
+
+831,105,Wu Jing,Director,Directing,FALSE
+832,105,Wu Jing,Writer,Writing,FALSE
+833,105,Dong Yu,Producer,Production,FALSE
+834,105,Joseph Trapanese,Composer,Sound,FALSE
+835,105,Peter Ngor,Cinematographer,Camera,FALSE
+836,105,Dai Xifan,Editor,Editing,FALSE
+837,105,Zhang Ke,Production Designer,Art,FALSE
+
+838,106,Chen Kaige,Director,Directing,TRUE
+839,106,Tsui Hark,Director,Directing,TRUE
+840,106,Dante Lam,Director,Directing,TRUE
+841,106,Guo Cun,Writer,Writing,FALSE
+842,106,Huang Jianxin,Producer,Production,FALSE
+843,106,Shen Jun,Composer,Sound,FALSE
+844,106,Gu Changwei,Cinematographer,Camera,FALSE
+845,106,Yu Baiyang,Editor,Editing,FALSE
+
+846,107,Chris Miller,Director,Directing,FALSE
+847,107,Raman Hui,Director,Directing,FALSE
+848,107,Jeffrey Price,Writer,Writing,FALSE
+849,107,Aron Warner,Producer,Production,FALSE
+850,107,Harry Gregson-Williams,Composer,Sound,FALSE
+851,107,Yong Duk Jhun,Cinematographer,Camera,FALSE
+852,107,Sim Evan-Jones,Editor,Editing,FALSE
+853,107,Guillaume Aretos,Production Designer,Art,FALSE
+
+854,108,Steven Spielberg,Director,Directing,TRUE
+855,108,Melissa Mathison,Writer,Writing,TRUE
+856,108,Kathleen Kennedy,Producer,Production,TRUE
+857,108,John Williams,Composer,Sound,TRUE
+858,108,Allen Daviau,Cinematographer,Camera,TRUE
+859,108,Carol Littleton,Editor,Editing,TRUE
+860,108,James D. Bissell,Production Designer,Art,TRUE
+861,108,Dennis Muren,Visual Effects Supervisor,VisualEffects,TRUE
+
+862,109,Sam Raimi,Director,Directing,TRUE
+863,109,Alfred Gough,Writer,Writing,FALSE
+864,109,Miles Millar,Writer,Writing,FALSE
+865,109,Avi Arad,Producer,Production,TRUE
+866,109,Danny Elfman,Composer,Sound,TRUE
+867,109,Bill Pope,Cinematographer,Camera,TRUE
+868,109,Bob Murawski,Editor,Editing,TRUE
+869,109,Neil Spisak,Production Designer,Art,FALSE
+
+870,110,Lee Unkrich,Director,Directing,TRUE
+871,110,Adrian Molina,Writer,Writing,TRUE
+872,110,Darla K. Anderson,Producer,Production,TRUE
+873,110,Michael Giacchino,Composer,Sound,TRUE
+874,110,Matt Aspbury,Cinematographer,Camera,FALSE
+875,110,Steve Bloom,Editor,Editing,FALSE
+876,110,Harley Jessup,Production Designer,Art,TRUE
+877,110,Danielle Feinberg,Visual Effects Supervisor,VisualEffects,TRUE
+878,111,Joachim Rønning,Director,Directing,FALSE
+879,111,Espen Sandberg,Director,Directing,FALSE
+880,111,Jeff Nathanson,Writer,Writing,FALSE
+881,111,Jerry Bruckheimer,Producer,Production,FALSE
+882,111,Geoff Zanelli,Composer,Sound,FALSE
+883,111,Paul Cameron,Cinematographer,Camera,FALSE
+884,111,Roger Barton,Editor,Editing,FALSE
+885,111,Nigel Phelps,Production Designer,Art,FALSE
+
+886,112,Jake Kasdan,Director,Directing,FALSE
+887,112,Jeff Pinkner,Writer,Writing,FALSE
+888,112,Scott Rosenberg,Writer,Writing,FALSE
+889,112,Matt Tolmach,Producer,Production,FALSE
+890,112,Henry Jackman,Composer,Sound,FALSE
+891,112,Gyula Pados,Cinematographer,Camera,FALSE
+892,112,Mark Helfrich,Editor,Editing,FALSE
+893,112,Bill Brzeski,Production Designer,Art,FALSE
+
+894,113,Justin Lin,Director,Directing,FALSE
+895,113,Chris Morgan,Writer,Writing,FALSE
+896,113,Neal H. Moritz,Producer,Production,FALSE
+897,113,Lucas Vidal,Composer,Sound,FALSE
+898,113,Stephen F. Windon,Cinematographer,Camera,FALSE
+899,113,Christian Wagner,Editor,Editing,FALSE
+900,113,Jan Roelfs,Production Designer,Art,FALSE
+901,113,Dan Sudick,Visual Effects Supervisor,VisualEffects,FALSE
+
+902,114,Steven Spielberg,Director,Directing,FALSE
+903,114,David Koepp,Writer,Writing,FALSE
+904,114,Kathleen Kennedy,Producer,Production,FALSE
+905,114,John Williams,Composer,Sound,FALSE
+906,114,Janusz Kamiński,Cinematographer,Camera,FALSE
+907,114,Michael Kahn,Editor,Editing,FALSE
+908,114,Guy Hendrix Dyas,Production Designer,Art,FALSE
+909,114,Pablo Helman,Visual Effects Supervisor,VisualEffects,FALSE
+
+910,115,Christopher McQuarrie,Director,Directing,FALSE
+911,115,Christopher McQuarrie,Writer,Writing,FALSE
+912,115,Tom Cruise,Producer,Production,FALSE
+913,115,Lorne Balfe,Composer,Sound,FALSE
+914,115,Rob Hardy,Cinematographer,Camera,FALSE
+915,115,Eddie Hamilton,Editor,Editing,FALSE
+916,115,Peter Wenham,Production Designer,Art,FALSE
+917,115,David Vickery,Visual Effects Supervisor,VisualEffects,FALSE
+
+918,116,David Leitch,Director,Directing,FALSE
+919,116,Rhett Reese,Writer,Writing,FALSE
+920,116,Paul Wernick,Writer,Writing,FALSE
+921,116,Simon Kinberg,Producer,Production,FALSE
+922,116,Tyler Bates,Composer,Sound,FALSE
+923,116,Jonathan Sela,Cinematographer,Camera,FALSE
+924,116,Craig Alpert,Editor,Editing,FALSE
+925,116,David Scheunemann,Production Designer,Art,FALSE
+
+926,117,Alfonso Cuarón,Director,Directing,TRUE
+927,117,Steve Kloves,Writer,Writing,FALSE
+928,117,David Heyman,Producer,Production,FALSE
+929,117,John Williams,Composer,Sound,FALSE
+930,117,Michael Seresin,Cinematographer,Camera,FALSE
+931,117,Steven Weisberg,Editor,Editing,FALSE
+932,117,Stuart Craig,Production Designer,Art,FALSE
+933,117,Tim Burke,Visual Effects Supervisor,VisualEffects,FALSE
+
+934,118,Tim Miller,Director,Directing,FALSE
+935,118,Rhett Reese,Writer,Writing,FALSE
+936,118,Paul Wernick,Writer,Writing,FALSE
+937,118,Simon Kinberg,Producer,Production,FALSE
+938,118,Tom Holkenborg,Composer,Sound,FALSE
+939,118,Ken Seng,Cinematographer,Camera,FALSE
+940,118,Julian Clarke,Editor,Editing,FALSE
+941,118,David Scheunemann,Production Designer,Art,FALSE
+
+942,119,George Lucas,Director,Directing,TRUE
+943,119,George Lucas,Writer,Writing,TRUE
+944,119,Gary Kurtz,Producer,Production,TRUE
+945,119,John Williams,Composer,Sound,TRUE
+946,119,Gilbert Taylor,Cinematographer,Camera,TRUE
+947,119,Paul Hirsch,Editor,Editing,TRUE
+948,119,John Barry,Production Designer,Art,TRUE
+949,119,John Dykstra,Visual Effects Supervisor,VisualEffects,TRUE
+
+950,120,Matt Reeves,Director,Directing,FALSE
+951,120,Matt Reeves,Writer,Writing,FALSE
+952,120,Dylan Clark,Producer,Production,FALSE
+953,120,Michael Giacchino,Composer,Sound,FALSE
+954,120,Greig Fraser,Cinematographer,Camera,TRUE
+955,120,William Hoy,Editor,Editing,FALSE
+956,120,James Chinlund,Production Designer,Art,FALSE
+957,120,Dan Lemmon,Visual Effects Supervisor,VisualEffects,FALSE
+
+958,121,James Gunn,Director,Directing,TRUE
+959,121,James Gunn,Writer,Writing,TRUE
+960,121,Kevin Feige,Producer,Production,TRUE
+961,121,Tyler Bates,Composer,Sound,TRUE
+962,121,Ben Davis,Cinematographer,Camera,TRUE
+963,121,Fred Raskin,Editor,Editing,TRUE
+964,121,Charles Wood,Production Designer,Art,TRUE
+965,121,Stephane Ceretti,Visual Effects Supervisor,VisualEffects,TRUE
+
+966,122,Ron Howard,Director,Directing,FALSE
+967,122,Akiva Goldsman,Writer,Writing,FALSE
+968,122,Brian Grazer,Producer,Production,FALSE
+969,122,Hans Zimmer,Composer,Sound,FALSE
+970,122,Salvatore Totino,Cinematographer,Camera,FALSE
+971,122,Daniel P. Hanley,Editor,Editing,FALSE
+972,122,Allan Cameron,Production Designer,Art,FALSE
+973,122,Angus Bickerton,Visual Effects Supervisor,VisualEffects,FALSE
+
+974,123,Francis Lawrence,Director,Directing,FALSE
+975,123,Peter Craig,Writer,Writing,FALSE
+976,123,Danny Strong,Writer,Writing,FALSE
+977,123,Nina Jacobson,Producer,Production,FALSE
+978,123,James Newton Howard,Composer,Sound,FALSE
+979,123,Jo Willems,Cinematographer,Camera,FALSE
+980,123,Alan Edward Bell,Editor,Editing,FALSE
+981,123,Philip Messina,Production Designer,Art,FALSE
+
+982,124,Taika Waititi,Director,Directing,FALSE
+983,124,Jennifer Kaytin Robinson,Writer,Writing,FALSE
+984,124,Kevin Feige,Producer,Production,FALSE
+985,124,Michael Giacchino,Composer,Sound,FALSE
+986,124,Barry Idoine,Cinematographer,Camera,FALSE
+987,124,Matthew Schmidt,Editor,Editing,FALSE
+988,124,Nigel Phelps,Production Designer,Art,FALSE
+989,124,Jake Morrison,Visual Effects Supervisor,VisualEffects,FALSE
+
+990,125,David Leitch,Director,Directing,FALSE
+991,125,Chris Morgan,Writer,Writing,FALSE
+992,125,Drew Pearce,Writer,Writing,FALSE
+993,125,Hiram Garcia,Producer,Production,FALSE
+994,125,Tyler Bates,Composer,Sound,FALSE
+995,125,Jonathan Sela,Cinematographer,Camera,FALSE
+996,125,Christopher Rouse,Editor,Editing,FALSE
+997,125,David Scheunemann,Production Designer,Art,FALSE
+
+998,126,Cary Joji Fukunaga,Director,Directing,FALSE
+999,126,Neal Purvis,Writer,Writing,FALSE
+1000,126,Robert Wade,Writer,Writing,FALSE
+1001,126,Barbara Broccoli,Producer,Production,FALSE
+1002,126,Hans Zimmer,Composer,Sound,FALSE
+1003,126,Linus Sandgren,Cinematographer,Camera,TRUE
+1004,126,Tom Cross,Editor,Editing,TRUE
+1005,126,Mark Tildesley,Production Designer,Art,FALSE
+
+1006,127,Marc Webb,Director,Directing,FALSE
+1007,127,James Vanderbilt,Writer,Writing,FALSE
+1008,127,Avi Arad,Producer,Production,FALSE
+1009,127,James Horner,Composer,Sound,FALSE
+1010,127,John Schwartzman,Cinematographer,Camera,FALSE
+1011,127,Alan Edward Bell,Editor,Editing,FALSE
+1012,127,Kirk M. Petruccelli,Production Designer,Art,FALSE
+1013,127,Jerome Chen,Visual Effects Supervisor,VisualEffects,FALSE
+
+1014,128,Robert Stromberg,Director,Directing,FALSE
+1015,128,Linda Woolverton,Writer,Writing,FALSE
+1016,128,Joe Roth,Producer,Production,FALSE
+1017,128,James Newton Howard,Composer,Sound,FALSE
+1018,128,Dean Semler,Cinematographer,Camera,FALSE
+1019,128,Chris Lebenzon,Editor,Editing,FALSE
+1020,128,Gary Freeman,Production Designer,Art,FALSE
+1021,128,Angus Bickerton,Visual Effects Supervisor,VisualEffects,FALSE
+
+1022,129,Roland Emmerich,Director,Directing,FALSE
+1023,129,Harald Kloser,Writer,Writing,FALSE
+1024,129,Mark Gordon,Producer,Production,FALSE
+1025,129,Harald Kloser,Composer,Sound,FALSE
+1026,129,Dean Semler,Cinematographer,Camera,FALSE
+1027,129,David Brenner,Editor,Editing,FALSE
+1028,129,Barry Chusid,Production Designer,Art,FALSE
+1029,129,Volker Engel,Visual Effects Supervisor,VisualEffects,TRUE
+
+1030,130,Mike Mitchell,Director,Directing,FALSE
+1031,130,Josh Klausner,Writer,Writing,FALSE
+1032,130,Aron Warner,Producer,Production,FALSE
+1033,130,Harry Gregson-Williams,Composer,Sound,FALSE
+1034,130,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1035,130,Nick Fletcher,Editor,Editing,FALSE
+1036,130,Peter Zaslav,Production Designer,Art,FALSE
+1037,130,Kim White,Visual Effects Supervisor,VisualEffects,FALSE
+1038,131,Jon M. Chu,Director,Directing,FALSE
+1039,131,Winnie Holzman,Writer,Writing,FALSE
+1040,131,Marc Platt,Producer,Production,FALSE
+1041,131,Stephen Schwartz,Composer,Sound,FALSE
+1042,131,Alice Brooks,Cinematographer,Camera,FALSE
+1043,131,Myron Kerstein,Editor,Editing,FALSE
+1044,131,Nathan Crowley,Production Designer,Art,FALSE
+1045,131,Paul Lambert,Visual Effects Supervisor,VisualEffects,FALSE
+
+1046,132,David Ayer,Director,Directing,FALSE
+1047,132,David Ayer,Writer,Writing,FALSE
+1048,132,Charles Roven,Producer,Production,FALSE
+1049,132,Steven Price,Composer,Sound,FALSE
+1050,132,Roman Vasyanov,Cinematographer,Camera,FALSE
+1051,132,John Gilroy,Editor,Editing,FALSE
+1052,132,Oliver Scholl,Production Designer,Art,FALSE
+1053,132,Jerome Chen,Visual Effects Supervisor,VisualEffects,TRUE
+
+1054,133,Bryan Singer,Director,Directing,FALSE
+1055,133,Simon Kinberg,Writer,Writing,FALSE
+1056,133,Lauren Shuler Donner,Producer,Production,FALSE
+1057,133,John Ottman,Composer,Sound,FALSE
+1058,133,Newton Thomas Sigel,Cinematographer,Camera,FALSE
+1059,133,John Ottman,Editor,Editing,FALSE
+1060,133,John Myhre,Production Designer,Art,FALSE
+1061,133,Richard Stammers,Visual Effects Supervisor,VisualEffects,FALSE
+
+1062,134,Eric Darnell,Director,Directing,FALSE
+1063,134,Conrad Vernon,Director,Directing,FALSE
+1064,134,Tom McGrath,Writer,Writing,FALSE
+1065,134,Mireille Soria,Producer,Production,FALSE
+1066,134,Hans Zimmer,Composer,Sound,FALSE
+1067,134,Yannick Dusseault,Cinematographer,Camera,FALSE
+1068,134,Nick Kenway,Editor,Editing,FALSE
+1069,134,Kristopher Vernon,Production Designer,Art,FALSE
+
+1070,135,Dan Scanlon,Director,Directing,FALSE
+1071,135,Daniel Gerson,Writer,Writing,FALSE
+1072,135,Kori Rae,Producer,Production,FALSE
+1073,135,Randy Newman,Composer,Sound,FALSE
+1074,135,Jean-Claude Kalache,Cinematographer,Camera,FALSE
+1075,135,Greg Snyder,Editor,Editing,FALSE
+1076,135,Ricky Nierva,Production Designer,Art,FALSE
+1077,135,Danielle Feinberg,Visual Effects Supervisor,VisualEffects,FALSE
+
+1078,136,Yang Yu (Jiaozi),Director,Directing,TRUE
+1079,136,Yang Yu (Jiaozi),Writer,Writing,TRUE
+1080,136,Light Chaser Animation Studios,Producer,Production,TRUE
+1081,136,Peng Fei,Composer,Sound,FALSE
+1082,136,Li Xi,Cinematographer,Camera,FALSE
+1083,136,Qu Yang,Editor,Editing,FALSE
+1084,136,Sun Nan,Production Designer,Art,FALSE
+1085,136,Zhang Lei,Visual Effects Supervisor,VisualEffects,TRUE
+
+1086,137,Lana Wachowski,Director,Directing,FALSE
+1087,137,Lilly Wachowski,Director,Directing,FALSE
+1088,137,Lana Wachowski,Writer,Writing,FALSE
+1089,137,Joel Silver,Producer,Production,FALSE
+1090,137,Don Davis,Composer,Sound,FALSE
+1091,137,Bill Pope,Cinematographer,Camera,FALSE
+1092,137,Zach Staenberg,Editor,Editing,FALSE
+1093,137,Owen Paterson,Production Designer,Art,FALSE
+
+1094,138,Pete Docter,Director,Directing,TRUE
+1095,138,Bob Peterson,Writer,Writing,TRUE
+1096,138,Jonas Rivera,Producer,Production,TRUE
+1097,138,Michael Giacchino,Composer,Sound,TRUE
+1098,138,Patrick Lin,Cinematographer,Camera,FALSE
+1099,138,Kevin Nolting,Editor,Editing,TRUE
+1100,138,Rick Nierva,Production Designer,Art,TRUE
+1101,138,Mark Nielsen,Visual Effects Supervisor,VisualEffects,FALSE
+
+1102,139,Barry Jenkins,Director,Directing,FALSE
+1103,139,Jeff Nathanson,Writer,Writing,FALSE
+1104,139,Jon Favreau,Producer,Production,FALSE
+1105,139,Hans Zimmer,Composer,Sound,FALSE
+1106,139,Caleb Deschanel,Cinematographer,Camera,FALSE
+1107,139,Mark Livolsi,Editor,Editing,FALSE
+1108,139,James Chinlund,Production Designer,Art,FALSE
+1109,139,Robert Legato,Visual Effects Supervisor,VisualEffects,FALSE
+
+1110,140,Andrew Adamson,Director,Directing,TRUE
+1111,140,Ann Peacock,Writer,Writing,TRUE
+1112,140,Mark Johnson,Producer,Production,TRUE
+1113,140,Harry Gregson-Williams,Composer,Sound,TRUE
+1114,140,Donald McAlpine,Cinematographer,Camera,TRUE
+1115,140,Sim Evan-Jones,Editor,Editing,FALSE
+1116,140,Roger Ford,Production Designer,Art,TRUE
+1117,140,Dean Wright,Visual Effects Supervisor,VisualEffects,TRUE
+
+1118,141,Justin Lin,Director,Directing,FALSE
+1119,141,Daniel Casey,Writer,Writing,FALSE
+1120,141,Neal H. Moritz,Producer,Production,FALSE
+1121,141,Brian Tyler,Composer,Sound,FALSE
+1122,141,Stephen F. Windon,Cinematographer,Camera,FALSE
+1123,141,Dylan Highsmith,Editor,Editing,FALSE
+1124,141,Jan Roelfs,Production Designer,Art,FALSE
+1125,141,Dan Sudick,Visual Effects Supervisor,VisualEffects,FALSE
+
+1126,142,Denis Villeneuve,Director,Directing,TRUE
+1127,142,Jon Spaihts,Writer,Writing,TRUE
+1128,142,Mary Parent,Producer,Production,TRUE
+1129,142,Hans Zimmer,Composer,Sound,TRUE
+1130,142,Greig Fraser,Cinematographer,Camera,TRUE
+1131,142,Joe Walker,Editor,Editing,TRUE
+1132,142,Patrice Vermette,Production Designer,Art,TRUE
+1133,142,Paul Lambert,Visual Effects Supervisor,VisualEffects,TRUE
+
+1134,143,Anthony Russo,Director,Directing,TRUE
+1135,143,Joe Russo,Director,Directing,TRUE
+1136,143,Christopher Markus,Writer,Writing,TRUE
+1137,143,Stephen McFeely,Writer,Writing,TRUE
+1138,143,Kevin Feige,Producer,Production,TRUE
+1139,143,Henry Jackman,Composer,Sound,TRUE
+1140,143,Trent Opaloch,Cinematographer,Camera,TRUE
+1141,143,Jeffrey Ford,Editor,Editing,TRUE
+
+1142,144,Louis Leterrier,Director,Directing,FALSE
+1143,144,Dan Mazeau,Writer,Writing,FALSE
+1144,144,Justin Lin,Writer,Writing,FALSE
+1145,144,Vin Diesel,Producer,Production,FALSE
+1146,144,Brian Tyler,Composer,Sound,FALSE
+1147,144,Stephen F. Windon,Cinematographer,Camera,FALSE
+1148,144,Dylan Highsmith,Editor,Editing,FALSE
+1149,144,Jan Roelfs,Production Designer,Art,FALSE
+
+1150,145,Matt Reeves,Director,Directing,TRUE
+1151,145,Mark Bomback,Writer,Writing,TRUE
+1152,145,Peter Chernin,Producer,Production,TRUE
+1153,145,Michael Giacchino,Composer,Sound,TRUE
+1154,145,Michael Seresin,Cinematographer,Camera,TRUE
+1155,145,William Hoy,Editor,Editing,TRUE
+1156,145,James Chinlund,Production Designer,Art,TRUE
+1157,145,Dan Lemmon,Visual Effects Supervisor,VisualEffects,TRUE
+
+1158,146,Marc Webb,Director,Directing,FALSE
+1159,146,Alex Kurtzman,Writer,Writing,FALSE
+1160,146,Roberto Orci,Writer,Writing,FALSE
+1161,146,Avi Arad,Producer,Production,FALSE
+1162,146,Hans Zimmer,Composer,Sound,FALSE
+1163,146,Daniel Mindel,Cinematographer,Camera,FALSE
+1164,146,Pietro Scalia,Editor,Editing,FALSE
+1165,146,Mark Friedberg,Production Designer,Art,FALSE
+
+1166,147,Michael Bay,Director,Directing,FALSE
+1167,147,Roberto Orci,Writer,Writing,FALSE
+1168,147,Alex Kurtzman,Writer,Writing,FALSE
+1169,147,Lorenzo di Bonaventura,Producer,Production,FALSE
+1170,147,Steve Jablonsky,Composer,Sound,FALSE
+1171,147,Mitch Amundsen,Cinematographer,Camera,FALSE
+1172,147,Roger Barton,Editor,Editing,FALSE
+1173,147,Jeff Mann,Production Designer,Art,FALSE
+
+1174,148,David Slade,Director,Directing,FALSE
+1175,148,Melissa Rosenberg,Writer,Writing,FALSE
+1176,148,Wyck Godfrey,Producer,Production,FALSE
+1177,148,Howard Shore,Composer,Sound,FALSE
+1178,148,Javier Aguirresarobe,Cinematographer,Camera,FALSE
+1179,148,Art Jones,Editor,Editing,FALSE
+1180,148,Paul D. Austerberry,Production Designer,Art,FALSE
+1181,148,Phil Tippett,Visual Effects Supervisor,VisualEffects,FALSE
+
+1182,149,Andy Muschietti,Director,Directing,TRUE
+1183,149,Chase Palmer,Writer,Writing,FALSE
+1184,149,Cary Fukunaga,Writer,Writing,FALSE
+1185,149,Barbara Muschietti,Producer,Production,TRUE
+1186,149,Benjamin Wallfisch,Composer,Sound,FALSE
+1187,149,Chung-hoon Chung,Cinematographer,Camera,FALSE
+1188,149,Jason Ballantine,Editor,Editing,FALSE
+1189,149,Paul D. Austerberry,Production Designer,Art,TRUE
+
+1190,150,Brad Bird,Director,Directing,FALSE
+1191,150,Josh Appelbaum,Writer,Writing,FALSE
+1192,150,André Nemec,Writer,Writing,FALSE
+1193,150,Tom Cruise,Producer,Production,FALSE
+1194,150,Michael Giacchino,Composer,Sound,FALSE
+1195,150,Robert Elswit,Cinematographer,Camera,FALSE
+1196,150,Paul Hirsch,Editor,Editing,FALSE
+1197,150,James D. Bissell,Production Designer,Art,FALSE
+1198,151,Joaquim Dos Santos,Director,Directing,TRUE
+1199,151,Kemp Powers,Director,Directing,TRUE
+1200,151,Justin K. Thompson,Director,Directing,TRUE
+1201,151,Phil Lord,Writer,Writing,TRUE
+1202,151,Christopher Miller,Writer,Writing,TRUE
+1203,151,Amy Pascal,Producer,Production,TRUE
+1204,151,Daniel Pemberton,Composer,Sound,TRUE
+1205,151,Mike Lasker,Visual Effects Supervisor,VisualEffects,TRUE
+
+1206,152,Christopher McQuarrie,Director,Directing,FALSE
+1207,152,Drew Pearce,Writer,Writing,FALSE
+1208,152,Tom Cruise,Producer,Production,FALSE
+1209,152,Joe Kraemer,Composer,Sound,FALSE
+1210,152,Robert Elswit,Cinematographer,Camera,FALSE
+1211,152,Eddie Hamilton,Editor,Editing,FALSE
+1212,152,James D. Bissell,Production Designer,Art,FALSE
+
+1213,153,Chris Weitz,Director,Directing,FALSE
+1214,153,Melissa Rosenberg,Writer,Writing,FALSE
+1215,153,Wyck Godfrey,Producer,Production,FALSE
+1216,153,Alexandre Desplat,Composer,Sound,FALSE
+1217,153,Javier Aguirresarobe,Cinematographer,Camera,FALSE
+1218,153,Peter Lambert,Editor,Editing,FALSE
+1219,153,David Brisbin,Production Designer,Art,FALSE
+
+1220,154,Alfonso Cuarón,Director,Directing,TRUE
+1221,154,Alfonso Cuarón,Writer,Writing,TRUE
+1222,154,David Heyman,Producer,Production,TRUE
+1223,154,Steven Price,Composer,Sound,TRUE
+1224,154,Emmanuel Lubezki,Cinematographer,Camera,TRUE
+1225,154,Mark Sanger,Editor,Editing,TRUE
+1226,154,Andy Nicholson,Production Designer,Art,TRUE
+1227,154,Tim Webber,Visual Effects Supervisor,VisualEffects,TRUE
+
+1228,155,Ron Clements,Director,Directing,TRUE
+1229,155,John Musker,Director,Directing,TRUE
+1230,155,Jared Bush,Writer,Writing,TRUE
+1231,155,Osnat Shurer,Producer,Production,TRUE
+1232,155,Lin-Manuel Miranda,Composer,Sound,TRUE
+1233,155,Adolph Lusinsky,Cinematographer,Camera,FALSE
+1234,155,Jeff Draheim,Editor,Editing,FALSE
+1235,155,Ian Gooding,Production Designer,Art,TRUE
+
+1236,156,Bill Condon,Director,Directing,FALSE
+1237,156,Melissa Rosenberg,Writer,Writing,FALSE
+1238,156,Wyck Godfrey,Producer,Production,FALSE
+1239,156,Carter Burwell,Composer,Sound,FALSE
+1240,156,Guillermo Navarro,Cinematographer,Camera,FALSE
+1241,156,Virginia Katz,Editor,Editing,FALSE
+1242,156,Richard Sherman,Production Designer,Art,FALSE
+
+1243,157,Robert Zemeckis,Director,Directing,TRUE
+1244,157,Eric Roth,Writer,Writing,TRUE
+1245,157,Wendy Finerman,Producer,Production,TRUE
+1246,157,Alan Silvestri,Composer,Sound,TRUE
+1247,157,Don Burgess,Cinematographer,Camera,TRUE
+1248,157,Arthur Schmidt,Editor,Editing,TRUE
+1249,157,Rick Carter,Production Designer,Art,TRUE
+
+1250,158,Gary Ross,Director,Directing,FALSE
+1251,158,Suzanne Collins,Writer,Writing,FALSE
+1252,158,Billy Ray,Writer,Writing,FALSE
+1253,158,Nina Jacobson,Producer,Production,FALSE
+1254,158,James Newton Howard,Composer,Sound,FALSE
+1255,158,Tom Stern,Cinematographer,Camera,FALSE
+1256,158,Stephen Mirrione,Editor,Editing,FALSE
+1257,158,Philip Messina,Production Designer,Art,FALSE
+
+1258,159,Scott Derrickson,Director,Directing,FALSE
+1259,159,Jon Spaihts,Writer,Writing,FALSE
+1260,159,Kevin Feige,Producer,Production,FALSE
+1261,159,Michael Giacchino,Composer,Sound,FALSE
+1262,159,Benjamin Davis,Cinematographer,Camera,FALSE
+1263,159,Wyatt Smith,Editor,Editing,FALSE
+1264,159,Charles Wood,Production Designer,Art,FALSE
+1265,159,Stephane Ceretti,Visual Effects Supervisor,VisualEffects,FALSE
+
+1266,160,M. Night Shyamalan,Director,Directing,TRUE
+1267,160,M. Night Shyamalan,Writer,Writing,TRUE
+1268,160,Frank Marshall,Producer,Production,FALSE
+1269,160,James Newton Howard,Composer,Sound,TRUE
+1270,160,Tak Fujimoto,Cinematographer,Camera,FALSE
+1271,160,Andrew Mondshein,Editor,Editing,FALSE
+1272,160,Larry Fulton,Production Designer,Art,FALSE
+
+1273,161,Zack Snyder,Director,Directing,FALSE
+1274,161,David S. Goyer,Writer,Writing,FALSE
+1275,161,Charles Roven,Producer,Production,FALSE
+1276,161,Hans Zimmer,Composer,Sound,FALSE
+1277,161,Amir Mokri,Cinematographer,Camera,FALSE
+1278,161,David Brenner,Editor,Editing,FALSE
+1279,161,Alex McDowell,Production Designer,Art,FALSE
+1280,161,John DesJardin,Visual Effects Supervisor,VisualEffects,FALSE
+
+1281,162,Jennifer Yuh Nelson,Director,Directing,FALSE
+1282,162,Jonathan Aibel,Writer,Writing,FALSE
+1283,162,Glenn Berger,Writer,Writing,FALSE
+1284,162,Melissa Cobb,Producer,Production,FALSE
+1285,162,Hans Zimmer,Composer,Sound,FALSE
+1286,162,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1287,162,Clare Knight,Editor,Editing,FALSE
+1288,162,Rick Heinrichs,Production Designer,Art,FALSE
+
+1289,163,Zack Snyder,Director,Directing,FALSE
+1290,163,Chris Terrio,Writer,Writing,FALSE
+1291,163,Charles Roven,Producer,Production,FALSE
+1292,163,Danny Elfman,Composer,Sound,FALSE
+1293,163,Fabian Wagner,Cinematographer,Camera,FALSE
+1294,163,David Brenner,Editor,Editing,FALSE
+1295,163,Patrick Tatopoulos,Production Designer,Art,FALSE
+1296,163,John DesJardin,Visual Effects Supervisor,VisualEffects,FALSE
+
+1297,164,George Lucas,Director,Directing,FALSE
+1298,164,George Lucas,Writer,Writing,FALSE
+1299,164,Rick McCallum,Producer,Production,FALSE
+1300,164,John Williams,Composer,Sound,FALSE
+1301,164,David Tattersall,Cinematographer,Camera,FALSE
+1302,164,Ben Burtt,Editor,Editing,FALSE
+1303,164,Gavin Bocquet,Production Designer,Art,FALSE
+1304,164,John Knoll,Visual Effects Supervisor,VisualEffects,FALSE
+
+1305,165,David Yates,Director,Directing,FALSE
+1306,165,J.K. Rowling,Writer,Writing,FALSE
+1307,165,David Heyman,Producer,Production,FALSE
+1308,165,James Newton Howard,Composer,Sound,FALSE
+1309,165,Philippe Rousselot,Cinematographer,Camera,FALSE
+1310,165,Mark Day,Editor,Editing,FALSE
+1311,165,Stuart Craig,Production Designer,Art,FALSE
+1312,165,Christian Manz,Visual Effects Supervisor,VisualEffects,FALSE
+
+1313,166,Gore Verbinski,Director,Directing,TRUE
+1314,166,Ted Elliott,Writer,Writing,FALSE
+1315,166,Terry Rossio,Writer,Writing,FALSE
+1316,166,Jerry Bruckheimer,Producer,Production,TRUE
+1317,166,Klaus Badelt,Composer,Sound,FALSE
+1318,166,Dariusz Wolski,Cinematographer,Camera,FALSE
+1319,166,Stephen Rivkin,Editor,Editing,FALSE
+1320,166,Brian Morris,Production Designer,Art,TRUE
+
+1321,167,Barry Sonnenfeld,Director,Directing,FALSE
+1322,167,Ethan Cohen,Writer,Writing,FALSE
+1323,167,Walter F. Parkes,Producer,Production,FALSE
+1324,167,Danny Elfman,Composer,Sound,FALSE
+1325,167,Bill Pope,Cinematographer,Camera,FALSE
+1326,167,Don Zimmerman,Editor,Editing,FALSE
+1327,167,Bo Welch,Production Designer,Art,FALSE
+1328,167,Ken Ralston,Visual Effects Supervisor,VisualEffects,FALSE
+
+1329,168,Ridley Scott,Director,Directing,TRUE
+1330,168,Drew Goddard,Writer,Writing,TRUE
+1331,168,Simon Kinberg,Producer,Production,TRUE
+1332,168,Harry Gregson-Williams,Composer,Sound,FALSE
+1333,168,Dariusz Wolski,Cinematographer,Camera,FALSE
+1334,168,Pietro Scalia,Editor,Editing,TRUE
+1335,168,Arthur Max,Production Designer,Art,TRUE
+
+1336,169,Carlos Saldanha,Director,Directing,FALSE
+1337,169,Peter Ackerman,Writer,Writing,FALSE
+1338,169,Lori Forte,Producer,Production,FALSE
+1339,169,John Powell,Composer,Sound,FALSE
+1340,169,Craig Grasso,Cinematographer,Camera,FALSE
+1341,169,Harry Hitner,Editor,Editing,FALSE
+1342,169,Thomas Cardone,Production Designer,Art,FALSE
+
+1343,170,Don Hall,Director,Directing,TRUE
+1344,170,Chris Williams,Director,Directing,TRUE
+1345,170,Jordan Roberts,Writer,Writing,TRUE
+1346,170,Roy Conli,Producer,Production,TRUE
+1347,170,Henry Jackman,Composer,Sound,TRUE
+1348,170,Adolph Lusinsky,Cinematographer,Camera,FALSE
+1349,170,Tim Mertens,Editor,Editing,FALSE
+1350,170,Paul Felix,Production Designer,Art,TRUE
+1351,171,Francis Lawrence,Director,Directing,FALSE
+1352,171,Peter Craig,Writer,Writing,FALSE
+1353,171,Danny Strong,Writer,Writing,FALSE
+1354,171,Nina Jacobson,Producer,Production,FALSE
+1355,171,James Newton Howard,Composer,Sound,FALSE
+1356,171,Jo Willems,Cinematographer,Camera,FALSE
+1357,171,Alan Edward Bell,Editor,Editing,FALSE
+1358,171,Philip Messina,Production Designer,Art,FALSE
+
+1359,172,Alan Taylor,Director,Directing,FALSE
+1360,172,Christopher Yost,Writer,Writing,FALSE
+1361,172,Kevin Feige,Producer,Production,FALSE
+1362,172,Brian Tyler,Composer,Sound,FALSE
+1363,172,Kramer Morgenthau,Cinematographer,Camera,FALSE
+1364,172,Dan Lebental,Editor,Editing,FALSE
+1365,172,Charles Wood,Production Designer,Art,FALSE
+1366,172,Jake Morrison,Visual Effects Supervisor,VisualEffects,FALSE
+
+1367,173,Christopher Nolan,Director,Directing,TRUE
+1368,173,Jonathan Nolan,Writer,Writing,TRUE
+1369,173,Emma Thomas,Producer,Production,TRUE
+1370,173,Hans Zimmer,Composer,Sound,TRUE
+1371,173,Hoyte van Hoytema,Cinematographer,Camera,TRUE
+1372,173,Lee Smith,Editor,Editing,TRUE
+1373,173,Nathan Crowley,Production Designer,Art,TRUE
+1374,173,Paul Franklin,Visual Effects Supervisor,VisualEffects,TRUE
+
+1375,174,Haruo Sotozaki,Director,Directing,FALSE
+1376,174,Koyoharu Gotouge,Writer,Writing,FALSE
+1377,174,Akifumi Fujio,Producer,Production,FALSE
+1378,174,Yuki Kajiura,Composer,Sound,FALSE
+1379,174,Ufotable,Visual Effects Supervisor,VisualEffects,FALSE
+
+1380,175,Dean DeBlois,Director,Directing,FALSE
+1381,175,Dean DeBlois,Writer,Writing,FALSE
+1382,175,Bonnie Arnold,Producer,Production,FALSE
+1383,175,John Powell,Composer,Sound,FALSE
+1384,175,Gil Zimmerman,Cinematographer,Camera,FALSE
+1385,175,John K. Carr,Editor,Editing,FALSE
+1386,175,Pierre-Olivier Vincent,Production Designer,Art,FALSE
+
+1387,176,Paul King,Director,Directing,FALSE
+1388,176,Simon Farnaby,Writer,Writing,FALSE
+1389,176,David Heyman,Producer,Production,FALSE
+1390,176,Joby Talbot,Composer,Sound,FALSE
+1391,176,Seamus McGarvey,Cinematographer,Camera,FALSE
+1392,176,Mark Everson,Editor,Editing,FALSE
+1393,176,Nathan Crowley,Production Designer,Art,FALSE
+1394,176,Tom Proctor,Visual Effects Supervisor,VisualEffects,FALSE
+
+1395,177,Mark Osborne,Director,Directing,TRUE
+1396,177,John Stevenson,Director,Directing,TRUE
+1397,177,Jonathan Aibel,Writer,Writing,TRUE
+1398,177,Glenn Berger,Writer,Writing,TRUE
+1399,177,Melissa Cobb,Producer,Production,TRUE
+1400,177,Hans Zimmer,Composer,Sound,TRUE
+1401,177,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1402,177,Clare Knight,Editor,Editing,FALSE
+
+1403,178,Brad Bird,Director,Directing,TRUE
+1404,178,Brad Bird,Writer,Writing,TRUE
+1405,178,John Walker,Producer,Production,TRUE
+1406,178,Michael Giacchino,Composer,Sound,TRUE
+1407,178,Andrew Jimenez,Cinematographer,Camera,FALSE
+1408,178,Stephen Schaffer,Editor,Editing,TRUE
+1409,178,Lou Romano,Production Designer,Art,TRUE
+1410,178,Ralph Eggleston,Visual Effects Supervisor,VisualEffects,TRUE
+
+1411,179,Garth Jennings,Director,Directing,FALSE
+1412,179,Garth Jennings,Writer,Writing,FALSE
+1413,179,Chris Meledandri,Producer,Production,FALSE
+1414,179,Joby Talbot,Composer,Sound,FALSE
+1415,179,Thomas E. Ackerman,Cinematographer,Camera,FALSE
+1416,179,Greg Perler,Editor,Editing,FALSE
+1417,179,Eric Guillon,Production Designer,Art,FALSE
+
+1418,180,Justin Lin,Director,Directing,FALSE
+1419,180,Chris Morgan,Writer,Writing,FALSE
+1420,180,Neal H. Moritz,Producer,Production,FALSE
+1421,180,Brian Tyler,Composer,Sound,FALSE
+1422,180,Stephen F. Windon,Cinematographer,Camera,FALSE
+1423,180,Christian Wagner,Editor,Editing,FALSE
+1424,180,Peter Wenham,Production Designer,Art,FALSE
+
+1425,181,Joseph Kosinski,Director,Directing,FALSE
+1426,181,Ehren Kruger,Writer,Writing,FALSE
+1427,181,Jerry Bruckheimer,Producer,Production,FALSE
+1428,181,Hans Zimmer,Composer,Sound,FALSE
+1429,181,Claudio Miranda,Cinematographer,Camera,FALSE
+1430,181,Eddie Hamilton,Editor,Editing,FALSE
+1431,181,Jeremy Hindle,Production Designer,Art,FALSE
+
+1432,182,Brad Bird,Director,Directing,TRUE
+1433,182,Jan Pinkava,Writer,Writing,TRUE
+1434,182,Brad Lewis,Producer,Production,TRUE
+1435,182,Michael Giacchino,Composer,Sound,TRUE
+1436,182,Sharon Calahan,Cinematographer,Camera,TRUE
+1437,182,Darren Holmes,Editor,Editing,TRUE
+1438,182,Harley Jessup,Production Designer,Art,TRUE
+
+1439,183,Peter Berg,Director,Directing,FALSE
+1440,183,Vincent Ngo,Writer,Writing,FALSE
+1441,183,Akiva Goldsman,Producer,Production,FALSE
+1442,183,John Powell,Composer,Sound,FALSE
+1443,183,Dion Beebe,Cinematographer,Camera,FALSE
+1444,183,Colby Parker Jr.,Editor,Editing,FALSE
+1445,183,Neil Spisak,Production Designer,Art,FALSE
+
+1446,184,Peyton Reed,Director,Directing,FALSE
+1447,184,Chris McKenna,Writer,Writing,FALSE
+1448,184,Erik Sommers,Writer,Writing,FALSE
+1449,184,Kevin Feige,Producer,Production,FALSE
+1450,184,Christophe Beck,Composer,Sound,FALSE
+1451,184,Dante Spinotti,Cinematographer,Camera,FALSE
+1452,184,Dan Lebental,Editor,Editing,FALSE
+1453,184,Shepherd Frankel,Production Designer,Art,FALSE
+
+1454,185,Mel Gibson,Director,Directing,FALSE
+1455,185,Mel Gibson,Writer,Writing,FALSE
+1456,185,Bruce Davey,Producer,Production,FALSE
+1457,185,John Debney,Composer,Sound,FALSE
+1458,185,Caleb Deschanel,Cinematographer,Camera,FALSE
+1459,185,John Wright,Editor,Editing,FALSE
+1460,185,Francesca Lo Schiavo,Production Designer,Art,TRUE
+
+1461,186,Jon Favreau,Director,Directing,FALSE
+1462,186,Justin Theroux,Writer,Writing,FALSE
+1463,186,Kevin Feige,Producer,Production,FALSE
+1464,186,John Debney,Composer,Sound,FALSE
+1465,186,Matthew Libatique,Cinematographer,Camera,FALSE
+1466,186,Dan Lebental,Editor,Editing,FALSE
+1467,186,J. Michael Riva,Production Designer,Art,FALSE
+1468,186,Janek Sirrs,Visual Effects Supervisor,VisualEffects,TRUE
+
+1469,187,Ang Lee,Director,Directing,TRUE
+1470,187,David Magee,Writer,Writing,TRUE
+1471,187,David Womark,Producer,Production,TRUE
+1472,187,Mychael Danna,Composer,Sound,TRUE
+1473,187,Claudio Miranda,Cinematographer,Camera,TRUE
+1474,187,Tim Squyres,Editor,Editing,TRUE
+1475,187,David Gropman,Production Designer,Art,TRUE
+1476,187,Bill Westenhofer,Visual Effects Supervisor,VisualEffects,TRUE
+
+1477,188,Steven Spielberg,Director,Directing,FALSE
+1478,188,David Koepp,Writer,Writing,FALSE
+1479,188,Kathleen Kennedy,Producer,Production,FALSE
+1480,188,John Williams,Composer,Sound,FALSE
+1481,188,Janusz Kamiński,Cinematographer,Camera,FALSE
+1482,188,Michael Kahn,Editor,Editing,FALSE
+1483,188,Rick Carter,Production Designer,Art,FALSE
+
+1484,189,James Gunn,Director,Directing,FALSE
+1485,189,James Gunn,Writer,Writing,FALSE
+1486,189,Peter Safran,Producer,Production,FALSE
+1487,189,John Murphy,Composer,Sound,FALSE
+1488,189,Henry Braham,Cinematographer,Camera,FALSE
+1489,189,Fred Raskin,Editor,Editing,FALSE
+1490,189,Beth Mickle,Production Designer,Art,FALSE
+1491,189,Stephane Ceretti,Visual Effects Supervisor,VisualEffects,FALSE
+
+1492,190,Dean DeBlois,Director,Directing,TRUE
+1493,190,Dean DeBlois,Writer,Writing,TRUE
+1494,190,Bonnie Arnold,Producer,Production,TRUE
+1495,190,John Powell,Composer,Sound,TRUE
+1496,190,Roger Deakins,Cinematographer,Camera,FALSE
+1497,190,John K. Carr,Editor,Editing,TRUE
+1498,190,Pierre-Olivier Vincent,Production Designer,Art,TRUE
+1499,190,Simon Otto,Visual Effects Supervisor,VisualEffects,TRUE
+1500,191,James Mangold,Director,Directing,TRUE
+1501,191,Scott Frank,Writer,Writing,TRUE
+1502,191,Michael Green,Writer,Writing,TRUE
+1503,191,Simon Kinberg,Producer,Production,FALSE
+1504,191,Marco Beltrami,Composer,Sound,TRUE
+1505,191,John Mathieson,Cinematographer,Camera,FALSE
+1506,191,Michael McCusker,Editor,Editing,TRUE
+1507,191,Franco-Giacomo Carbone,Production Designer,Art,FALSE
+
+1508,192,Frant Gwo,Director,Directing,TRUE
+1509,192,Gong Geer,Writer,Writing,FALSE
+1510,192,Liu Cixin,Writer,Writing,FALSE
+1511,192,Guo Fan,Producer,Production,FALSE
+1512,192,Rock Chen,Composer,Sound,FALSE
+1513,192,Michael Liu,Cinematographer,Camera,FALSE
+1514,192,Wang Hongyu,Editor,Editing,FALSE
+1515,192,Han Qing,Production Designer,Art,FALSE
+
+1516,193,Steven Spielberg,Director,Directing,FALSE
+1517,193,David Koepp,Writer,Writing,FALSE
+1518,193,Kathleen Kennedy,Producer,Production,FALSE
+1519,193,John Williams,Composer,Sound,FALSE
+1520,193,Janusz Kamiński,Cinematographer,Camera,FALSE
+1521,193,Michael Kahn,Editor,Editing,FALSE
+1522,193,Rick Carter,Production Designer,Art,FALSE
+1523,193,Pablo Helman,Visual Effects Supervisor,VisualEffects,FALSE
+
+1524,194,Michael Bay,Director,Directing,FALSE
+1525,194,Art Marcum,Writer,Writing,FALSE
+1526,194,Ken Nolan,Writer,Writing,FALSE
+1527,194,Lorenzo di Bonaventura,Producer,Production,FALSE
+1528,194,Steve Jablonsky,Composer,Sound,FALSE
+1529,194,Jonathan Sela,Cinematographer,Camera,FALSE
+1530,194,Roger Barton,Editor,Editing,FALSE
+1531,194,Jeff Mann,Production Designer,Art,FALSE
+
+1532,195,Eric Darnell,Director,Directing,FALSE
+1533,195,Tom McGrath,Director,Directing,FALSE
+1534,195,Etan Cohen,Writer,Writing,FALSE
+1535,195,Mireille Soria,Producer,Production,FALSE
+1536,195,Hans Zimmer,Composer,Sound,FALSE
+1537,195,Yannick Dusseault,Cinematographer,Camera,FALSE
+1538,195,Mark A. Hester,Editor,Editing,FALSE
+1539,195,Kristopher Vernon,Production Designer,Art,FALSE
+
+1540,196,Martin Campbell,Director,Directing,TRUE
+1541,196,Neal Purvis,Writer,Writing,TRUE
+1542,196,Robert Wade,Writer,Writing,TRUE
+1543,196,Barbara Broccoli,Producer,Production,TRUE
+1544,196,David Arnold,Composer,Sound,TRUE
+1545,196,Phil Méheux,Cinematographer,Camera,TRUE
+1546,196,Stuart Baird,Editor,Editing,TRUE
+1547,196,Peter Lamont,Production Designer,Art,TRUE
+
+1548,197,Marc Forster,Director,Directing,FALSE
+1549,197,Paul Haggis,Writer,Writing,FALSE
+1550,197,Barbara Broccoli,Producer,Production,FALSE
+1551,197,David Arnold,Composer,Sound,FALSE
+1552,197,Roberto Schaefer,Cinematographer,Camera,FALSE
+1553,197,Matt Chesse,Editor,Editing,FALSE
+1554,197,Peter Lamont,Production Designer,Art,FALSE
+
+1555,198,Christopher McQuarrie,Director,Directing,FALSE
+1556,198,Erik Jendresen,Writer,Writing,FALSE
+1557,198,Tom Cruise,Producer,Production,FALSE
+1558,198,Lorne Balfe,Composer,Sound,FALSE
+1559,198,Fraser Taggart,Cinematographer,Camera,FALSE
+1560,198,Eddie Hamilton,Editor,Editing,FALSE
+1561,198,Gary Freeman,Production Designer,Art,FALSE
+
+1562,199,Barry Sonnenfeld,Director,Directing,TRUE
+1563,199,Ed Solomon,Writer,Writing,TRUE
+1564,199,Walter F. Parkes,Producer,Production,TRUE
+1565,199,Danny Elfman,Composer,Sound,TRUE
+1566,199,Don Peterman,Cinematographer,Camera,TRUE
+1567,199,Jim Miller,Editor,Editing,FALSE
+1568,199,Bo Welch,Production Designer,Art,TRUE
+1569,199,Eric Brevig,Visual Effects Supervisor,VisualEffects,TRUE
+
+1570,200,Todd Phillips,Director,Directing,FALSE
+1571,200,Craig Mazin,Writer,Writing,FALSE
+1572,200,Daniel Goldberg,Producer,Production,FALSE
+1573,200,Christophe Beck,Composer,Sound,FALSE
+1574,200,Lawrence Sher,Cinematographer,Camera,FALSE
+1575,200,Debra Neil-Fisher,Editor,Editing,FALSE
+1576,200,Bill Brzeski,Production Designer,Art,FALSE
+
+1577,201,Francis Lawrence,Director,Directing,FALSE
+1578,201,Mark Protosevich,Writer,Writing,FALSE
+1579,201,Akiva Goldsman,Producer,Production,FALSE
+1580,201,James Newton Howard,Composer,Sound,FALSE
+1581,201,Andrew Lesnie,Cinematographer,Camera,FALSE
+1582,201,Wayne Wahrman,Editor,Editing,FALSE
+1583,201,Naomi Shohan,Production Designer,Art,FALSE
+
+1584,202,Jon Favreau,Director,Directing,TRUE
+1585,202,Mark Fergus,Writer,Writing,TRUE
+1586,202,Hawk Ostby,Writer,Writing,TRUE
+1587,202,Kevin Feige,Producer,Production,TRUE
+1588,202,Ramin Djawadi,Composer,Sound,TRUE
+1589,202,Matthew Libatique,Cinematographer,Camera,TRUE
+1590,202,Dan Lebental,Editor,Editing,TRUE
+1591,202,J. Michael Riva,Production Designer,Art,TRUE
+
+1592,203,Steven Spielberg,Director,Directing,FALSE
+1593,203,Zak Penn,Writer,Writing,FALSE
+1594,203,Ernest Cline,Writer,Writing,FALSE
+1595,203,Kristie Macosko Krieger,Producer,Production,FALSE
+1596,203,Alan Silvestri,Composer,Sound,FALSE
+1597,203,Janusz Kamiński,Cinematographer,Camera,FALSE
+1598,203,Michael Kahn,Editor,Editing,FALSE
+1599,203,Adam Stockhausen,Production Designer,Art,FALSE
+
+1600,204,Nathan Greno,Director,Directing,FALSE
+1601,204,Byron Howard,Director,Directing,FALSE
+1602,204,Dan Fogelman,Writer,Writing,FALSE
+1603,204,Roy Conli,Producer,Production,FALSE
+1604,204,Alan Menken,Composer,Sound,FALSE
+1605,204,Rasoul Azadani,Cinematographer,Camera,FALSE
+1606,204,Kevin Nolting,Editor,Editing,FALSE
+1607,204,Douglas Rogers,Production Designer,Art,FALSE
+
+1608,205,Zhang Yimou,Director,Directing,TRUE
+1609,205,Chen Yu,Writer,Writing,FALSE
+1610,205,Li Li,Producer,Production,TRUE
+1611,205,Chen Qigang,Composer,Sound,FALSE
+1612,205,Xiaoding Zhao,Cinematographer,Camera,FALSE
+1613,205,Li Yongyi,Editor,Editing,FALSE
+1614,205,Ma Wenhao,Production Designer,Art,TRUE
+
+1615,206,Phyllida Lloyd,Director,Directing,FALSE
+1616,206,Catherine Johnson,Writer,Writing,FALSE
+1617,206,Judy Craymer,Producer,Production,FALSE
+1618,206,Benny Andersson,Composer,Sound,FALSE
+1619,206,Russell Carpenter,Cinematographer,Camera,FALSE
+1620,206,Lesley Walker,Editor,Editing,FALSE
+1621,206,Maria Djurkovic,Production Designer,Art,FALSE
+
+1622,207,Shawn Levy,Director,Directing,FALSE
+1623,207,Robert Ben Garant,Writer,Writing,FALSE
+1624,207,Thomas Lennon,Writer,Writing,FALSE
+1625,207,Chris Columbus,Producer,Production,FALSE
+1626,207,Alan Silvestri,Composer,Sound,FALSE
+1627,207,Guillermo Navarro,Cinematographer,Camera,FALSE
+1628,207,Don Zimmerman,Editor,Editing,FALSE
+1629,207,Claude Paré,Production Designer,Art,FALSE
+
+1630,208,Chris Sanders,Director,Directing,FALSE
+1631,208,Kirk DeMicco,Director,Directing,FALSE
+1632,208,John Cleese,Writer,Writing,FALSE
+1633,208,Kristine Belson,Producer,Production,FALSE
+1634,208,Alan Silvestri,Composer,Sound,FALSE
+1635,208,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1636,208,James Ryan,Editor,Editing,FALSE
+1637,208,Paul Duncan,Production Designer,Art,FALSE
+
+1638,209,Adam Wingard,Director,Directing,FALSE
+1639,209,Terry Rossio,Writer,Writing,FALSE
+1640,209,Simon Barrett,Writer,Writing,FALSE
+1641,209,Alex Garcia,Producer,Production,FALSE
+1642,209,Tom Holkenborg,Composer,Sound,FALSE
+1643,209,Ben Seresin,Cinematographer,Camera,FALSE
+1644,209,Josh Schaeffer,Editor,Editing,FALSE
+1645,209,Owen Paterson,Production Designer,Art,FALSE
+
+1646,210,Jordan Vogt-Roberts,Director,Directing,FALSE
+1647,210,Dan Gilroy,Writer,Writing,FALSE
+1648,210,Max Borenstein,Writer,Writing,FALSE
+1649,210,Mary Parent,Producer,Production,FALSE
+1650,210,Henry Jackman,Composer,Sound,FALSE
+1651,210,Larry Fong,Cinematographer,Camera,FALSE
+1652,210,Richard Pearson,Editor,Editing,FALSE
+1653,210,Stefan Dechant,Production Designer,Art,FALSE
+1654,211,Sam Taylor-Johnson,Director,Directing,FALSE
+1655,211,Kelly Marcel,Writer,Writing,FALSE
+1656,211,E. L. James,Producer,Production,FALSE
+1657,211,Danny Elfman,Composer,Sound,FALSE
+1658,211,Seamus McGarvey,Cinematographer,Camera,FALSE
+1659,211,Anne V. Coates,Editor,Editing,FALSE
+1660,211,David Wasco,Production Designer,Art,FALSE
+
+1661,212,Chen Sicheng,Director,Directing,FALSE
+1662,212,Chen Sicheng,Writer,Writing,FALSE
+1663,212,Chen Sicheng,Producer,Production,FALSE
+1664,212,Nathan Wang,Composer,Sound,FALSE
+1665,212,Shi Yongxiang,Cinematographer,Camera,FALSE
+1666,212,He Rongguang,Editor,Editing,FALSE
+1667,212,Han Zhong,Production Designer,Art,FALSE
+
+1668,213,Rob Marshall,Director,Directing,FALSE
+1669,213,David Magee,Writer,Writing,FALSE
+1670,213,Marc Platt,Producer,Production,FALSE
+1671,213,Alan Menken,Composer,Sound,FALSE
+1672,213,Dion Beebe,Cinematographer,Camera,FALSE
+1673,213,Wyatt Smith,Editor,Editing,FALSE
+1674,213,John Myhre,Production Designer,Art,FALSE
+1675,213,Tim Burke,Visual Effects Supervisor,VisualEffects,FALSE
+
+1676,214,Christopher McQuarrie,Director,Directing,FALSE
+1677,214,Christopher McQuarrie,Writer,Writing,FALSE
+1678,214,Tom Cruise,Producer,Production,FALSE
+1679,214,Lorne Balfe,Composer,Sound,FALSE
+1680,214,Fraser Taggart,Cinematographer,Camera,FALSE
+1681,214,Eddie Hamilton,Editor,Editing,FALSE
+1682,214,Gary Freeman,Production Designer,Art,FALSE
+
+1683,215,Raja Gosnell,Director,Directing,FALSE
+1684,215,J. David Stem,Writer,Writing,FALSE
+1685,215,Jordan Kerner,Producer,Production,FALSE
+1686,215,Heitor Pereira,Composer,Sound,FALSE
+1687,215,Phil Meheux,Cinematographer,Camera,FALSE
+1688,215,David Freeman,Editor,Editing,FALSE
+1689,215,Bill Boes,Production Designer,Art,FALSE
+
+1690,216,Pete Docter,Director,Directing,TRUE
+1691,216,David Silverman,Co-Director,Directing,TRUE
+1692,216,Andrew Stanton,Writer,Writing,TRUE
+1693,216,John Lasseter,Producer,Production,TRUE
+1694,216,Randy Newman,Composer,Sound,TRUE
+1695,216,Sharon Calahan,Cinematographer,Camera,FALSE
+1696,216,Jim Stewart,Editor,Editing,FALSE
+1697,216,Bob Pauley,Production Designer,Art,TRUE
+
+1698,217,John Lasseter,Director,Directing,FALSE
+1699,217,Brad Lewis,Co-Director,Directing,FALSE
+1700,217,Ben Queen,Writer,Writing,FALSE
+1701,217,Darla K. Anderson,Producer,Production,FALSE
+1702,217,Michael Giacchino,Composer,Sound,FALSE
+1703,217,Jeremy Lasky,Cinematographer,Camera,FALSE
+1704,217,Jason Hudak,Editor,Editing,FALSE
+1705,217,Nash Dunnigan,Production Designer,Art,FALSE
+
+1706,218,Peter Jackson,Director,Directing,TRUE
+1707,218,Fran Walsh,Writer,Writing,TRUE
+1708,218,Philippa Boyens,Writer,Writing,TRUE
+1709,218,Jan Blenkin,Producer,Production,FALSE
+1710,218,James Newton Howard,Composer,Sound,FALSE
+1711,218,Andrew Lesnie,Cinematographer,Camera,TRUE
+1712,218,Jamie Selkirk,Editor,Editing,TRUE
+1713,218,Grant Major,Production Designer,Art,TRUE
+1714,218,Joe Letteri,Visual Effects Supervisor,VisualEffects,TRUE
+
+1715,219,Eric Darnell,Director,Directing,FALSE
+1716,219,Tom McGrath,Director,Directing,FALSE
+1717,219,Mark Burton,Writer,Writing,FALSE
+1718,219,Mireille Soria,Producer,Production,FALSE
+1719,219,Hans Zimmer,Composer,Sound,FALSE
+1720,219,Yannick Dusseault,Cinematographer,Camera,FALSE
+1721,219,Mark A. Hester,Editor,Editing,FALSE
+1722,219,Kristopher Vernon,Production Designer,Art,FALSE
+
+1723,220,Seth MacFarlane,Director,Directing,FALSE
+1724,220,Seth MacFarlane,Writer,Writing,FALSE
+1725,220,Jason Clark,Producer,Production,FALSE
+1726,220,Walter Murphy,Composer,Sound,FALSE
+1727,220,Michael Barrett,Cinematographer,Camera,FALSE
+1728,220,Jeff Freeman,Editor,Editing,FALSE
+1729,220,Stephen Lineweaver,Production Designer,Art,FALSE
+
+1730,221,Roland Emmerich,Director,Directing,FALSE
+1731,221,Jeffrey Nachmanoff,Writer,Writing,FALSE
+1732,221,Mark Gordon,Producer,Production,FALSE
+1733,221,Harald Kloser,Composer,Sound,FALSE
+1734,221,Ueli Steiger,Cinematographer,Camera,FALSE
+1735,221,David Brenner,Editor,Editing,FALSE
+1736,221,Barry Chusid,Production Designer,Art,FALSE
+1737,221,Volker Engel,Visual Effects Supervisor,VisualEffects,FALSE
+
+1738,222,Chris Miller,Director,Directing,FALSE
+1739,222,Brian Lynch,Writer,Writing,FALSE
+1740,222,Joe Aguilar,Producer,Production,FALSE
+1741,222,Henry Jackman,Composer,Sound,FALSE
+1742,222,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1743,222,Eric Dapkewicz,Editor,Editing,FALSE
+1744,222,Ramiro Lopez Dau,Production Designer,Art,FALSE
+
+1745,223,Mark Andrews,Director,Directing,TRUE
+1746,223,Brenda Chapman,Director,Directing,TRUE
+1747,223,Steve Purcell,Writer,Writing,TRUE
+1748,223,Katherine Sarafian,Producer,Production,TRUE
+1749,223,Patrick Doyle,Composer,Sound,TRUE
+1750,223,Robert Anderson,Cinematographer,Camera,FALSE
+1751,223,Nicholas C. Smith,Editor,Editing,FALSE
+1752,223,Steve Pilcher,Production Designer,Art,TRUE
+
+1753,224,Michael Bay,Director,Directing,FALSE
+1754,224,Jonathan Hensleigh,Writer,Writing,FALSE
+1755,224,Jerry Bruckheimer,Producer,Production,FALSE
+1756,224,Trevor Rabin,Composer,Sound,FALSE
+1757,224,John Schwartzman,Cinematographer,Camera,FALSE
+1758,224,Mark Goldblatt,Editor,Editing,FALSE
+1759,224,Michael White,Production Designer,Art,FALSE
+
+1760,225,John Woo,Director,Directing,FALSE
+1761,225,Robert Towne,Writer,Writing,FALSE
+1762,225,Tom Cruise,Producer,Production,FALSE
+1763,225,Hans Zimmer,Composer,Sound,FALSE
+1764,225,Jeffrey L. Kimball,Cinematographer,Camera,FALSE
+1765,225,Christian Wagner,Editor,Editing,FALSE
+1766,225,Thomas E. Sanders,Production Designer,Art,FALSE
+
+1767,226,Irvin Kershner,Director,Directing,TRUE
+1768,226,Lawrence Kasdan,Writer,Writing,TRUE
+1769,226,Leigh Brackett,Writer,Writing,FALSE
+1770,226,George Lucas,Producer,Production,TRUE
+1771,226,John Williams,Composer,Sound,TRUE
+1772,226,Peter Suschitzky,Cinematographer,Camera,FALSE
+1773,226,Paul Hirsch,Editor,Editing,TRUE
+1774,226,Norman Reynolds,Production Designer,Art,TRUE
+1775,226,Brian Johnson,Visual Effects Supervisor,VisualEffects,TRUE
+
+1776,227,Mike Mitchell,Director,Directing,FALSE
+1777,227,Stephanie Ma Stine,Co-Director,Directing,FALSE
+1778,227,Jonathan Aibel,Writer,Writing,FALSE
+1779,227,Glenn Berger,Writer,Writing,FALSE
+1780,227,Rebecca Huntley,Producer,Production,FALSE
+1781,227,Hans Zimmer,Composer,Sound,FALSE
+1782,227,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1783,227,Christopher Knights,Editor,Editing,FALSE
+
+1784,228,Clint Eastwood,Director,Directing,TRUE
+1785,228,Jason Hall,Writer,Writing,FALSE
+1786,228,Bradley Cooper,Producer,Production,FALSE
+1787,228,Clint Eastwood,Composer,Sound,TRUE
+1788,228,Tom Stern,Cinematographer,Camera,FALSE
+1789,228,Joel Cox,Editor,Editing,TRUE
+1790,228,James J. Murakami,Production Designer,Art,FALSE
+
+1791,229,Pierre Coffin,Director,Directing,FALSE
+1792,229,Chris Renaud,Director,Directing,FALSE
+1793,229,Cinco Paul,Writer,Writing,FALSE
+1794,229,Ken Daurio,Writer,Writing,FALSE
+1795,229,Chris Meledandri,Producer,Production,FALSE
+1796,229,Heitor Pereira,Composer,Sound,FALSE
+1797,229,Ken Daurio,Cinematographer,Camera,FALSE
+1798,229,Greg Perler,Editor,Editing,FALSE
+
+1799,230,Chen Sicheng,Director,Directing,FALSE
+1800,230,Chen Sicheng,Writer,Writing,FALSE
+1801,230,Chen Sicheng,Producer,Production,FALSE
+1802,230,Nathan Wang,Composer,Sound,FALSE
+1803,230,Shi Yongxiang,Cinematographer,Camera,FALSE
+1804,230,He Rongguang,Editor,Editing,FALSE
+1805,230,Han Zhong,Production Designer,Art,FALSE
+1806,231,Bryan Singer,Director,Directing,FALSE
+1807,231,Simon Kinberg,Writer,Writing,FALSE
+1808,231,Lauren Shuler Donner,Producer,Production,FALSE
+1809,231,John Ottman,Composer,Sound,FALSE
+1810,231,Newton Thomas Sigel,Cinematographer,Camera,FALSE
+1811,231,John Ottman,Editor,Editing,FALSE
+1812,231,Grant Major,Production Designer,Art,FALSE
+1813,231,Richard Stammers,Visual Effects Supervisor,VisualEffects,FALSE
+
+1814,232,Kenneth Branagh,Director,Directing,FALSE
+1815,232,Chris Weitz,Writer,Writing,FALSE
+1816,232,Simon Kinberg,Producer,Production,FALSE
+1817,232,Patrick Doyle,Composer,Sound,FALSE
+1818,232,Haris Zambarloukos,Cinematographer,Camera,FALSE
+1819,232,Martin Walsh,Editor,Editing,FALSE
+1820,232,Dante Ferretti,Production Designer,Art,FALSE
+
+1821,233,Guy Ritchie,Director,Directing,FALSE
+1822,233,Michele Mulroney,Writer,Writing,FALSE
+1823,233,Kieran Mulroney,Writer,Writing,FALSE
+1824,233,Joel Silver,Producer,Production,FALSE
+1825,233,Hans Zimmer,Composer,Sound,FALSE
+1826,233,Philippe Rousselot,Cinematographer,Camera,FALSE
+1827,233,James Herbert,Editor,Editing,FALSE
+1828,233,Sarah Greenwood,Production Designer,Art,FALSE
+
+1829,234,Alejandro G. Iñárritu,Director,Directing,TRUE
+1830,234,Alejandro G. Iñárritu,Writer,Writing,TRUE
+1831,234,Mark L. Smith,Writer,Writing,TRUE
+1832,234,Arnon Milchan,Producer,Production,TRUE
+1833,234,Ryuichi Sakamoto,Composer,Sound,TRUE
+1834,234,Emmanuel Lubezki,Cinematographer,Camera,TRUE
+1835,234,Stephen Mirrione,Editor,Editing,FALSE
+1836,234,Jack Fisk,Production Designer,Art,TRUE
+
+1837,235,Andrew Stanton,Director,Directing,TRUE
+1838,235,Jim Reardon,Writer,Writing,TRUE
+1839,235,Jim Morris,Producer,Production,TRUE
+1840,235,Thomas Newman,Composer,Sound,TRUE
+1841,235,Jeremy Lasky,Cinematographer,Camera,FALSE
+1842,235,Stephen Schaffer,Editor,Editing,TRUE
+1843,235,Ralph Eggleston,Production Designer,Art,TRUE
+
+1844,236,Marc Forster,Director,Directing,FALSE
+1845,236,Matthew Michael Carnahan,Writer,Writing,FALSE
+1846,236,Dede Gardner,Producer,Production,FALSE
+1847,236,Marco Beltrami,Composer,Sound,FALSE
+1848,236,Ben Seresin,Cinematographer,Camera,FALSE
+1849,236,Matt Chesse,Editor,Editing,FALSE
+1850,236,Nigel Phelps,Production Designer,Art,FALSE
+
+1851,237,Rich Moore,Director,Directing,FALSE
+1852,237,Phil Johnston,Director,Directing,FALSE
+1853,237,Pamela Ribon,Writer,Writing,FALSE
+1854,237,Clark Spencer,Producer,Production,FALSE
+1855,237,Henry Jackman,Composer,Sound,FALSE
+1856,237,Nathan Warner,Cinematographer,Camera,FALSE
+1857,237,Jeremy Milton,Editor,Editing,FALSE
+1858,237,Matthias Lechner,Production Designer,Art,FALSE
+
+1859,238,Jon Turteltaub,Director,Directing,FALSE
+1860,238,Dean Georgaris,Writer,Writing,FALSE
+1861,238,Belle Avery,Producer,Production,FALSE
+1862,238,Harry Gregson-Williams,Composer,Sound,FALSE
+1863,238,Tom Stern,Cinematographer,Camera,FALSE
+1864,238,Steven Kemper,Editor,Editing,FALSE
+1865,238,Grant Armstrong,Production Designer,Art,FALSE
+
+1866,239,Gareth Edwards,Director,Directing,FALSE
+1867,239,Max Borenstein,Writer,Writing,FALSE
+1868,239,Thomas Tull,Producer,Production,FALSE
+1869,239,Alexandre Desplat,Composer,Sound,FALSE
+1870,239,Seamus McGarvey,Cinematographer,Camera,FALSE
+1871,239,Bob Ducsay,Editor,Editing,FALSE
+1872,239,Owen Paterson,Production Designer,Art,FALSE
+1873,239,Jim Rygiel,Visual Effects Supervisor,VisualEffects,FALSE
+
+1874,240,Christopher Nolan,Director,Directing,TRUE
+1875,240,Christopher Nolan,Writer,Writing,TRUE
+1876,240,Emma Thomas,Producer,Production,TRUE
+1877,240,Hans Zimmer,Composer,Sound,TRUE
+1878,240,Hans Zimmer,Cinematographer,Camera,FALSE
+1879,240,Lee Smith,Editor,Editing,TRUE
+1880,240,Nathan Crowley,Production Designer,Art,TRUE
+
+1881,241,Tom McGrath,Director,Directing,FALSE
+1882,241,Michael McCullers,Writer,Writing,FALSE
+1883,241,Damien Connelly,Producer,Production,FALSE
+1884,241,Hans Zimmer,Composer,Sound,FALSE
+1885,241,Peter Sorg,Cinematographer,Camera,FALSE
+1886,241,James Ryan,Editor,Editing,FALSE
+1887,241,Ronald Kurniawan,Production Designer,Art,FALSE
+
+1888,242,Genndy Tartakovsky,Director,Directing,FALSE
+1889,242,Michael McCullers,Writer,Writing,FALSE
+1890,242,Michelle Murdocca,Producer,Production,FALSE
+1891,242,Mark Mothersbaugh,Composer,Sound,FALSE
+1892,242,Allen Simpson,Cinematographer,Camera,FALSE
+1893,242,Joyce Arrastia,Editor,Editing,FALSE
+1894,242,Scott Wills,Production Designer,Art,FALSE
+
+1895,243,David Silverman,Director,Directing,FALSE
+1896,243,James L. Brooks,Writer,Writing,FALSE
+1897,243,Matt Groening,Writer,Writing,FALSE
+1898,243,Al Jean,Producer,Production,FALSE
+1899,243,Hans Zimmer,Composer,Sound,FALSE
+1900,243,Matthew Faughnan,Cinematographer,Camera,FALSE
+1901,243,John Carnochan,Editor,Editing,FALSE
+1902,243,Rick Heinrichs,Production Designer,Art,FALSE
+
+1903,244,Stephen Chow,Director,Directing,TRUE
+1904,244,Stephen Chow,Writer,Writing,TRUE
+1905,244,Stephen Chow,Producer,Production,TRUE
+1906,244,Raymond Wong,Composer,Sound,FALSE
+1907,244,Choi Sung-fai,Cinematographer,Camera,FALSE
+1908,244,Pau Pui-ho,Editor,Editing,FALSE
+1909,244,Bill Lui,Production Designer,Art,FALSE
+
+1910,245,Matt Shakman,Director,Directing,FALSE
+1911,245,Josh Friedman,Writer,Writing,FALSE
+1912,245,Kevin Feige,Producer,Production,FALSE
+1913,245,John Paesano,Composer,Sound,FALSE
+1914,245,John Schwartzman,Cinematographer,Camera,FALSE
+1915,245,Jeffrey Ford,Editor,Editing,FALSE
+1916,245,Charles Wood,Production Designer,Art,FALSE
+1917,245,Stephane Ceretti,Visual Effects Supervisor,VisualEffects,FALSE
+
+1918,246,Dean DeBlois,Director,Directing,TRUE
+1919,246,Dean DeBlois,Writer,Writing,TRUE
+1920,246,Bonnie Arnold,Producer,Production,TRUE
+1921,246,John Powell,Composer,Sound,TRUE
+1922,246,Simon Otto,Cinematographer,Camera,FALSE
+1923,246,John K. Carr,Editor,Editing,TRUE
+1924,246,Pierre-Olivier Vincent,Production Designer,Art,TRUE
+
+1925,247,Jennifer Yuh Nelson,Director,Directing,FALSE
+1926,247,Alessandro Carloni,Co-Director,Directing,FALSE
+1927,247,Jonathan Aibel,Writer,Writing,FALSE
+1928,247,Glenn Berger,Writer,Writing,FALSE
+1929,247,Melissa Cobb,Producer,Production,FALSE
+1930,247,Hans Zimmer,Composer,Sound,FALSE
+1931,247,Yong Duk Jhun,Cinematographer,Camera,FALSE
+1932,247,Clare Knight,Editor,Editing,FALSE
+
+1933,248,Peyton Reed,Director,Directing,FALSE
+1934,248,Edgar Wright,Writer,Writing,FALSE
+1935,248,Joe Cornish,Writer,Writing,FALSE
+1936,248,Kevin Feige,Producer,Production,FALSE
+1937,248,Christophe Beck,Composer,Sound,FALSE
+1938,248,Russell Carpenter,Cinematographer,Camera,FALSE
+1939,248,Dan Lebental,Editor,Editing,FALSE
+1940,248,Shepherd Frankel,Production Designer,Art,FALSE
+
+1941,249,Jerry Zucker,Director,Directing,TRUE
+1942,249,Bruce Joel Rubin,Writer,Writing,TRUE
+1943,249,Lisa Weinstein,Producer,Production,TRUE
+1944,249,Maurice Jarre,Composer,Sound,TRUE
+1945,249,Adam Greenberg,Cinematographer,Camera,TRUE
+1946,249,Walter Murch,Editor,Editing,TRUE
+1947,249,Jane Musky,Production Designer,Art,TRUE
+
+1948,250,Frant Gwo,Director,Directing,TRUE
+1949,250,Gong Geer,Writer,Writing,FALSE
+1950,250,Liu Cixin,Writer,Writing,FALSE
+1951,250,Guo Fan,Producer,Production,TRUE
+1952,250,Rock Chen,Composer,Sound,FALSE
+1953,250,Michael Liu,Cinematographer,Camera,FALSE
+1954,250,Wang Hongyu,Editor,Editing,FALSE
+1955,250,Han Qing,Production Designer,Art,FALSE
+1956,251,Jay Roach,Director,Directing,FALSE
+1957,251,John Hamburg,Writer,Writing,FALSE
+1958,251,Jane Rosenthal,Producer,Production,FALSE
+1959,251,Randy Newman,Composer,Sound,FALSE
+1960,251,John Schwartzman,Cinematographer,Camera,FALSE
+1961,251,Jon Poll,Editor,Editing,FALSE
+1962,251,Rusty Smith,Production Designer,Art,FALSE
+
+1963,252,Chen Kaige,Director,Directing,TRUE
+1964,252,Tsui Hark,Director,Directing,TRUE
+1965,252,Dante Lam,Director,Directing,TRUE
+1966,252,Guo Fan,Producer,Production,TRUE
+1967,252,Shen Jun,Composer,Sound,FALSE
+1968,252,Lau Wai-keung,Cinematographer,Camera,FALSE
+1969,252,Yu Baiyang,Editor,Editing,FALSE
+1970,252,Han Zhong,Production Designer,Art,FALSE
+
+1971,253,James Cameron,Director,Directing,TRUE
+1972,253,James Cameron,Writer,Writing,TRUE
+1973,253,Gale Anne Hurd,Producer,Production,TRUE
+1974,253,Brad Fiedel,Composer,Sound,FALSE
+1975,253,Adam Greenberg,Cinematographer,Camera,TRUE
+1976,253,Conrad Buff,Editor,Editing,TRUE
+1977,253,Joseph C. Nemec III,Production Designer,Art,TRUE
+1978,253,Dennis Muren,Visual Effects Supervisor,VisualEffects,TRUE
+
+1979,254,Scott Mosier,Director,Directing,FALSE
+1980,254,Yarrow Cheney,Director,Directing,FALSE
+1981,254,Michael LeSieur,Writer,Writing,FALSE
+1982,254,Chris Meledandri,Producer,Production,FALSE
+1983,254,Danny Elfman,Composer,Sound,FALSE
+1984,254,Thierry Guillot,Cinematographer,Camera,FALSE
+1985,254,Ken Schretzmann,Editor,Editing,FALSE
+1986,254,Colin Stimpson,Production Designer,Art,FALSE
+
+1987,255,Haruo Sotozaki,Director,Directing,TRUE
+1988,255,Koyoharu Gotouge,Writer,Writing,TRUE
+1989,255,Yuki Kajiura,Composer,Sound,TRUE
+1990,255,Akifumi Fujio,Producer,Production,TRUE
+1991,255,Ufotable,Visual Effects Supervisor,VisualEffects,TRUE
+
+1992,256,John Lasseter,Director,Directing,TRUE
+1993,256,Ash Brannon,Co-Director,Directing,TRUE
+1994,256,Andrew Stanton,Writer,Writing,TRUE
+1995,256,Helene Plotkin,Producer,Production,TRUE
+1996,256,Randy Newman,Composer,Sound,TRUE
+1997,256,Sharon Calahan,Cinematographer,Camera,FALSE
+1998,256,Lee Unkrich,Editor,Editing,TRUE
+1999,256,Ralph Eggleston,Production Designer,Art,TRUE
+
+2000,257,Shen Ao,Director,Directing,TRUE
+2001,257,Guo Fan,Producer,Production,TRUE
+2002,257,Shen Ao,Writer,Writing,TRUE
+2003,257,Li Xiaodong,Composer,Sound,FALSE
+2004,257,Chen Zhang,Editor,Editing,FALSE
+2005,257,Yu Bing,Production Designer,Art,FALSE
+
+2006,258,Damien Chazelle,Director,Directing,TRUE
+2007,258,Damien Chazelle,Writer,Writing,TRUE
+2008,258,Fred Berger,Producer,Production,TRUE
+2009,258,Justin Hurwitz,Composer,Sound,TRUE
+2010,258,Linus Sandgren,Cinematographer,Camera,TRUE
+2011,258,Tom Cross,Editor,Editing,TRUE
+2012,258,David Wasco,Production Designer,Art,TRUE
+
+2013,259,Ron Clements,Director,Directing,TRUE
+2014,259,John Musker,Director,Directing,TRUE
+2015,259,Ted Elliott,Writer,Writing,TRUE
+2016,259,John Musker,Writer,Writing,TRUE
+2017,259,Alan Menken,Composer,Sound,TRUE
+2018,259,Mark Henn,Cinematographer,Camera,FALSE
+2019,259,Hildy Parks,Editor,Editing,FALSE
+2020,259,Richard Vander Wende,Production Designer,Art,TRUE
+
+2021,260,Andy Serkis,Director,Directing,FALSE
+2022,260,Kelly Marcel,Writer,Writing,FALSE
+2023,260,Avi Arad,Producer,Production,FALSE
+2024,260,Marco Beltrami,Composer,Sound,FALSE
+2025,260,Robert Richardson,Cinematographer,Camera,FALSE
+2026,260,Maryann Brandon,Editor,Editing,FALSE
+2027,260,Oliver Scholl,Production Designer,Art,FALSE
+
+2028,261,Jan de Bont,Director,Directing,FALSE
+2029,261,Michael Crichton,Writer,Writing,FALSE
+2030,261,Kathleen Kennedy,Producer,Production,FALSE
+2031,261,Mark Mancina,Composer,Sound,FALSE
+2032,261,Jack N. Green,Cinematographer,Camera,FALSE
+2033,261,Michael Kahn,Editor,Editing,FALSE
+2034,261,Joseph C. Nemec III,Production Designer,Art,FALSE
+2035,261,Stefen Fangmeier,Visual Effects Supervisor,VisualEffects,FALSE
+
+2036,262,Guy Ritchie,Director,Directing,FALSE
+2037,262,Michael Robert Johnson,Writer,Writing,FALSE
+2038,262,Lionel Wigram,Producer,Production,FALSE
+2039,262,Hans Zimmer,Composer,Sound,FALSE
+2040,262,Philippe Rousselot,Cinematographer,Camera,FALSE
+2041,262,James Herbert,Editor,Editing,FALSE
+2042,262,Sarah Greenwood,Production Designer,Art,FALSE
+
+2043,263,Steven Spielberg,Director,Directing,TRUE
+2044,263,Peter Benchley,Writer,Writing,TRUE
+2045,263,Carl Gottlieb,Writer,Writing,TRUE
+2046,263,Richard D. Zanuck,Producer,Production,TRUE
+2047,263,John Williams,Composer,Sound,TRUE
+2048,263,Bill Butler,Cinematographer,Camera,TRUE
+2049,263,Verna Fields,Editor,Editing,TRUE
+2050,263,Joe Alves,Production Designer,Art,TRUE
+
+2051,264,Rich Moore,Director,Directing,TRUE
+2052,264,Phil Johnston,Writer,Writing,TRUE
+2053,264,Jennifer Lee,Writer,Writing,TRUE
+2054,264,Clark Spencer,Producer,Production,TRUE
+2055,264,Henry Jackman,Composer,Sound,TRUE
+2056,264,Rob Dressel,Cinematographer,Camera,FALSE
+2057,264,Jeremy Milton,Editor,Editing,TRUE
+2058,264,Mike Gabriel,Production Designer,Art,TRUE
+
+2059,265,Chris Sanders,Director,Directing,TRUE
+2060,265,Dean DeBlois,Director,Directing,TRUE
+2061,265,William Davies,Writer,Writing,TRUE
+2062,265,Bonnie Arnold,Producer,Production,TRUE
+2063,265,John Powell,Composer,Sound,TRUE
+2064,265,Simon Otto,Cinematographer,Camera,FALSE
+2065,265,Darren Holmes,Editor,Editing,TRUE
+2066,265,Pierre-Olivier Vincent,Production Designer,Art,TRUE
+
+2067,266,Louis Leterrier,Director,Directing,FALSE
+2068,266,Travis Beacham,Writer,Writing,FALSE
+2069,266,Basil Iwanyk,Producer,Production,FALSE
+2070,266,Ramin Djawadi,Composer,Sound,FALSE
+2071,266,Peter Menzies Jr.,Cinematographer,Camera,FALSE
+2072,266,Martin Walsh,Editor,Editing,FALSE
+2073,266,Martin Laing,Production Designer,Art,FALSE
+
+2074,267,Dante Lam,Director,Directing,TRUE
+2075,267,Ma Wei,Writer,Writing,FALSE
+2076,267,Albert Yeung,Producer,Production,TRUE
+2077,267,Elliot Leung,Composer,Sound,FALSE
+2078,267,Ng Man-Ching,Cinematographer,Camera,FALSE
+2079,267,Cheng Siu-Hung,Editor,Editing,FALSE
+2080,267,Billy Li,Production Designer,Art,FALSE
+
+2081,268,Carlos Saldanha,Director,Directing,FALSE
+2082,268,Don Rhymer,Writer,Writing,FALSE
+2083,268,Bruce Anderson,Producer,Production,FALSE
+2084,268,John Powell,Composer,Sound,FALSE
+2085,268,Renato Falcão,Cinematographer,Camera,FALSE
+2086,268,Greg Perler,Editor,Editing,FALSE
+2087,268,Thomas Cardone,Production Designer,Art,FALSE
+
+2088,269,Andrew Adamson,Director,Directing,TRUE
+2089,269,Vicky Jenson,Director,Directing,TRUE
+2090,269,Ted Elliott,Writer,Writing,TRUE
+2091,269,Terry Rossio,Writer,Writing,TRUE
+2092,269,Aron Warner,Producer,Production,TRUE
+2093,269,Harry Gregson-Williams,Composer,Sound,TRUE
+2094,269,David Gilson,Cinematographer,Camera,FALSE
+2095,269,Sim Evan-Jones,Editor,Editing,TRUE
+2096,269,James Hegedus,Production Designer,Art,TRUE
+
+2097,270,Ron Howard,Director,Directing,FALSE
+2098,270,David Koepp,Writer,Writing,FALSE
+2099,270,Brian Grazer,Producer,Production,FALSE
+2100,270,Hans Zimmer,Composer,Sound,FALSE
+2101,270,Salvatore Totino,Cinematographer,Camera,FALSE
+2102,270,Daniel P. Hanley,Editor,Editing,FALSE
+2103,270,Allan Cameron,Production Designer,Art,FALSE
+2104,271,Sam Raimi,Director,Directing,FALSE
+2105,271,Mitchell Kapner,Writer,Writing,FALSE
+2106,271,David Lindsay-Abaire,Writer,Writing,FALSE
+2107,271,Joe Roth,Producer,Production,FALSE
+2108,271,Danny Elfman,Composer,Sound,FALSE
+2109,271,Peter Deming,Cinematographer,Camera,FALSE
+2110,271,Bob Murawski,Editor,Editing,FALSE
+2111,271,Robert Stromberg,Production Designer,Art,FALSE
+
+2112,272,Jeff Fowler,Director,Directing,FALSE
+2113,272,Pat Casey,Writer,Writing,FALSE
+2114,272,Josh Miller,Writer,Writing,FALSE
+2115,272,Toby Ascher,Producer,Production,FALSE
+2116,272,Tom Holkenborg,Composer,Sound,FALSE
+2117,272,Stephen F. Windon,Cinematographer,Camera,FALSE
+2118,272,Stacey Schroeder,Editor,Editing,FALSE
+2119,272,Oliver Scholl,Production Designer,Art,FALSE
+
+2120,273,Matt Reeves,Director,Directing,TRUE
+2121,273,Mark Bomback,Writer,Writing,TRUE
+2122,273,Dylan Clark,Producer,Production,TRUE
+2123,273,Michael Giacchino,Composer,Sound,TRUE
+2124,273,Michael Seresin,Cinematographer,Camera,TRUE
+2125,273,William Hoy,Editor,Editing,TRUE
+2126,273,James Chinlund,Production Designer,Art,TRUE
+2127,273,Joe Letteri,Visual Effects Supervisor,VisualEffects,TRUE
+
+2128,274,Joachim Rønning,Director,Directing,FALSE
+2129,274,Linda Woolverton,Writer,Writing,FALSE
+2130,274,Joe Roth,Producer,Production,FALSE
+2131,274,Geoff Zanelli,Composer,Sound,FALSE
+2132,274,Henry Braham,Cinematographer,Camera,FALSE
+2133,274,Laura Jennings,Editor,Editing,FALSE
+2134,274,Patrick Tatopoulos,Production Designer,Art,FALSE
+
+2135,275,Carlos Saldanha,Director,Directing,FALSE
+2136,275,Don Rhymer,Writer,Writing,FALSE
+2137,275,Bruce Anderson,Producer,Production,FALSE
+2138,275,John Powell,Composer,Sound,FALSE
+2139,275,Renato Falcão,Cinematographer,Camera,FALSE
+2140,275,Harry Hitner,Editor,Editing,FALSE
+2141,275,Thomas Cardone,Production Designer,Art,FALSE
+
+2142,276,Doug Liman,Director,Directing,FALSE
+2143,276,Simon Kinberg,Writer,Writing,FALSE
+2144,276,Akiva Goldsman,Producer,Production,FALSE
+2145,276,John Powell,Composer,Sound,FALSE
+2146,276,Bojan Bazelli,Cinematographer,Camera,FALSE
+2147,276,Michael Tronick,Editor,Editing,FALSE
+2148,276,Jeff Mann,Production Designer,Art,FALSE
+
+2149,277,Steven Spielberg,Director,Directing,TRUE
+2150,277,Robert Rodat,Writer,Writing,TRUE
+2151,277,Ian Bryce,Producer,Production,TRUE
+2152,277,John Williams,Composer,Sound,TRUE
+2153,277,Janusz Kamiński,Cinematographer,Camera,TRUE
+2154,277,Michael Kahn,Editor,Editing,TRUE
+2155,277,Thomas E. Sanders,Production Designer,Art,TRUE
+
+2156,278,Jonathan Liebesman,Director,Directing,FALSE
+2157,278,Josh Appelbaum,Writer,Writing,FALSE
+2158,278,Andrew Form,Producer,Production,FALSE
+2159,278,Brian Tyler,Composer,Sound,FALSE
+2160,278,Lula Carvalho,Cinematographer,Camera,FALSE
+2161,278,Joel Negron,Editor,Editing,FALSE
+2162,278,Neil Spisak,Production Designer,Art,FALSE
+
+2163,279,Peter Sohn,Director,Directing,FALSE
+2164,279,John Hoberg,Writer,Writing,FALSE
+2165,279,Denise Ream,Producer,Production,FALSE
+2166,279,Thomas Newman,Composer,Sound,FALSE
+2167,279,David Bianchi,Cinematographer,Camera,FALSE
+2168,279,Steve Bloom,Editor,Editing,FALSE
+2169,279,Don Shank,Production Designer,Art,FALSE
+
+2170,280,Olivier Nakache,Director,Directing,FALSE
+2171,280,Éric Toledano,Director,Directing,FALSE
+2172,280,Olivier Nakache,Writer,Writing,FALSE
+2173,280,Éric Toledano,Writer,Writing,FALSE
+2174,280,Nicolas Duval Adassovsky,Producer,Production,FALSE
+2175,280,Ludovico Einaudi,Composer,Sound,FALSE
+2176,280,Mathieu Vadepied,Cinematographer,Camera,FALSE
+2177,280,Loïc Lallemand,Editor,Editing,FALSE
+
+2178,281,Tom Shadyac,Director,Directing,FALSE
+2179,281,Steve Koren,Writer,Writing,FALSE
+2180,281,James D. Brubaker,Producer,Production,FALSE
+2181,281,John Debney,Composer,Sound,FALSE
+2182,281,Dean Semler,Cinematographer,Camera,FALSE
+2183,281,Scott Hill,Editor,Editing,FALSE
+2184,281,Ed Verreaux,Production Designer,Art,FALSE
+
+2185,282,Joel Crawford,Director,Directing,TRUE
+2186,282,Paul Fisher,Writer,Writing,TRUE
+2187,282,Mark Swift,Producer,Production,TRUE
+2188,282,Heitor Pereira,Composer,Sound,TRUE
+2189,282,Santiago Montiel,Cinematographer,Camera,FALSE
+2190,282,James Ryan,Editor,Editing,TRUE
+2191,282,Nate Wragg,Production Designer,Art,TRUE
+
+2192,283,Wolfgang Petersen,Director,Directing,FALSE
+2193,283,David Benioff,Writer,Writing,FALSE
+2194,283,Diana Rathbun,Producer,Production,FALSE
+2195,283,James Horner,Composer,Sound,FALSE
+2196,283,Roger Pratt,Cinematographer,Camera,FALSE
+2197,283,Peter Honess,Editor,Editing,FALSE
+2198,283,Nigel Phelps,Production Designer,Art,FALSE
+
+2199,284,Richard Marquand,Director,Directing,TRUE
+2200,284,Lawrence Kasdan,Writer,Writing,TRUE
+2201,284,George Lucas,Writer,Writing,TRUE
+2202,284,Howard Kazanjian,Producer,Production,TRUE
+2203,284,John Williams,Composer,Sound,TRUE
+2204,284,Alan Hume,Cinematographer,Camera,TRUE
+2205,284,Sean Barton,Editor,Editing,TRUE
+2206,284,Norman Reynolds,Production Designer,Art,TRUE
+2207,284,Richard Edlund,Visual Effects Supervisor,VisualEffects,TRUE
+
+2208,285,Chris Columbus,Director,Directing,FALSE
+2209,285,John Hughes,Writer,Writing,FALSE
+2210,285,John Hughes,Producer,Production,FALSE
+2211,285,John Williams,Composer,Sound,FALSE
+2212,285,Julio Macat,Cinematographer,Camera,FALSE
+2213,285,Raja Gosnell,Editor,Editing,FALSE
+2214,285,John Muto,Production Designer,Art,FALSE
+
+2215,286,Peyton Reed,Director,Directing,FALSE
+2216,286,Jeff Loveness,Writer,Writing,FALSE
+2217,286,Kevin Feige,Producer,Production,FALSE
+2218,286,Christophe Beck,Composer,Sound,FALSE
+2219,286,Bill Pope,Cinematographer,Camera,FALSE
+2220,286,Adam Gerstel,Editor,Editing,FALSE
+2221,286,Will Htay,Production Designer,Art,FALSE
+
+2222,287,Tim Burton,Director,Directing,FALSE
+2223,287,John August,Writer,Writing,FALSE
+2224,287,Richard D. Zanuck,Producer,Production,FALSE
+2225,287,Danny Elfman,Composer,Sound,FALSE
+2226,287,Philippe Rousselot,Cinematographer,Camera,FALSE
+2227,287,Chris Lebenzon,Editor,Editing,FALSE
+2228,287,Alex McDowell,Production Designer,Art,FALSE
+
+2229,288,Genndy Tartakovsky,Director,Directing,FALSE
+2230,288,Robert Smigel,Writer,Writing,FALSE
+2231,288,Michelle Murdocca,Producer,Production,FALSE
+2232,288,Mark Mothersbaugh,Composer,Sound,FALSE
+2233,288,Allen Simpson,Cinematographer,Camera,FALSE
+2234,288,Joyce Arrastia,Editor,Editing,FALSE
+2235,288,Scott Wills,Production Designer,Art,FALSE
+
+2236,289,Brad Peyton,Director,Directing,FALSE
+2237,289,Carlton Cuse,Writer,Writing,FALSE
+2238,289,Beau Flynn,Producer,Production,FALSE
+2239,289,Andrew Lockington,Composer,Sound,FALSE
+2240,289,Steve Yedlin,Cinematographer,Camera,FALSE
+2241,289,Bob Ducsay,Editor,Editing,FALSE
+2242,289,Barry Chusid,Production Designer,Art,FALSE
+
+2243,290,Kelly Marcel,Director,Directing,FALSE
+2244,290,Kelly Marcel,Writer,Writing,FALSE
+2245,290,Avi Arad,Producer,Production,FALSE
+2246,290,Marco Beltrami,Composer,Sound,FALSE
+2247,290,Robert Richardson,Cinematographer,Camera,FALSE
+2248,290,Maryann Brandon,Editor,Editing,FALSE
+2249,290,Oliver Scholl,Production Designer,Art,FALSE
+2250,291,Steven Spielberg,Director,Directing,TRUE
+2251,291,George Lucas,Writer,Writing,TRUE
+2252,291,Jeffrey Boam,Writer,Writing,TRUE
+2253,291,Frank Marshall,Producer,Production,TRUE
+2254,291,John Williams,Composer,Sound,TRUE
+2255,291,Douglas Slocombe,Cinematographer,Camera,TRUE
+2256,291,Michael Kahn,Editor,Editing,TRUE
+2257,291,Elliot Scott,Production Designer,Art,TRUE
+
+2258,292,Michael Chaves,Director,Directing,FALSE
+2259,292,David Leslie Johnson-McGoldrick,Writer,Writing,FALSE
+2260,292,James Wan,Producer,Production,FALSE
+2261,292,Joseph Bishara,Composer,Sound,FALSE
+2262,292,Tristan Nyby,Cinematographer,Camera,FALSE
+2263,292,Peter Gvozdas,Editor,Editing,FALSE
+2264,292,Jennifer Spence,Production Designer,Art,FALSE
+
+2265,293,Andy Muschietti,Director,Directing,FALSE
+2266,293,Gary Dauberman,Writer,Writing,FALSE
+2267,293,Barbara Muschietti,Producer,Production,FALSE
+2268,293,Benjamin Wallfisch,Composer,Sound,FALSE
+2269,293,Checco Varese,Cinematographer,Camera,FALSE
+2270,293,Jason Ballantine,Editor,Editing,FALSE
+2271,293,Paul D. Austerberry,Production Designer,Art,FALSE
+
+2272,294,Rupert Wyatt,Director,Directing,FALSE
+2273,294,Rick Jaffa,Writer,Writing,FALSE
+2274,294,Amanda Silver,Writer,Writing,FALSE
+2275,294,Peter Chernin,Producer,Production,FALSE
+2276,294,Patrick Doyle,Composer,Sound,FALSE
+2277,294,Andrew Lesnie,Cinematographer,Camera,FALSE
+2278,294,Conrad Buff,Editor,Editing,FALSE
+2279,294,Claude Paré,Production Designer,Art,FALSE
+
+2280,295,Adam Wingard,Director,Directing,FALSE
+2281,295,Eric Pearson,Writer,Writing,FALSE
+2282,295,Max Borenstein,Writer,Writing,FALSE
+2283,295,Thomas Tull,Producer,Production,FALSE
+2284,295,Junkie XL,Composer,Sound,FALSE
+2285,295,Ben Seresin,Cinematographer,Camera,FALSE
+2286,295,Josh Schaeffer,Editor,Editing,FALSE
+2287,295,Owen Paterson,Production Designer,Art,FALSE
+
+2288,296,Phil Lord,Director,Directing,TRUE
+2289,296,Christopher Miller,Director,Directing,TRUE
+2290,296,Phil Lord,Writer,Writing,TRUE
+2291,296,Dan Lin,Producer,Production,TRUE
+2292,296,Mark Mothersbaugh,Composer,Sound,TRUE
+2293,296,Pablo Plaisted,Cinematographer,Camera,FALSE
+2294,296,David Burrows,Editor,Editing,TRUE
+2295,296,Grant Freckelton,Production Designer,Art,TRUE
+
+2296,297,J.J. Abrams,Director,Directing,FALSE
+2297,297,Roberto Orci,Writer,Writing,FALSE
+2298,297,Alex Kurtzman,Writer,Writing,FALSE
+2299,297,Bryan Burk,Producer,Production,FALSE
+2300,297,Michael Giacchino,Composer,Sound,FALSE
+2301,297,Dan Mindel,Cinematographer,Camera,FALSE
+2302,297,Mary Jo Markey,Editor,Editing,FALSE
+2303,297,Scott Chambliss,Production Designer,Art,FALSE
+
+2304,298,Lana Wachowski,Director,Directing,TRUE
+2305,298,Lilly Wachowski,Director,Directing,TRUE
+2306,298,Lilly Wachowski,Writer,Writing,TRUE
+2307,298,Joel Silver,Producer,Production,TRUE
+2308,298,Don Davis,Composer,Sound,TRUE
+2309,298,Bill Pope,Cinematographer,Camera,TRUE
+2310,298,Zach Staenberg,Editor,Editing,TRUE
+2311,298,Owen Paterson,Production Designer,Art,TRUE
+2312,298,John Gaeta,Visual Effects Supervisor,VisualEffects,TRUE
+
+2313,299,Todd Phillips,Director,Directing,TRUE
+2314,299,Jon Lucas,Writer,Writing,TRUE
+2315,299,Scott Moore,Writer,Writing,TRUE
+2316,299,Dan Goldberg,Producer,Production,TRUE
+2317,299,Christophe Beck,Composer,Sound,FALSE
+2318,299,Lawrence Sher,Cinematographer,Camera,FALSE
+2319,299,Debra Neil-Fisher,Editor,Editing,FALSE
+2320,299,Bill Brzeski,Production Designer,Art,FALSE
+
+2321,300,Travis Knight,Director,Directing,FALSE
+2322,300,Christina Hodson,Writer,Writing,FALSE
+2323,300,Lorenzo di Bonaventura,Producer,Production,FALSE
+2324,300,Dario Marianelli,Composer,Sound,FALSE
+2325,300,Enrique Chediak,Cinematographer,Camera,FALSE
+2326,300,Paul Rubell,Editor,Editing,FALSE
+2327,300,Sean Haworth,Production Designer,Art,FALSE
+
+2328,301,John Lasseter,Director,Directing,TRUE
+2329,301,Joe Ranft,Writer,Writing,TRUE
+2330,301,Bob Peterson,Writer,Writing,TRUE
+2331,301,Darla K. Anderson,Producer,Production,TRUE
+2332,301,Randy Newman,Composer,Sound,TRUE
+2333,301,Jeremy Lasky,Cinematographer,Camera,FALSE
+2334,301,Ken Schretzmann,Editor,Editing,TRUE
+2335,301,Bob Pauley,Production Designer,Art,TRUE
+
+2336,302,Ridley Scott,Director,Directing,FALSE
+2337,302,David Scarpa,Writer,Writing,FALSE
+2338,302,Michael Pruss,Producer,Production,FALSE
+2339,302,Hans Zimmer,Composer,Sound,FALSE
+2340,302,Dariusz Wolski,Cinematographer,Camera,FALSE
+2341,302,Claire Simpson,Editor,Editing,FALSE
+2342,302,Arthur Max,Production Designer,Art,FALSE
+
+2343,303,Zhang Chiyu,Director,Directing,FALSE
+2344,303,Zhang Chiyu,Writer,Writing,FALSE
+2345,303,Guo Fan,Producer,Production,FALSE
+2346,303,Li Haoran,Composer,Sound,FALSE
+2347,303,Xu Zhiyu,Cinematographer,Camera,FALSE
+2348,303,Chen Yong,Editor,Editing,FALSE
+2349,303,Han Zhong,Production Designer,Art,FALSE
+
+2350,304,Brett Ratner,Director,Directing,FALSE
+2351,304,Simon Kinberg,Writer,Writing,FALSE
+2352,304,Lauren Shuler Donner,Producer,Production,FALSE
+2353,304,John Powell,Composer,Sound,FALSE
+2354,304,Dante Spinotti,Cinematographer,Camera,FALSE
+2355,304,Mark Helfrich,Editor,Editing,FALSE
+2356,304,Ed Verreaux,Production Designer,Art,FALSE
+
+2357,305,Brian De Palma,Director,Directing,FALSE
+2358,305,David Koepp,Writer,Writing,FALSE
+2359,305,Tom Cruise,Producer,Production,FALSE
+2360,305,Danny Elfman,Composer,Sound,FALSE
+2361,305,Stephen H. Burum,Cinematographer,Camera,FALSE
+2362,305,Paul Hirsch,Editor,Editing,FALSE
+2363,305,Norman Reynolds,Production Designer,Art,FALSE
+
+2364,306,Luc Besson,Director,Directing,FALSE
+2365,306,Luc Besson,Writer,Writing,FALSE
+2366,306,Virginie Besson-Silla,Producer,Production,FALSE
+2367,306,Eric Serra,Composer,Sound,FALSE
+2368,306,Thierry Arbogast,Cinematographer,Camera,FALSE
+2369,306,Julien Rey,Editor,Editing,FALSE
+2370,306,Hugues Tissandier,Production Designer,Art,FALSE
+
+2371,307,Jon Turteltaub,Director,Directing,FALSE
+2372,307,Marianne Wibberley,Writer,Writing,FALSE
+2373,307,Cormac Wibberley,Writer,Writing,FALSE
+2374,307,Jerry Bruckheimer,Producer,Production,FALSE
+2375,307,Trevor Rabin,Composer,Sound,FALSE
+2376,307,Amir Mokri,Cinematographer,Camera,FALSE
+2377,307,William Goldenberg,Editor,Editing,FALSE
+2378,307,Jon Hutman,Production Designer,Art,FALSE
+
+2379,308,Edward Zwick,Director,Directing,FALSE
+2380,308,John Logan,Writer,Writing,FALSE
+2381,308,Marshall Herskovitz,Writer,Writing,FALSE
+2382,308,Tom Cruise,Producer,Production,FALSE
+2383,308,Hans Zimmer,Composer,Sound,FALSE
+2384,308,John Toll,Cinematographer,Camera,FALSE
+2385,308,Steven Rosenblum,Editor,Editing,FALSE
+2386,308,Lilly Kilvert,Production Designer,Art,FALSE
+
+2387,309,Chen Sicheng,Director,Directing,FALSE
+2388,309,Chen Sicheng,Writer,Writing,FALSE
+2389,309,Chen Sicheng,Producer,Production,FALSE
+2390,309,Nathan Wang,Composer,Sound,FALSE
+2391,309,Shi Yongxiang,Cinematographer,Camera,FALSE
+2392,309,He Rongguang,Editor,Editing,FALSE
+2393,309,Han Zhong,Production Designer,Art,FALSE
+
+2394,310,Zack Snyder,Director,Directing,TRUE
+2395,310,Kurt Johnstad,Writer,Writing,TRUE
+2396,310,Gianni Nunnari,Producer,Production,TRUE
+2397,310,Tyler Bates,Composer,Sound,TRUE
+2398,310,Larry Fong,Cinematographer,Camera,TRUE
+2399,310,William Hoy,Editor,Editing,TRUE
+2400,310,James D. Bissell,Production Designer,Art,TRUE
+2401,310,Chris Watts,Visual Effects Supervisor,VisualEffects,TRUE
+2402,311,Tim Burton,Director,Directing,FALSE
+2403,311,Alfred Gough,Writer,Writing,FALSE
+2404,311,Miles Millar,Writer,Writing,FALSE
+2405,311,Marc Toberoff,Producer,Production,FALSE
+2406,311,Danny Elfman,Composer,Sound,FALSE
+2407,311,Haris Zambarloukos,Cinematographer,Camera,FALSE
+2408,311,Jay Prychidny,Editor,Editing,FALSE
+2409,311,Mark Scruton,Production Designer,Art,FALSE
+
+2410,312,Ridley Scott,Director,Directing,TRUE
+2411,312,David Franzoni,Writer,Writing,TRUE
+2412,312,John Logan,Writer,Writing,TRUE
+2413,312,Douglas Wick,Producer,Production,TRUE
+2414,312,Hans Zimmer,Composer,Sound,TRUE
+2415,312,John Mathieson,Cinematographer,Camera,TRUE
+2416,312,Pietro Scalia,Editor,Editing,TRUE
+2417,312,Arthur Max,Production Designer,Art,TRUE
+
+2418,313,Wen Muye,Director,Directing,TRUE
+2419,313,Han Jianü,Writer,Writing,FALSE
+2420,313,Han Jianü,Producer,Production,FALSE
+2421,313,Huang Chao,Composer,Sound,FALSE
+2422,313,Chen Zhixu,Cinematographer,Camera,FALSE
+2423,313,Wu Di,Editor,Editing,FALSE
+2424,313,Han Zhong,Production Designer,Art,FALSE
+
+2425,314,Steven Soderbergh,Director,Directing,FALSE
+2426,314,Ted Griffin,Writer,Writing,FALSE
+2427,314,Jerry Weintraub,Producer,Production,FALSE
+2428,314,David Holmes,Composer,Sound,FALSE
+2429,314,Steven Soderbergh,Cinematographer,Camera,FALSE
+2430,314,Stephen Mirrione,Editor,Editing,TRUE
+2431,314,Philip Messina,Production Designer,Art,FALSE
+
+2432,315,Quentin Tarantino,Director,Directing,TRUE
+2433,315,Quentin Tarantino,Writer,Writing,TRUE
+2434,315,Reginald Hudlin,Producer,Production,TRUE
+2435,315,Ennio Morricone,Composer,Sound,FALSE
+2436,315,Robert Richardson,Cinematographer,Camera,TRUE
+2437,315,Fred Raskin,Editor,Editing,FALSE
+2438,315,J. Michael Riva,Production Designer,Art,FALSE
+
+2439,316,Kenneth Branagh,Director,Directing,FALSE
+2440,316,Ashley Edward Miller,Writer,Writing,FALSE
+2441,316,Kevin Feige,Producer,Production,FALSE
+2442,316,Patrick Doyle,Composer,Sound,FALSE
+2443,316,Harri Karjalainen,Cinematographer,Camera,FALSE
+2444,316,Paul Rubell,Editor,Editing,FALSE
+2445,316,Bo Welch,Production Designer,Art,FALSE
+
+2446,317,Michael Bay,Director,Directing,FALSE
+2447,317,Randall Wallace,Writer,Writing,FALSE
+2448,317,Jerry Bruckheimer,Producer,Production,FALSE
+2449,317,Hans Zimmer,Composer,Sound,FALSE
+2450,317,John Schwartzman,Cinematographer,Camera,FALSE
+2451,317,Chris Lebenzon,Editor,Editing,FALSE
+2452,317,Nigel Phelps,Production Designer,Art,FALSE
+
+2453,318,Chris Buck,Director,Directing,TRUE
+2454,318,Kevin Lima,Director,Directing,TRUE
+2455,318,Tab Murphy,Writer,Writing,TRUE
+2456,318,Bonnie Arnold,Producer,Production,TRUE
+2457,318,Phil Collins,Composer,Sound,TRUE
+2458,318,Eric Walls,Cinematographer,Camera,FALSE
+2459,318,Greg Perler,Editor,Editing,FALSE
+2460,318,Daniel St. Pierre,Production Designer,Art,TRUE
+
+2461,319,Chad Stahelski,Director,Directing,FALSE
+2462,319,Shay Hatten,Writer,Writing,FALSE
+2463,319,Erica Lee,Producer,Production,FALSE
+2464,319,Tyler Bates,Composer,Sound,FALSE
+2465,319,Dan Laustsen,Cinematographer,Camera,FALSE
+2466,319,Nathan Orloff,Editor,Editing,FALSE
+2467,319,Kevin Kavanaugh,Production Designer,Art,FALSE
+
+2468,320,Chris Renaud,Director,Directing,FALSE
+2469,320,Brian Lynch,Writer,Writing,FALSE
+2470,320,Chris Meledandri,Producer,Production,FALSE
+2471,320,Alexandre Desplat,Composer,Sound,FALSE
+2472,320,Charles Ellison,Cinematographer,Camera,FALSE
+2473,320,Ken Schretzmann,Editor,Editing,FALSE
+2474,320,Eric Guillon,Production Designer,Art,FALSE
+
+2475,321,Chen Kaige,Director,Directing,TRUE
+2476,321,Zhang Yimou,Director,Directing,TRUE
+2477,321,Guan Hu,Director,Directing,TRUE
+2478,321,Huang Jianxin,Producer,Production,TRUE
+2479,321,Wang Zhi,Composer,Sound,FALSE
+2480,321,Luo Pan,Cinematographer,Camera,FALSE
+2481,321,Tu Yiran,Editor,Editing,FALSE
+2482,321,Han Zhong,Production Designer,Art,FALSE
+
+2483,322,Cui Rui,Director,Directing,FALSE
+2484,322,Liu Xiang,Director,Directing,FALSE
+2485,322,Yang Weiwei,Writer,Writing,FALSE
+2486,322,Chen Sicheng,Producer,Production,FALSE
+2487,322,Shen Xu,Composer,Sound,FALSE
+2488,322,Liu Yin,Cinematographer,Camera,FALSE
+2489,322,Wang Hongyu,Editor,Editing,FALSE
+2490,322,Han Zhong,Production Designer,Art,FALSE
+
+2491,323,Paul Greengrass,Director,Directing,TRUE
+2492,323,Tony Gilroy,Writer,Writing,TRUE
+2493,323,Frank Marshall,Producer,Production,TRUE
+2494,323,John Powell,Composer,Sound,TRUE
+2495,323,Oliver Wood,Cinematographer,Camera,TRUE
+2496,323,Christopher Rouse,Editor,Editing,TRUE
+2497,323,Peter Wenham,Production Designer,Art,FALSE
+
+2498,324,Betty Thomas,Director,Directing,FALSE
+2499,324,Jon Vitti,Writer,Writing,FALSE
+2500,324,Janice Karman,Producer,Production,FALSE
+2501,324,David Newman,Composer,Sound,FALSE
+2502,324,Anthony B. Richmond,Cinematographer,Camera,FALSE
+2503,324,Peter S. Elliot,Editor,Editing,FALSE
+2504,324,Richard Holland,Production Designer,Art,FALSE
+
+2505,325,Barry Sonnenfeld,Director,Directing,FALSE
+2506,325,Robert Gordon,Writer,Writing,FALSE
+2507,325,Walter F. Parkes,Producer,Production,FALSE
+2508,325,Danny Elfman,Composer,Sound,FALSE
+2509,325,Greg Gardiner,Cinematographer,Camera,FALSE
+2510,325,Richard Pearson,Editor,Editing,FALSE
+2511,325,Bo Welch,Production Designer,Art,FALSE
+
+2512,326,Chris Columbus,Director,Directing,TRUE
+2513,326,Randi Mayem Singer,Writer,Writing,FALSE
+2514,326,Robin Williams,Producer,Production,FALSE
+2515,326,Howard Shore,Composer,Sound,FALSE
+2516,326,Donald McAlpine,Cinematographer,Camera,FALSE
+2517,326,Raja Gosnell,Editor,Editing,FALSE
+2518,326,Angelo P. Graham,Production Designer,Art,FALSE
+
+2519,327,James Wan,Director,Directing,FALSE
+2520,327,David Leslie Johnson-McGoldrick,Writer,Writing,FALSE
+2521,327,Peter Safran,Producer,Production,FALSE
+2522,327,Rupert Gregson-Williams,Composer,Sound,FALSE
+2523,327,Don Burgess,Cinematographer,Camera,FALSE
+2524,327,Kirk Morri,Editor,Editing,FALSE
+2525,327,Bill Brzeski,Production Designer,Art,FALSE
+
+2526,328,Steven Caple Jr.,Director,Directing,FALSE
+2527,328,Joby Harold,Writer,Writing,FALSE
+2528,328,Lorenzo di Bonaventura,Producer,Production,FALSE
+2529,328,Jongnic Bontemps,Composer,Sound,FALSE
+2530,328,Enrique Chediak,Cinematographer,Camera,FALSE
+2531,328,William Goldenberg,Editor,Editing,FALSE
+2532,328,Sean Haworth,Production Designer,Art,FALSE
+
+2533,329,Duncan Jones,Director,Directing,FALSE
+2534,329,Charles Leavitt,Writer,Writing,FALSE
+2535,329,Thomas Tull,Producer,Production,FALSE
+2536,329,Ramin Djawadi,Composer,Sound,FALSE
+2537,329,Simon Duggan,Cinematographer,Camera,FALSE
+2538,329,Paul Hirsch,Editor,Editing,FALSE
+2539,329,Gavin Bocquet,Production Designer,Art,FALSE
+
+2540,330,Gary Trousdale,Director,Directing,TRUE
+2541,330,Kirk Wise,Director,Directing,TRUE
+2542,330,Linda Woolverton,Writer,Writing,TRUE
+2543,330,Don Hahn,Producer,Production,TRUE
+2544,330,Alan Menken,Composer,Sound,TRUE
+2545,330,Mattison Crowe,Cinematographer,Camera,FALSE
+2546,330,John Carnochan,Editor,Editing,TRUE
+2547,330,Brian McEntee,Production Designer,Art,TRUE
+2548,331,Guan Hu,Director,Directing,TRUE
+2549,331,Ge Rui,Writer,Writing,FALSE
+2550,331,Li Jinwen,Producer,Production,FALSE
+2551,331,Lao Zai,Composer,Sound,FALSE
+2552,331,Cao Yu,Cinematographer,Camera,TRUE
+2553,331,Tu Yiran,Editor,Editing,FALSE
+2554,331,Han Zhong,Production Designer,Art,FALSE
+
+2555,332,Bradley Cooper,Director,Directing,TRUE
+2556,332,Eric Roth,Writer,Writing,TRUE
+2557,332,Bradley Cooper,Writer,Writing,TRUE
+2558,332,Bill Gerber,Producer,Production,TRUE
+2559,332,Lady Gaga,Composer,Sound,TRUE
+2560,332,Matthew Libatique,Cinematographer,Camera,TRUE
+2561,332,Jay Cassidy,Editor,Editing,TRUE
+2562,332,Karen Murphy,Production Designer,Art,TRUE
+
+2563,333,Tom Hooper,Director,Directing,TRUE
+2564,333,William Nicholson,Writer,Writing,TRUE
+2565,333,Cameron Mackintosh,Producer,Production,TRUE
+2566,333,Claude-Michel Schönberg,Composer,Sound,TRUE
+2567,333,Danny Cohen,Cinematographer,Camera,TRUE
+2568,333,Chris Dickens,Editor,Editing,TRUE
+2569,333,Eve Stewart,Production Designer,Art,TRUE
+
+2570,334,Stephen Sommers,Director,Directing,FALSE
+2571,334,Stephen Sommers,Writer,Writing,FALSE
+2572,334,Sean Daniel,Producer,Production,FALSE
+2573,334,Alan Silvestri,Composer,Sound,FALSE
+2574,334,Adrian Biddle,Cinematographer,Camera,FALSE
+2575,334,Bob Ducsay,Editor,Editing,FALSE
+2576,334,Allan Cameron,Production Designer,Art,FALSE
+
+2577,335,Rob Letterman,Director,Directing,FALSE
+2578,335,Dan Hernandez,Writer,Writing,FALSE
+2579,335,Derek Connolly,Writer,Writing,FALSE
+2580,335,Mary Parent,Producer,Production,FALSE
+2581,335,Henry Jackman,Composer,Sound,FALSE
+2582,335,John Mathieson,Cinematographer,Camera,FALSE
+2583,335,Mark Sanger,Editor,Editing,FALSE
+2584,335,Naomi Shohan,Production Designer,Art,FALSE
+
+2585,336,Jonathan Mostow,Director,Directing,FALSE
+2586,336,John Brancato,Writer,Writing,FALSE
+2587,336,Hal Lieberman,Producer,Production,FALSE
+2588,336,Marco Beltrami,Composer,Sound,FALSE
+2589,336,Don Burgess,Cinematographer,Camera,FALSE
+2590,336,Neil Travis,Editor,Editing,FALSE
+2591,336,Jeff Mann,Production Designer,Art,FALSE
+
+2592,337,Garry Marshall,Director,Directing,FALSE
+2593,337,J.F. Lawton,Writer,Writing,FALSE
+2594,337,Arnon Milchan,Producer,Production,FALSE
+2595,337,James Newton Howard,Composer,Sound,FALSE
+2596,337,Charles Minsky,Cinematographer,Camera,FALSE
+2597,337,Priscilla Nedd-Friendly,Editor,Editing,FALSE
+2598,337,Albert Brenner,Production Designer,Art,FALSE
+
+2599,338,Destin Daniel Cretton,Director,Directing,FALSE
+2600,338,David Callaham,Writer,Writing,FALSE
+2601,338,Kevin Feige,Producer,Production,FALSE
+2602,338,Joel P. West,Composer,Sound,FALSE
+2603,338,Bill Pope,Cinematographer,Camera,FALSE
+2604,338,Elísabet Ronaldsdóttir,Editor,Editing,FALSE
+2605,338,Sue Chan,Production Designer,Art,FALSE
+
+2606,339,Alan Taylor,Director,Directing,FALSE
+2607,339,Laeta Kalogridis,Writer,Writing,FALSE
+2608,339,David Ellison,Producer,Production,FALSE
+2609,339,Lorne Balfe,Composer,Sound,FALSE
+2610,339,Kramer Morgenthau,Cinematographer,Camera,FALSE
+2611,339,Roger Barton,Editor,Editing,FALSE
+2612,339,Neil Spisak,Production Designer,Art,FALSE
+
+2613,340,Lee Tamahori,Director,Directing,FALSE
+2614,340,Neal Purvis,Writer,Writing,FALSE
+2615,340,Barbara Broccoli,Producer,Production,FALSE
+2616,340,David Arnold,Composer,Sound,FALSE
+2617,340,David Tattersall,Cinematographer,Camera,FALSE
+2618,340,Christian Wagner,Editor,Editing,FALSE
+2619,340,Peter Lamont,Production Designer,Art,FALSE
+
+2620,341,Tom Hooper,Director,Directing,TRUE
+2621,341,David Seidler,Writer,Writing,TRUE
+2622,341,Iain Canning,Producer,Production,TRUE
+2623,341,Alexandre Desplat,Composer,Sound,TRUE
+2624,341,Danny Cohen,Cinematographer,Camera,TRUE
+2625,341,Tariq Anwar,Editor,Editing,TRUE
+2626,341,Eve Stewart,Production Designer,Art,TRUE
+
+2627,342,Jia Ling,Director,Directing,TRUE
+2628,342,Jia Ling,Writer,Writing,TRUE
+2629,342,Zhang Xiaohai,Producer,Production,FALSE
+2630,342,Chen Zhiyi,Composer,Sound,FALSE
+2631,342,Zhao Fei,Cinematographer,Camera,FALSE
+2632,342,Zhang Yifan,Editor,Editing,FALSE
+2633,342,Han Zhong,Production Designer,Art,FALSE
+
+2634,343,Denis Villeneuve,Director,Directing,TRUE
+2635,343,Jon Spaihts,Writer,Writing,TRUE
+2636,343,Greig Fraser,Cinematographer,Camera,TRUE
+2637,343,Hans Zimmer,Composer,Sound,TRUE
+2638,343,Joe Walker,Editor,Editing,TRUE
+2639,343,Patrice Vermette,Production Designer,Art,TRUE
+2640,343,Mary Parent,Producer,Production,TRUE
+2641,343,Paul Lambert,Visual Effects Supervisor,VisualEffects,TRUE
+
+2642,344,William Friedkin,Director,Directing,TRUE
+2643,344,William Peter Blatty,Writer,Writing,TRUE
+2644,344,Noel Marshall,Producer,Production,TRUE
+2645,344,Jack Nitzsche,Composer,Sound,FALSE
+2646,344,Owen Roizman,Cinematographer,Camera,TRUE
+2647,344,Norman Gay,Editor,Editing,FALSE
+2648,344,Bill Malley,Production Designer,Art,TRUE
+
+2649,345,Michael Gracey,Director,Directing,FALSE
+2650,345,Jenny Bicks,Writer,Writing,FALSE
+2651,345,Peter Chernin,Producer,Production,FALSE
+2652,345,John Debney,Composer,Sound,FALSE
+2653,345,Seamus McGarvey,Cinematographer,Camera,FALSE
+2654,345,Tom Cross,Editor,Editing,FALSE
+2655,345,Nesta Cooper,Production Designer,Art,FALSE
+
+2656,346,Brad Peyton,Director,Directing,FALSE
+2657,346,Ryan Engle,Writer,Writing,FALSE
+2658,346,Beau Flynn,Producer,Production,FALSE
+2659,346,Andrew Lockington,Composer,Sound,FALSE
+2660,346,Jaron Presant,Cinematographer,Camera,FALSE
+2661,346,Bob Ducsay,Editor,Editing,FALSE
+2662,346,Barry Chusid,Production Designer,Art,FALSE
+
+2663,347,Lana Wachowski,Director,Directing,FALSE
+2664,347,Lilly Wachowski,Director,Directing,FALSE
+2665,347,Lilly Wachowski,Writer,Writing,FALSE
+2666,347,Joel Silver,Producer,Production,FALSE
+2667,347,Don Davis,Composer,Sound,FALSE
+2668,347,Bill Pope,Cinematographer,Camera,FALSE
+2669,347,Zach Staenberg,Editor,Editing,FALSE
+2670,347,Owen Paterson,Production Designer,Art,FALSE
+
+2671,348,Robert Zemeckis,Director,Directing,TRUE
+2672,348,William Broyles Jr.,Writer,Writing,TRUE
+2673,348,Jack Rapke,Producer,Production,TRUE
+2674,348,Alan Silvestri,Composer,Sound,TRUE
+2675,348,Don Burgess,Cinematographer,Camera,TRUE
+2676,348,Arthur Schmidt,Editor,Editing,TRUE
+2677,348,Rick Carter,Production Designer,Art,TRUE
+
+2678,349,Zhang Disha,Director,Directing,FALSE
+2679,349,Zhang Disha,Writer,Writing,FALSE
+2680,349,Chen Sicheng,Producer,Production,FALSE
+2681,349,Wu He,Composer,Sound,FALSE
+2682,349,Shi Yongxiang,Cinematographer,Camera,FALSE
+2683,349,He Rongguang,Editor,Editing,FALSE
+2684,349,Han Zhong,Production Designer,Art,FALSE
+
+2685,350,Adil El Arbi,Director,Directing,FALSE
+2686,350,Bilall Fallah,Director,Directing,FALSE
+2687,350,Chris Bremner,Writer,Writing,FALSE
+2688,350,Will Smith,Producer,Production,FALSE
+2689,350,Lorne Balfe,Composer,Sound,FALSE
+2690,350,Roberto De Angelis,Cinematographer,Camera,FALSE
+2691,350,Dan Lebental,Editor,Editing,FALSE
+2692,350,Jon Billington,Production Designer,Art,FALSE
+2693,351,Kevin Costner,Director,Directing,TRUE
+2694,351,Michael Blake,Writer,Writing,TRUE
+2695,351,Jim Wilson,Producer,Production,TRUE
+2696,351,John Barry,Composer,Sound,TRUE
+2697,351,Dean Semler,Cinematographer,Camera,TRUE
+2698,351,Neil Travis,Editor,Editing,TRUE
+2699,351,Jeffrey Beecroft,Production Designer,Art,TRUE
+
+2700,352,Han Han,Director,Directing,FALSE
+2701,352,Han Han,Writer,Writing,FALSE
+2702,352,Chen Sicheng,Producer,Production,FALSE
+2703,352,Wang Ziyi,Composer,Sound,FALSE
+2704,352,Huang Bo,Cinematographer,Camera,FALSE
+2705,352,He Rongguang,Editor,Editing,FALSE
+2706,352,Han Zhong,Production Designer,Art,FALSE
+
+2707,353,Stephen Sommers,Director,Directing,FALSE
+2708,353,Stephen Sommers,Writer,Writing,FALSE
+2709,353,Sean Daniel,Producer,Production,FALSE
+2710,353,Jerry Goldsmith,Composer,Sound,FALSE
+2711,353,Adrian Biddle,Cinematographer,Camera,FALSE
+2712,353,Bob Ducsay,Editor,Editing,FALSE
+2713,353,Allan Cameron,Production Designer,Art,FALSE
+
+2714,354,Michael Apted,Director,Directing,FALSE
+2715,354,Christopher Markus,Writer,Writing,FALSE
+2716,354,Stephen McFeely,Writer,Writing,FALSE
+2717,354,Andrew Adamson,Producer,Production,FALSE
+2718,354,David Arnold,Composer,Sound,FALSE
+2719,354,Dante Spinotti,Cinematographer,Camera,FALSE
+2720,354,Rick Shaine,Editor,Editing,FALSE
+2721,354,Barry Robison,Production Designer,Art,FALSE
+
+2722,355,Andrew Adamson,Director,Directing,FALSE
+2723,355,Christopher Markus,Writer,Writing,FALSE
+2724,355,Stephen McFeely,Writer,Writing,FALSE
+2725,355,Mark Johnson,Producer,Production,FALSE
+2726,355,Harry Gregson-Williams,Composer,Sound,FALSE
+2727,355,Karl Walter Lindenlaub,Cinematographer,Camera,FALSE
+2728,355,Sim Evan-Jones,Editor,Editing,FALSE
+2729,355,Roger Ford,Production Designer,Art,FALSE
+
+2730,356,James Mangold,Director,Directing,FALSE
+2731,356,Mark Bomback,Writer,Writing,FALSE
+2732,356,Lauren Shuler Donner,Producer,Production,FALSE
+2733,356,Marco Beltrami,Composer,Sound,FALSE
+2734,356,Ross Emery,Cinematographer,Camera,FALSE
+2735,356,Michael McCusker,Editor,Editing,FALSE
+2736,356,François Audouy,Production Designer,Art,FALSE
+
+2737,357,Paul Greengrass,Director,Directing,FALSE
+2738,357,Christopher Rouse,Writer,Writing,FALSE
+2739,357,Frank Marshall,Producer,Production,FALSE
+2740,357,John Powell,Composer,Sound,FALSE
+2741,357,Barry Ackroyd,Cinematographer,Camera,FALSE
+2742,357,Christopher Rouse,Editor,Editing,FALSE
+2743,357,Paul Kirby,Production Designer,Art,FALSE
+
+2744,358,Michael Patrick King,Director,Directing,FALSE
+2745,358,Michael Patrick King,Writer,Writing,FALSE
+2746,358,Darren Star,Producer,Production,FALSE
+2747,358,Aaron Zigman,Composer,Sound,FALSE
+2748,358,John Thomas,Cinematographer,Camera,FALSE
+2749,358,Michael Berenbaum,Editor,Editing,FALSE
+2750,358,Jeremy Conway,Production Designer,Art,FALSE
+
+2751,359,Julius Onah,Director,Directing,FALSE
+2752,359,Malcolm Spellman,Writer,Writing,FALSE
+2753,359,Kevin Feige,Producer,Production,FALSE
+2754,359,Henry Jackman,Composer,Sound,FALSE
+2755,359,Kramer Morgenthau,Cinematographer,Camera,FALSE
+2756,359,Jeffrey Ford,Editor,Editing,FALSE
+2757,359,Olivier Scholl,Production Designer,Art,FALSE
+
+2758,360,Tim Burton,Director,Directing,TRUE
+2759,360,Sam Hamm,Writer,Writing,TRUE
+2760,360,Jon Peters,Producer,Production,TRUE
+2761,360,Danny Elfman,Composer,Sound,TRUE
+2762,360,Roger Pratt,Cinematographer,Camera,FALSE
+2763,360,Ray Lovejoy,Editor,Editing,FALSE
+2764,360,Anton Furst,Production Designer,Art,TRUE
+
+2765,361,Barry Levinson,Director,Directing,TRUE
+2766,361,Ronald Bass,Writer,Writing,TRUE
+2767,361,Mark Johnson,Producer,Production,TRUE
+2768,361,Hans Zimmer,Composer,Sound,TRUE
+2769,361,John Seale,Cinematographer,Camera,TRUE
+2770,361,Stu Linder,Editor,Editing,TRUE
+2771,361,Ida Random,Production Designer,Art,FALSE
+
+2772,362,Guillermo del Toro,Director,Directing,FALSE
+2773,362,Travis Beacham,Writer,Writing,FALSE
+2774,362,Thomas Tull,Producer,Production,FALSE
+2775,362,Ramin Djawadi,Composer,Sound,FALSE
+2776,362,Guillermo Navarro,Cinematographer,Camera,FALSE
+2777,362,Peter Amundson,Editor,Editing,FALSE
+2778,362,Andrew Neskoromny,Production Designer,Art,FALSE
+
+2779,363,Mick Jackson,Director,Directing,FALSE
+2780,363,Lawrence Kasdan,Writer,Writing,FALSE
+2781,363,Lawrence Kasdan,Producer,Production,FALSE
+2782,363,Alan Silvestri,Composer,Sound,FALSE
+2783,363,Andrew Dunn,Cinematographer,Camera,FALSE
+2784,363,Don Brochu,Editor,Editing,FALSE
+2785,363,Jeffrey Beecroft,Production Designer,Art,FALSE
+
+2786,364,Alex Kurtzman,Director,Directing,FALSE
+2787,364,David Koepp,Writer,Writing,FALSE
+2788,364,Chris Morgan,Writer,Writing,FALSE
+2789,364,Sean Daniel,Producer,Production,FALSE
+2790,364,Brian Tyler,Composer,Sound,FALSE
+2791,364,Ben Seresin,Cinematographer,Camera,FALSE
+2792,364,Paul Hirsch,Editor,Editing,FALSE
+2793,364,Jon Billington,Production Designer,Art,FALSE
+
+2794,365,Matthew Vaughn,Director,Directing,FALSE
+2795,365,Jane Goldman,Writer,Writing,FALSE
+2796,365,Matthew Vaughn,Producer,Production,FALSE
+2797,365,Henry Jackman,Composer,Sound,FALSE
+2798,365,George Richmond,Cinematographer,Camera,FALSE
+2799,365,Eddie Hamilton,Editor,Editing,FALSE
+2800,365,Darren Gilford,Production Designer,Art,FALSE
+
+2801,366,M. Night Shyamalan,Director,Directing,FALSE
+2802,366,M. Night Shyamalan,Writer,Writing,FALSE
+2803,366,Frank Marshall,Producer,Production,FALSE
+2804,366,James Newton Howard,Composer,Sound,FALSE
+2805,366,Tak Fujimoto,Cinematographer,Camera,FALSE
+2806,366,Barbara Tulliver,Editor,Editing,FALSE
+2807,366,Larry Fulton,Production Designer,Art,FALSE
+
+2808,367,David Yates,Director,Directing,FALSE
+2809,367,J.K. Rowling,Writer,Writing,FALSE
+2810,367,David Heyman,Producer,Production,FALSE
+2811,367,James Newton Howard,Composer,Sound,FALSE
+2812,367,George Richmond,Cinematographer,Camera,FALSE
+2813,367,Mark Day,Editor,Editing,FALSE
+2814,367,Stuart Craig,Production Designer,Art,FALSE
+
+2815,368,Ruben Fleischer,Director,Directing,FALSE
+2816,368,Rafe Judkins,Writer,Writing,FALSE
+2817,368,Avi Arad,Producer,Production,FALSE
+2818,368,Ramin Djawadi,Composer,Sound,FALSE
+2819,368,Chung Chung-hoon,Cinematographer,Camera,FALSE
+2820,368,Chris Lebenzon,Editor,Editing,FALSE
+2821,368,Shepherd Frankel,Production Designer,Art,FALSE
+
+2822,369,Bryan Singer,Director,Directing,FALSE
+2823,369,Michael Dougherty,Writer,Writing,FALSE
+2824,369,Lauren Shuler Donner,Producer,Production,FALSE
+2825,369,John Ottman,Composer,Sound,FALSE
+2826,369,Newton Thomas Sigel,Cinematographer,Camera,FALSE
+2827,369,John Ottman,Editor,Editing,FALSE
+2828,369,Guy Hendrix Dyas,Production Designer,Art,FALSE
+
+2829,370,Rob Cohen,Director,Directing,FALSE
+2830,370,Alfred Gough,Writer,Writing,FALSE
+2831,370,Miles Millar,Writer,Writing,FALSE
+2832,370,Sean Daniel,Producer,Production,FALSE
+2833,370,Randy Edelman,Composer,Sound,FALSE
+2834,370,Simon Duggan,Cinematographer,Camera,FALSE
+2835,370,Kelly Matsumoto,Editor,Editing,FALSE
+2836,370,Nigel Phelps,Production Designer,Art,FALSE
+2837,371,Matthew Vaughn,Director,Directing,FALSE
+2838,371,Jane Goldman,Writer,Writing,FALSE
+2839,371,Matthew Vaughn,Writer,Writing,FALSE
+2840,371,Adam Bohling,Producer,Production,FALSE
+2841,371,Henry Jackman,Composer,Sound,FALSE
+2842,371,George Richmond,Cinematographer,Camera,FALSE
+2843,371,Eddie Hamilton,Editor,Editing,FALSE
+2844,371,Paul Kirby,Production Designer,Art,FALSE
+
+2845,372,Garth Jennings,Director,Directing,FALSE
+2846,372,Garth Jennings,Writer,Writing,FALSE
+2847,372,Chris Meledandri,Producer,Production,FALSE
+2848,372,Joby Talbot,Composer,Sound,FALSE
+2849,372,Benoît Philippon,Cinematographer,Camera,FALSE
+2850,372,Greg Perler,Editor,Editing,FALSE
+2851,372,Eric Guillon,Production Designer,Art,FALSE
+
+2852,373,Jeff Fowler,Director,Directing,FALSE
+2853,373,Pat Casey,Writer,Writing,FALSE
+2854,373,Josh Miller,Writer,Writing,FALSE
+2855,373,Neal H. Moritz,Producer,Production,FALSE
+2856,373,Tom Holkenborg,Composer,Sound,FALSE
+2857,373,Brandon Trost,Cinematographer,Camera,FALSE
+2858,373,Stacey Schroeder,Editor,Editing,FALSE
+2859,373,David James,Production Designer,Art,FALSE
+
+2860,374,Ridley Scott,Director,Directing,FALSE
+2861,374,Jon Spaihts,Writer,Writing,FALSE
+2862,374,Damon Lindelof,Writer,Writing,FALSE
+2863,374,David Giler,Producer,Production,FALSE
+2864,374,Marc Streitenfeld,Composer,Sound,FALSE
+2865,374,Dariusz Wolski,Cinematographer,Camera,FALSE
+2866,374,Pietro Scalia,Editor,Editing,FALSE
+2867,374,Arthur Max,Production Designer,Art,FALSE
+
+2868,375,Catherine Hardwicke,Director,Directing,FALSE
+2869,375,Melissa Rosenberg,Writer,Writing,FALSE
+2870,375,Wyck Godfrey,Producer,Production,FALSE
+2871,375,Carter Burwell,Composer,Sound,FALSE
+2872,375,Elliot Davis,Cinematographer,Camera,FALSE
+2873,375,Nancy Richardson,Editor,Editing,FALSE
+2874,375,Paul D. Austerberry,Production Designer,Art,FALSE
+
+2875,376,Shawn Levy,Director,Directing,FALSE
+2876,376,Robert Ben Garant,Writer,Writing,FALSE
+2877,376,Thomas Lennon,Writer,Writing,FALSE
+2878,376,Chris Columbus,Producer,Production,FALSE
+2879,376,Alan Silvestri,Composer,Sound,FALSE
+2880,376,John Schwartzman,Cinematographer,Camera,FALSE
+2881,376,Dean Zimmerman,Editor,Editing,FALSE
+2882,376,Claude Paré,Production Designer,Art,FALSE
+
+2883,377,Mike Thurmeier,Director,Directing,FALSE
+2884,377,Galen T. Chu,Director,Directing,FALSE
+2885,377,Michael J. Wilson,Writer,Writing,FALSE
+2886,377,Lori Forte,Producer,Production,FALSE
+2887,377,John Debney,Composer,Sound,FALSE
+2888,377,Renato Falcão,Cinematographer,Camera,FALSE
+2889,377,James Palumbo,Editor,Editing,FALSE
+2890,377,Nelson Recinos,Production Designer,Art,FALSE
+
+2891,378,Robert Rodriguez,Director,Directing,FALSE
+2892,378,James Cameron,Writer,Writing,FALSE
+2893,378,Laeta Kalogridis,Writer,Writing,FALSE
+2894,378,Jon Landau,Producer,Production,FALSE
+2895,378,Tom Holkenborg,Composer,Sound,FALSE
+2896,378,Bill Pope,Cinematographer,Camera,FALSE
+2897,378,Ian Silverstein,Editor,Editing,FALSE
+2898,378,Steve Joyner,Production Designer,Art,FALSE
+
+2899,379,Chloé Zhao,Director,Directing,FALSE
+2900,379,Patrick Burleigh,Writer,Writing,FALSE
+2901,379,Kevin Feige,Producer,Production,FALSE
+2902,379,Ramin Djawadi,Composer,Sound,FALSE
+2903,379,Ben Davis,Cinematographer,Camera,FALSE
+2904,379,Dylan Tichenor,Editor,Editing,FALSE
+2905,379,Eve Stewart,Production Designer,Art,FALSE
+
+2906,380,Rupert Sanders,Director,Directing,FALSE
+2907,380,Evan Daugherty,Writer,Writing,FALSE
+2908,380,Joe Roth,Producer,Production,FALSE
+2909,380,James Newton Howard,Composer,Sound,FALSE
+2910,380,Greig Fraser,Cinematographer,Camera,FALSE
+2911,380,Conrad Buff,Editor,Editing,FALSE
+2912,380,Dominic Watkins,Production Designer,Art,FALSE
+
+2913,381,Adil El Arbi,Director,Directing,FALSE
+2914,381,Bilall Fallah,Director,Directing,FALSE
+2915,381,Chris Bremner,Writer,Writing,FALSE
+2916,381,Will Smith,Producer,Production,FALSE
+2917,381,Lorne Balfe,Composer,Sound,FALSE
+2918,381,Roberto De Angelis,Cinematographer,Camera,FALSE
+2919,381,Dan Lebental,Editor,Editing,FALSE
+2920,381,Jon Billington,Production Designer,Art,FALSE
+
+2921,382,Joseph Kosinski,Director,Directing,FALSE
+2922,382,Eddie Kitsis,Writer,Writing,FALSE
+2923,382,Sean Bailey,Producer,Production,FALSE
+2924,382,Daft Punk,Composer,Sound,FALSE
+2925,382,Claudio Miranda,Cinematographer,Camera,FALSE
+2926,382,James Haygood,Editor,Editing,FALSE
+2927,382,Darren Gilford,Production Designer,Art,FALSE
+
+2928,383,J.J. Abrams,Director,Directing,FALSE
+2929,383,Alex Kurtzman,Writer,Writing,FALSE
+2930,383,Roberto Orci,Writer,Writing,FALSE
+2931,383,Tom Cruise,Producer,Production,FALSE
+2932,383,Michael Giacchino,Composer,Sound,FALSE
+2933,383,Dan Mindel,Cinematographer,Camera,FALSE
+2934,383,Mary Jo Markey,Editor,Editing,FALSE
+2935,383,Scott Chambliss,Production Designer,Art,FALSE
+
+2936,384,Ben Wheatley,Director,Directing,FALSE
+2937,384,Jon Hoeber,Writer,Writing,FALSE
+2938,384,Dean Georgaris,Writer,Writing,FALSE
+2939,384,Lorenzo di Bonaventura,Producer,Production,FALSE
+2940,384,Harry Gregson-Williams,Composer,Sound,FALSE
+2941,384,Haris Zambarloukos,Cinematographer,Camera,FALSE
+2942,384,Jonathan Amos,Editor,Editing,FALSE
+2943,384,Chris Lowe,Production Designer,Art,FALSE
+
+2944,385,Wes Ball,Director,Directing,FALSE
+2945,385,Josh Friedman,Writer,Writing,FALSE
+2946,385,Rick Jaffa,Writer,Writing,FALSE
+2947,385,Jason Reed,Producer,Production,FALSE
+2948,385,John Paesano,Composer,Sound,FALSE
+2949,385,Gyula Pados,Cinematographer,Camera,FALSE
+2950,385,Dan Zimmerman,Editor,Editing,FALSE
+2951,385,Daniel T. Dorrance,Production Designer,Art,FALSE
+
+2952,386,Ol Parker,Director,Directing,FALSE
+2953,386,Richard Curtis,Writer,Writing,FALSE
+2954,386,Judy Craymer,Producer,Production,FALSE
+2955,386,Anne Dudley,Composer,Sound,FALSE
+2956,386,Robert D. Yeoman,Cinematographer,Camera,FALSE
+2957,386,Peter Lambert,Editor,Editing,FALSE
+2958,386,Alan MacDonald,Production Designer,Art,FALSE
+
+2959,387,Hayao Miyazaki,Director,Directing,TRUE
+2960,387,Hayao Miyazaki,Writer,Writing,TRUE
+2961,387,Toshio Suzuki,Producer,Production,TRUE
+2962,387,Joe Hisaishi,Composer,Sound,TRUE
+2963,387,Atsushi Okui,Cinematographer,Camera,FALSE
+2964,387,Takeshi Seyama,Editor,Editing,FALSE
+2965,387,Yoji Takeshige,Art Director,Art,TRUE
+
+2966,388,Randal Kleiser,Director,Directing,FALSE
+2967,388,Allan Carr,Producer,Production,FALSE
+2968,388,Jim Jacobs,Writer,Writing,FALSE
+2969,388,Warren Casey,Writer,Writing,FALSE
+2970,388,John Farrar,Composer,Sound,FALSE
+2971,388,Bill Butler,Cinematographer,Camera,FALSE
+2972,388,John F. Burnett,Editor,Editing,FALSE
+2973,388,Philip M. Jefferies,Production Designer,Art,FALSE
+
+2974,389,Jaume Collet-Serra,Director,Directing,FALSE
+2975,389,Adam Sztykiel,Writer,Writing,FALSE
+2976,389,Beau Flynn,Producer,Production,FALSE
+2977,389,Lorne Balfe,Composer,Sound,FALSE
+2978,389,Lawrence Sher,Cinematographer,Camera,FALSE
+2979,389,Michael L. Sale,Editor,Editing,FALSE
+2980,389,Tom Meyer,Production Designer,Art,FALSE
+
+2981,390,Ron Howard,Director,Directing,FALSE
+2982,390,Jonathan Kasdan,Writer,Writing,FALSE
+2983,390,Lawrence Kasdan,Writer,Writing,FALSE
+2984,390,Kathleen Kennedy,Producer,Production,FALSE
+2985,390,John Powell,Composer,Sound,FALSE
+2986,390,Bradford Young,Cinematographer,Camera,FALSE
+2987,390,Pietro Scalia,Editor,Editing,FALSE
+2988,390,Neil Lamont,Production Designer,Art,FALSE
+2989,391,Bryan Singer,Director,Directing,FALSE
+2990,391,Michael Dougherty,Writer,Writing,FALSE
+2991,391,Dan Harris,Writer,Writing,FALSE
+2992,391,Jon Peters,Producer,Production,FALSE
+2993,391,John Ottman,Composer,Sound,FALSE
+2994,391,Newton Thomas Sigel,Cinematographer,Camera,FALSE
+2995,391,John Ottman,Editor,Editing,FALSE
+2996,391,Guy Hendrix Dyas,Production Designer,Art,FALSE
+
+2997,392,Victor Fleming,Director,Directing,TRUE
+2998,392,Sidney Howard,Writer,Writing,TRUE
+2999,392,David O. Selznick,Producer,Production,TRUE
+3000,392,Max Steiner,Composer,Sound,FALSE
+3001,392,Ernest Haller,Cinematographer,Camera,TRUE
+3002,392,Hal C. Kern,Editor,Editing,TRUE
+3003,392,Lyle R. Wheeler,Production Designer,Art,TRUE
+
+3004,393,Kevin Reynolds,Director,Directing,FALSE
+3005,393,Pen Densham,Writer,Writing,FALSE
+3006,393,John Watson,Producer,Production,FALSE
+3007,393,Michael Kamen,Composer,Sound,FALSE
+3008,393,Douglas Milsome,Cinematographer,Camera,FALSE
+3009,393,Peter Boyle,Editor,Editing,FALSE
+3010,393,Gavin Bocquet,Production Designer,Art,FALSE
+
+3011,394,Martin Scorsese,Director,Directing,FALSE
+3012,394,Terence Winter,Writer,Writing,FALSE
+3013,394,Emma Tillinger Koskoff,Producer,Production,FALSE
+3014,394,Howard Shore,Composer,Sound,FALSE
+3015,394,Rodrigo Prieto,Cinematographer,Camera,FALSE
+3016,394,Thelma Schoonmaker,Editor,Editing,TRUE
+3017,394,Bob Shaw,Production Designer,Art,FALSE
+
+3018,395,Robert Zemeckis,Director,Directing,TRUE
+3019,395,Bob Gale,Writer,Writing,TRUE
+3020,395,Neil Canton,Producer,Production,TRUE
+3021,395,Alan Silvestri,Composer,Sound,TRUE
+3022,395,Dean Cundey,Cinematographer,Camera,TRUE
+3023,395,Arthur Schmidt,Editor,Editing,TRUE
+3024,395,Larry Paull,Production Designer,Art,TRUE
+
+3025,396,Michael Dougherty,Director,Directing,FALSE
+3026,396,Zach Shields,Writer,Writing,FALSE
+3027,396,Alex Garcia,Producer,Production,FALSE
+3028,396,Bear McCreary,Composer,Sound,FALSE
+3029,396,Lawrence Sher,Cinematographer,Camera,FALSE
+3030,396,Roger Barton,Editor,Editing,FALSE
+3031,396,Scott Chambliss,Production Designer,Art,FALSE
+
+3032,397,J.J. Abrams,Director,Directing,FALSE
+3033,397,Roberto Orci,Writer,Writing,FALSE
+3034,397,Alex Kurtzman,Writer,Writing,FALSE
+3035,397,Damon Lindelof,Producer,Production,FALSE
+3036,397,Michael Giacchino,Composer,Sound,FALSE
+3037,397,Dan Mindel,Cinematographer,Camera,FALSE
+3038,397,Mary Jo Markey,Editor,Editing,FALSE
+3039,397,Scott Chambliss,Production Designer,Art,FALSE
+
+3040,398,Chris Wedge,Director,Directing,FALSE
+3041,398,Michael J. Wilson,Writer,Writing,FALSE
+3042,398,Lori Forte,Producer,Production,FALSE
+3043,398,David Newman,Composer,Sound,FALSE
+3044,398,Michael Knapp,Cinematographer,Camera,FALSE
+3045,398,John Carnochan,Editor,Editing,FALSE
+3046,398,Brian McEntee,Production Designer,Art,FALSE
+
+3047,399,Tim Johnson,Director,Directing,FALSE
+3048,399,Tom J. Astle,Writer,Writing,FALSE
+3049,399,Chris Meledandri,Producer,Production,FALSE
+3050,399,Lorne Balfe,Composer,Sound,FALSE
+3051,399,David Dulac,Cinematographer,Camera,FALSE
+3052,399,Nick Fletcher,Editor,Editing,FALSE
+3053,399,Chris Karr,Production Designer,Art,FALSE
+
+3054,400,George Miller,Director,Directing,TRUE
+3055,400,Warren Coleman,Writer,Writing,TRUE
+3056,400,Doug Mitchell,Producer,Production,TRUE
+3057,400,John Powell,Composer,Sound,TRUE
+3058,400,David Peers,Cinematographer,Camera,TRUE
+3059,400,Christian Gazal,Editor,Editing,TRUE
+3060,400,Graham Greenwood,Production Designer,Art,TRUE
+
+3061,401,Roland Emmerich,Director,Directing,FALSE
+3062,401,Dean Devlin,Writer,Writing,FALSE
+3063,401,Harald Kloser,Writer,Writing,FALSE
+3064,401,Harald Kloser,Composer,Sound,FALSE
+3065,401,Marco Shepherd,Producer,Production,FALSE
+3066,401,Markus Förderer,Cinematographer,Camera,FALSE
+3067,401,Adam Wolfe,Editor,Editing,FALSE
+3068,401,Kirk M. Petruccelli,Production Designer,Art,FALSE
+
+3069,402,James Mangold,Director,Directing,FALSE
+3070,402,Jez Butterworth,Writer,Writing,FALSE
+3071,402,Kathleen Kennedy,Producer,Production,FALSE
+3072,402,John Williams,Composer,Sound,FALSE
+3073,402,Phedon Papamichael,Cinematographer,Camera,FALSE
+3074,402,Michael McCusker,Editor,Editing,FALSE
+3075,402,Adam Stockhausen,Production Designer,Art,FALSE
+
+3076,403,Danny Boyle,Director,Directing,TRUE
+3077,403,Simon Beaufoy,Writer,Writing,TRUE
+3078,403,Christian Colson,Producer,Production,TRUE
+3079,403,A.R. Rahman,Composer,Sound,TRUE
+3080,403,Anthony Dod Mantle,Cinematographer,Camera,TRUE
+3081,403,Chris Dickens,Editor,Editing,TRUE
+3082,403,Mark Digby,Production Designer,Art,TRUE
+
+3083,404,Sam Mendes,Director,Directing,TRUE
+3084,404,Krysty Wilson-Cairns,Writer,Writing,TRUE
+3085,404,Sam Mendes,Writer,Writing,TRUE
+3086,404,Pippa Harris,Producer,Production,TRUE
+3087,404,Thomas Newman,Composer,Sound,TRUE
+3088,404,Roger Deakins,Cinematographer,Camera,TRUE
+3089,404,Lee Smith,Editor,Editing,TRUE
+3090,404,Dennis Gassner,Production Designer,Art,TRUE
+
+3091,405,Brian Fee,Director,Directing,FALSE
+3092,405,Robert L. Baird,Writer,Writing,FALSE
+3093,405,Andrea Warren,Producer,Production,FALSE
+3094,405,Randy Newman,Composer,Sound,FALSE
+3095,405,Jeremy Lasky,Cinematographer,Camera,FALSE
+3096,405,Jason Hudak,Editor,Editing,FALSE
+3097,405,Jay Shuster,Production Designer,Art,FALSE
+
+3098,406,Jake Schreier,Director,Directing,FALSE
+3099,406,Eric Pearson,Writer,Writing,FALSE
+3100,406,Kevin Feige,Producer,Production,FALSE
+3101,406,Henry Jackman,Composer,Sound,FALSE
+3102,406,Matthew Jensen,Cinematographer,Camera,FALSE
+3103,406,Jeffrey Ford,Editor,Editing,FALSE
+3104,406,Hannah Beachler,Production Designer,Art,FALSE
+
+3105,407,Len Wiseman,Director,Directing,FALSE
+3106,407,Mark Bomback,Writer,Writing,FALSE
+3107,407,Cliff Curtis,Producer,Production,FALSE
+3108,407,Marco Beltrami,Composer,Sound,FALSE
+3109,407,Simon Duggan,Cinematographer,Camera,FALSE
+3110,407,Nicolas De Toth,Editor,Editing,FALSE
+3111,407,Patrick Tatopoulos,Production Designer,Art,FALSE
+
+3112,408,Rob Letterman,Director,Directing,FALSE
+3113,408,Conrad Vernon,Writer,Writing,FALSE
+3114,408,Lisa Stewart,Producer,Production,FALSE
+3115,408,Henry Jackman,Composer,Sound,FALSE
+3116,408,Yong Duk Jhun,Cinematographer,Camera,FALSE
+3117,408,Erik Darnell,Editor,Editing,FALSE
+3118,408,David James,Production Designer,Art,FALSE
+
+3119,409,James Foley,Director,Directing,FALSE
+3120,409,Niall Leonard,Writer,Writing,FALSE
+3121,409,E.L. James,Producer,Production,FALSE
+3122,409,Danny Elfman,Composer,Sound,FALSE
+3123,409,John Schwartzman,Cinematographer,Camera,FALSE
+3124,409,Debra Neil-Fisher,Editor,Editing,FALSE
+3125,409,Nelson Coates,Production Designer,Art,FALSE
+
+3126,410,George Miller,Director,Directing,TRUE
+3127,410,Brendan McCarthy,Writer,Writing,TRUE
+3128,410,Doug Mitchell,Producer,Production,TRUE
+3129,410,Junkie XL,Composer,Sound,TRUE
+3130,410,John Seale,Cinematographer,Camera,TRUE
+3131,410,Margaret Sixel,Editor,Editing,TRUE
+3132,410,Colin Gibson,Production Designer,Art,TRUE
+3133,411,Kate Shortland,Director,Directing,FALSE
+3134,411,Eric Pearson,Writer,Writing,FALSE
+3135,411,Kevin Feige,Producer,Production,FALSE
+3136,411,Lorne Balfe,Composer,Sound,FALSE
+3137,411,Gabriel Beristain,Cinematographer,Camera,FALSE
+3138,411,Leigh Folsom Boyd,Editor,Editing,FALSE
+3139,411,Charles Wood,Production Designer,Art,FALSE
+
+3140,412,Olivier Megaton,Director,Directing,FALSE
+3141,412,Luc Besson,Writer,Writing,FALSE
+3142,412,Robert Mark Kamen,Writer,Writing,FALSE
+3143,412,Luc Besson,Producer,Production,FALSE
+3144,412,Nathaniel Méchaly,Composer,Sound,FALSE
+3145,412,Romain Lacourbas,Cinematographer,Camera,FALSE
+3146,412,Camille Delamarre,Editor,Editing,FALSE
+3147,412,Hugues Tissandier,Production Designer,Art,FALSE
+
+3148,413,Quentin Tarantino,Director,Directing,TRUE
+3149,413,Quentin Tarantino,Writer,Writing,TRUE
+3150,413,David Heyman,Producer,Production,FALSE
+3151,413,Robbie Robertson,Composer,Sound,FALSE
+3152,413,Robert Richardson,Cinematographer,Camera,TRUE
+3153,413,Fred Raskin,Editor,Editing,TRUE
+3154,413,Barbara Ling,Production Designer,Art,TRUE
+
+3155,414,Genndy Tartakovsky,Director,Directing,FALSE
+3156,414,Peter Baynham,Writer,Writing,FALSE
+3157,414,Michelle Murdocca,Producer,Production,FALSE
+3158,414,Mark Mothersbaugh,Composer,Sound,FALSE
+3159,414,Michael Kurinsky,Art Director,Art,FALSE
+3160,414,Craig Kellman,Character Designer,Art,FALSE
+3161,414,Christian Gazal,Editor,Editing,FALSE
+
+3162,415,Roland Emmerich,Director,Directing,FALSE
+3163,415,Dean Devlin,Writer,Writing,FALSE
+3164,415,Dean Devlin,Producer,Production,FALSE
+3165,415,David Arnold,Composer,Sound,FALSE
+3166,415,Ueli Steiger,Cinematographer,Camera,FALSE
+3167,415,David Brenner,Editor,Editing,FALSE
+3168,415,Oliver Scholl,Production Designer,Art,FALSE
+
+3169,416,Jon M. Chu,Director,Directing,FALSE
+3170,416,Rhett Reese,Writer,Writing,FALSE
+3171,416,Paul Wernick,Writer,Writing,FALSE
+3172,416,Lorenzo di Bonaventura,Producer,Production,FALSE
+3173,416,Henry Jackman,Composer,Sound,FALSE
+3174,416,Stephen F. Windon,Cinematographer,Camera,FALSE
+3175,416,Jim May,Editor,Editing,FALSE
+3176,416,Andrew Menzies,Production Designer,Art,FALSE
+
+3177,417,John Lasseter,Director,Directing,TRUE
+3178,417,Joss Whedon,Writer,Writing,TRUE
+3179,417,Bonnie Arnold,Producer,Production,TRUE
+3180,417,Randy Newman,Composer,Sound,TRUE
+3181,417,Sharon Calahan,Cinematographer,Camera,TRUE
+3182,417,Robert Gordon,Editor,Editing,FALSE
+3183,417,Ralph Eggleston,Production Designer,Art,TRUE
+
+3184,418,Joel Zwick,Director,Directing,FALSE
+3185,418,Nia Vardalos,Writer,Writing,FALSE
+3186,418,Rita Wilson,Producer,Production,FALSE
+3187,418,Chris Wilson,Composer,Sound,FALSE
+3188,418,Jeff Jur,Cinematographer,Camera,FALSE
+3189,418,Susan Littenberg,Editor,Editing,FALSE
+3190,418,William Heslup,Production Designer,Art,FALSE
+
+3191,419,Gavin Hood,Director,Directing,FALSE
+3192,419,David Benioff,Writer,Writing,FALSE
+3193,419,Lauren Shuler Donner,Producer,Production,FALSE
+3194,419,Harry Gregson-Williams,Composer,Sound,FALSE
+3195,419,Donald McAlpine,Cinematographer,Camera,FALSE
+3196,419,Nicholas De Toth,Editor,Editing,FALSE
+3197,419,Barry Robison,Production Designer,Art,FALSE
+
+3198,420,Nancy Meyers,Director,Directing,FALSE
+3199,420,Josh Goldsmith,Writer,Writing,FALSE
+3200,420,James L. Brooks,Producer,Production,FALSE
+3201,420,Hans Zimmer,Composer,Sound,FALSE
+3202,420,Dean Cundey,Cinematographer,Camera,FALSE
+3203,420,Stephen A. Rotter,Editor,Editing,FALSE
+3204,420,Jefferson Sage,Production Designer,Art,FALSE
+
+3205,421,Steven Spielberg,Director,Directing,FALSE
+3206,421,Steven Moffat,Writer,Writing,FALSE
+3207,421,Kathleen Kennedy,Producer,Production,FALSE
+3208,421,John Williams,Composer,Sound,FALSE
+3209,421,Janusz Kaminski,Cinematographer,Camera,FALSE
+3210,421,Michael Kahn,Editor,Editing,FALSE
+3211,421,Andrew Ackland-Snow,Art Director,Art,FALSE
+
+3212,422,Bob Persichetti,Director,Directing,TRUE
+3213,422,Peter Ramsey,Director,Directing,TRUE
+3214,422,Rodney Rothman,Writer,Writing,TRUE
+3215,422,Phil Lord,Writer,Writing,TRUE
+3216,422,Christopher Miller,Producer,Production,TRUE
+3217,422,Daniel Pemberton,Composer,Sound,TRUE
+3218,422,Robert Fisher Jr.,Editor,Editing,TRUE
+3219,422,Justin K. Thompson,Production Designer,Art,TRUE
+
+3220,423,Andrew Lau,Director,Directing,FALSE
+3221,423,Shu Chen,Writer,Writing,FALSE
+3222,423,Yu Dong,Producer,Production,FALSE
+3223,423,Edmund Ip,Composer,Sound,FALSE
+3224,423,Li Enhe,Cinematographer,Camera,FALSE
+3225,423,Azrael Chung,Editor,Editing,FALSE
+3226,423,Han Zhong,Production Designer,Art,FALSE
+
+3227,424,Zhang Yimou,Director,Directing,FALSE
+3228,424,Wang Bin,Writer,Writing,FALSE
+3229,424,Chen Sicheng,Producer,Production,FALSE
+3230,424,Shigeru Umebayashi,Composer,Sound,FALSE
+3231,424,Zhao Xiaoding,Cinematographer,Camera,FALSE
+3232,424,Cheng Long,Editor,Editing,FALSE
+3233,424,Han Zhong,Production Designer,Art,FALSE
+
+3234,425,Lee Isaac Chung,Director,Directing,FALSE
+3235,425,Mark L. Smith,Writer,Writing,FALSE
+3236,425,Kathleen Kennedy,Producer,Production,FALSE
+3237,425,Benjamin Wallfisch,Composer,Sound,FALSE
+3238,425,Dan Mindel,Cinematographer,Camera,FALSE
+3239,425,David Trachtenberg,Editor,Editing,FALSE
+3240,425,Adam Stockhausen,Production Designer,Art,FALSE
+
+3241,426,James Foley,Director,Directing,FALSE
+3242,426,Niall Leonard,Writer,Writing,FALSE
+3243,426,E.L. James,Producer,Production,FALSE
+3244,426,Danny Elfman,Composer,Sound,FALSE
+3245,426,John Schwartzman,Cinematographer,Camera,FALSE
+3246,426,Debra Neil-Fisher,Editor,Editing,FALSE
+3247,426,Nelson Coates,Production Designer,Art,FALSE
+
+3248,427,Rob Letterman,Director,Directing,FALSE
+3249,427,Michael J. Wilson,Writer,Writing,FALSE
+3250,427,Bill Damaschke,Producer,Production,FALSE
+3251,427,Hans Zimmer,Composer,Sound,FALSE
+3252,427,Yong Duk Jhun,Cinematographer,Camera,FALSE
+3253,427,Nick Fletcher,Editor,Editing,FALSE
+3254,427,David James,Production Designer,Art,FALSE
+
+3255,428,Joe Johnston,Director,Directing,FALSE
+3256,428,Christopher Markus,Writer,Writing,FALSE
+3257,428,Stephen McFeely,Writer,Writing,FALSE
+3258,428,Kevin Feige,Producer,Production,FALSE
+3259,428,Alan Silvestri,Composer,Sound,FALSE
+3260,428,Shelly Johnson,Cinematographer,Camera,FALSE
+3261,428,Jeffrey Ford,Editor,Editing,FALSE
+3262,428,Rick Heinrichs,Production Designer,Art,FALSE
+
+3263,429,Peter Farrelly,Director,Directing,FALSE
+3264,429,Bobby Farrelly,Writer,Writing,FALSE
+3265,429,Ed Decter,Writer,Writing,FALSE
+3266,429,Michael Haley,Producer,Production,FALSE
+3267,429,Jonathan Richman,Composer,Sound,FALSE
+3268,429,Mark Irwin,Cinematographer,Camera,FALSE
+3269,429,Christopher Greenbury,Editor,Editing,FALSE
+3270,429,Sidney Bartholomew Jr.,Production Designer,Art,FALSE
+3271,430,Steven Spielberg,Director,Directing,TRUE
+3272,430,Lawrence Kasdan,Writer,Writing,TRUE
+3273,430,George Lucas,Producer,Production,TRUE
+3274,430,John Williams,Composer,Sound,TRUE
+3275,430,Douglas Slocombe,Cinematographer,Camera,TRUE
+3276,430,Michael Kahn,Editor,Editing,TRUE
+3277,430,Norman Reynolds,Production Designer,Art,TRUE
+3278,431,Chris Weitz,Director,Directing,FALSE
+3279,431,Chris Weitz,Writer,Writing,FALSE
+3280,431,Deborah Forte,Producer,Production,FALSE
+3281,431,Alexandre Desplat,Composer,Sound,FALSE
+3282,431,Henry Braham,Cinematographer,Camera,FALSE
+3283,431,Anne V. Coates,Editor,Editing,FALSE
+3284,431,Dennis Gassner,Production Designer,Art,TRUE
+3285,432,David Fincher,Director,Directing,FALSE
+3286,432,Gillian Flynn,Writer,Writing,FALSE
+3287,432,Ceán Chaffin,Producer,Production,FALSE
+3288,432,Trent Reznor,Composer,Sound,TRUE
+3289,432,Jeff Cronenweth,Cinematographer,Camera,FALSE
+3290,432,Kirk Baxter,Editor,Editing,FALSE
+3291,432,Donald Graham Burt,Production Designer,Art,FALSE
+3292,433,Doug Liman,Director,Directing,FALSE
+3293,433,Christopher McQuarrie,Writer,Writing,FALSE
+3294,433,Erwin Stoff,Producer,Production,FALSE
+3295,433,Christophe Beck,Composer,Sound,FALSE
+3296,433,Dion Beebe,Cinematographer,Camera,FALSE
+3297,433,James Herbert,Editor,Editing,FALSE
+3298,433,Oliver Scholl,Production Designer,Art,FALSE
+3299,434,Eric Darnell,Director,Directing,FALSE
+3300,434,Simon J. Smith,Director,Directing,FALSE
+3301,434,Michael Colton,Writer,Writing,FALSE
+3302,434,Mark Burton,Writer,Writing,FALSE
+3303,434,Lara Breay,Producer,Production,FALSE
+3304,434,Lorne Balfe,Composer,Sound,FALSE
+3305,434,Nick Kenway,Editor,Editing,FALSE
+3306,434,David James,Production Designer,Art,FALSE
+3307,435,Andy Tennant,Director,Directing,FALSE
+3308,435,Kevin Bisch,Writer,Writing,FALSE
+3309,435,Will Smith,Producer,Production,FALSE
+3310,435,George Fenton,Composer,Sound,FALSE
+3311,435,Andrew Dunn,Cinematographer,Camera,FALSE
+3312,435,Troy Takaki,Editor,Editing,FALSE
+3313,435,Jane Musky,Production Designer,Art,FALSE
+3314,436,Zhang Mo,Director,Directing,FALSE
+3315,436,Wang Bin,Writer,Writing,FALSE
+3316,436,Chen Sicheng,Producer,Production,FALSE
+3317,436,Shigeru Umebayashi,Composer,Sound,FALSE
+3318,436,Zhao Xiaoding,Cinematographer,Camera,FALSE
+3319,436,He Rongguang,Editor,Editing,FALSE
+3320,436,Han Zhong,Production Designer,Art,FALSE
+3321,437,Christopher Nolan,Director,Directing,TRUE
+3322,437,Christopher Nolan,Writer,Writing,TRUE
+3323,437,Emma Thomas,Producer,Production,TRUE
+3324,437,Ludwig Göransson,Composer,Sound,TRUE
+3325,437,Hoyte van Hoytema,Cinematographer,Camera,TRUE
+3326,437,Jennifer Lame,Editor,Editing,TRUE
+3327,437,Nathan Crowley,Production Designer,Art,TRUE
+3328,438,John McTiernan,Director,Directing,FALSE
+3329,438,Jonathan Hensleigh,Writer,Writing,FALSE
+3330,438,John McTiernan,Producer,Production,FALSE
+3331,438,Michael Kamen,Composer,Sound,FALSE
+3332,438,Peter Menzies Jr.,Cinematographer,Camera,FALSE
+3333,438,John Wright,Editor,Editing,FALSE
+3334,438,Jackson De Govia,Production Designer,Art,FALSE
+3335,439,Corin Hardy,Director,Directing,FALSE
+3336,439,Gary Dauberman,Writer,Writing,FALSE
+3337,439,James Wan,Producer,Production,FALSE
+3338,439,Abel Korzeniowski,Composer,Sound,FALSE
+3339,439,Maxime Alexandre,Cinematographer,Camera,FALSE
+3340,439,Michel Aller,Editor,Editing,FALSE
+3341,439,Jennifer Spence,Production Designer,Art,FALSE
+3342,440,David F. Sandberg,Director,Directing,FALSE
+3343,440,Henry Gayden,Writer,Writing,FALSE
+3344,440,Peter Safran,Producer,Production,FALSE
+3345,440,Benjamin Wallfisch,Composer,Sound,FALSE
+3346,440,Maxime Alexandre,Cinematographer,Camera,FALSE
+3347,440,Kirk Morri,Editor,Editing,FALSE
+3348,440,Jennifer Spence,Production Designer,Art,FALSE
+3349,441,Joe Johnston,Director,Directing,FALSE
+3350,441,Peter Buchman,Writer,Writing,FALSE
+3351,441,Kathleen Kennedy,Producer,Production,FALSE
+3352,441,Don Davis,Composer,Sound,FALSE
+3353,441,John Schwartzman,Cinematographer,Camera,FALSE
+3354,441,Robert Dalva,Editor,Editing,FALSE
+3355,441,Ed Verreaux,Production Designer,Art,FALSE
+3356,442,McG,Director,Directing,FALSE
+3357,442,John Brancato,Writer,Writing,FALSE
+3358,442,Victor Kubicek,Producer,Production,FALSE
+3359,442,Danny Elfman,Composer,Sound,FALSE
+3360,442,Shane Hurlbut,Cinematographer,Camera,FALSE
+3361,442,Conrad Buff,Editor,Editing,FALSE
+3362,442,Martin Laing,Production Designer,Art,FALSE
+3363,443,James Cameron,Director,Directing,FALSE
+3364,443,James Cameron,Writer,Writing,FALSE
+3365,443,Stephanie Austin,Producer,Production,FALSE
+3366,443,Brad Fiedel,Composer,Sound,FALSE
+3367,443,Russell Carpenter,Cinematographer,Camera,FALSE
+3368,443,Conrad Buff,Editor,Editing,FALSE
+3369,443,Charles William Breen,Production Designer,Art,FALSE
+3370,444,Roger Michell,Director,Directing,FALSE
+3371,444,Richard Curtis,Writer,Writing,FALSE
+3372,444,Duncan Kenworthy,Producer,Production,FALSE
+3373,444,Trevor Jones,Composer,Sound,FALSE
+3374,444,Michael Coulter,Cinematographer,Camera,FALSE
+3375,444,Nick Moore,Editor,Editing,FALSE
+3376,444,Stuart Craig,Production Designer,Art,FALSE
+3377,445,John Lasseter,Director,Directing,FALSE
+3378,445,Andrew Stanton,Writer,Writing,FALSE
+3379,445,John Lasseter,Producer,Production,FALSE
+3380,445,Randy Newman,Composer,Sound,FALSE
+3381,445,Sharon Calahan,Cinematographer,Camera,FALSE
+3382,445,Lee Unkrich,Editor,Editing,FALSE
+3383,445,Ralph Eggleston,Production Designer,Art,FALSE
+3384,446,Steven Soderbergh,Director,Directing,FALSE
+3385,446,George Nolfi,Writer,Writing,FALSE
+3386,446,Brian Koppelman,Writer,Writing,FALSE
+3387,446,Jerry Weintraub,Producer,Production,FALSE
+3388,446,David Holmes,Composer,Sound,FALSE
+3389,446,Peter Andrews,Cinematographer,Camera,FALSE
+3390,446,Stephen Mirrione,Editor,Editing,FALSE
+3391,446,Philip Messina,Production Designer,Art,FALSE
+3392,447,Tim Hill,Director,Directing,FALSE
+3393,447,Jon Vitti,Writer,Writing,FALSE
+3394,447,Janice Karman,Producer,Production,FALSE
+3395,447,Christopher Lennertz,Composer,Sound,FALSE
+3396,447,Peter Lyons Collister,Cinematographer,Camera,FALSE
+3397,447,Peter S. Elliot,Editor,Editing,FALSE
+3398,447,Richard Holland,Production Designer,Art,FALSE
+3399,448,Tim Burton,Director,Directing,FALSE
+3400,448,William Broyles Jr.,Writer,Writing,FALSE
+3401,448,Richard D. Zanuck,Producer,Production,FALSE
+3402,448,Danny Elfman,Composer,Sound,FALSE
+3403,448,Philippe Rousselot,Cinematographer,Camera,FALSE
+3404,448,Chris Lebenzon,Editor,Editing,FALSE
+3405,448,Colleen Atwood,Production Designer,Art,FALSE
+3406,449,Todd Phillips,Director,Directing,FALSE
+3407,449,Craig Mazin,Writer,Writing,FALSE
+3408,449,Dan Goldberg,Producer,Production,FALSE
+3409,449,Cliff Martinez,Composer,Sound,FALSE
+3410,449,Lawrence Sher,Cinematographer,Camera,FALSE
+3411,449,Debra Neil-Fisher,Editor,Editing,FALSE
+3412,449,Bill Brzeski,Production Designer,Art,FALSE
+3413,450,Michael Apted,Director,Directing,FALSE
+3414,450,Neal Purvis,Writer,Writing,FALSE
+3415,450,Robert Wade,Writer,Writing,FALSE
+3416,450,Barbara Broccoli,Producer,Production,FALSE
+3417,450,David Arnold,Composer,Sound,FALSE
+3418,450,Adrian Biddle,Cinematographer,Camera,FALSE
+3419,450,Jim Clark,Editor,Editing,FALSE
+3420,450,Peter Lamont,Production Designer,Art,FALSE
+3421,451,Raman Hui,Director,Directing,FALSE
+3422,451,Alan Yuen,Writer,Writing,FALSE
+3423,451,Bill Kong,Producer,Production,FALSE
+3424,451,Leon Ko,Composer,Sound,FALSE
+3425,451,Chan Chi Ying,Cinematographer,Camera,FALSE
+3426,451,Chi-Leung Kwong,Editor,Editing,FALSE
+3427,451,Yee Chung-Man,Production Designer,Art,FALSE
+3428,452,Justin Lin,Director,Directing,FALSE
+3429,452,Chris Morgan,Writer,Writing,FALSE
+3430,452,Neal H. Moritz,Producer,Production,FALSE
+3431,452,Brian Tyler,Composer,Sound,FALSE
+3432,452,Amir Mokri,Cinematographer,Camera,FALSE
+3433,452,Christian Wagner,Editor,Editing,FALSE
+3434,452,Ida Random,Production Designer,Art,FALSE
+3435,453,Chris Columbus,Director,Directing,FALSE
+3436,453,John Hughes,Writer,Writing,FALSE
+3437,453,Hilton A. Green,Producer,Production,FALSE
+3438,453,John Williams,Composer,Sound,FALSE
+3439,453,Julio Macat,Cinematographer,Camera,FALSE
+3440,453,Raja Gosnell,Editor,Editing,FALSE
+3441,453,Dan Webster,Production Designer,Art,FALSE
+3442,454,Steven Spielberg,Director,Directing,FALSE
+3443,454,Scott Frank,Writer,Writing,FALSE
+3444,454,Janusz Kamiński,Cinematographer,Camera,FALSE
+3445,454,Kathleen Kennedy,Producer,Production,FALSE
+3446,454,John Williams,Composer,Sound,FALSE
+3447,454,Michael Kahn,Editor,Editing,FALSE
+3448,454,Alex McDowell,Production Designer,Art,FALSE
+3449,455,Brian Levant,Director,Directing,FALSE
+3450,455,Tom S. Parker,Writer,Writing,FALSE
+3451,455,Bruce Cohen,Producer,Production,FALSE
+3452,455,David Newman,Composer,Sound,FALSE
+3453,455,Dean Cundey,Cinematographer,Camera,FALSE
+3454,455,Kent Beyda,Editor,Editing,FALSE
+3455,455,Leslie Dilley,Production Designer,Art,FALSE
+3456,456,Will Gluck,Director,Directing,FALSE
+3457,456,Rob Lieber,Writer,Writing,FALSE
+3458,456,Will Gluck,Producer,Production,FALSE
+3459,456,Dominic Lewis,Composer,Sound,FALSE
+3460,456,Peter Menzies Jr.,Cinematographer,Camera,FALSE
+3461,456,Christian Gazal,Editor,Editing,FALSE
+3462,456,Roger Ford,Production Designer,Art,FALSE
+3463,457,Tony Scott,Director,Directing,FALSE
+3464,457,Jim Cash,Writer,Writing,FALSE
+3465,457,Don Simpson,Producer,Production,FALSE
+3466,457,Hans Zimmer,Composer,Sound,FALSE
+3467,457,Jeffrey L. Kimball,Cinematographer,Camera,FALSE
+3468,457,Chris Lebenzon,Editor,Editing,FALSE
+3469,457,Michael White,Production Designer,Art,FALSE
+3470,458,David Yates,Director,Directing,FALSE
+3471,458,Adam Cozad,Writer,Writing,FALSE
+3472,458,Jerry Weintraub,Producer,Production,FALSE
+3473,458,Rupert Gregson-Williams,Composer,Sound,FALSE
+3474,458,Henry Braham,Cinematographer,Camera,FALSE
+3475,458,Mark Day,Editor,Editing,FALSE
+3476,458,Stuart Craig,Production Designer,Art,FALSE
+3477,459,Christopher Nolan,Director,Directing,FALSE
+3478,459,Jonathan Nolan,Writer,Writing,FALSE
+3479,459,Emma Thomas,Producer,Production,FALSE
+3480,459,Hans Zimmer,Composer,Sound,FALSE
+3481,459,Wally Pfister,Cinematographer,Camera,TRUE
+3482,459,Lee Smith,Editor,Editing,FALSE
+3483,459,Nathan Crowley,Production Designer,Art,FALSE
+3484,460,Martin Campbell,Director,Directing,FALSE
+3485,460,Bruce Feirstein,Writer,Writing,FALSE
+3486,460,Michael G. Wilson,Producer,Production,FALSE
+3487,460,Eric Serra,Composer,Sound,FALSE
+3488,460,Phil Méheux,Cinematographer,Camera,FALSE
+3489,460,Terry Rawlings,Editor,Editing,FALSE
+3490,460,Peter Lamont,Production Designer,Art,FALSE
+3491,461,Sam Mendes,Director,Directing,TRUE
+3492,461,Alan Ball,Writer,Writing,TRUE
+3493,461,Bruce Cohen,Producer,Production,TRUE
+3494,461,Thomas Newman,Composer,Sound,TRUE
+3495,461,Conrad L. Hall,Cinematographer,Camera,TRUE
+3496,461,Tariq Anwar,Editor,Editing,FALSE
+3497,461,Naomi Shohan,Production Designer,Art,TRUE
+3498,462,Ralph Zondag,Director,Directing,FALSE
+3499,462,John Harrison,Writer,Writing,FALSE
+3500,462,Pam Marsden,Producer,Production,FALSE
+3501,462,James Newton Howard,Composer,Sound,FALSE
+3502,462,David Stump,Cinematographer,Camera,FALSE
+3503,462,Stan Salfas,Editor,Editing,FALSE
+3504,462,Neil Lamont,Production Designer,Art,FALSE
+3505,463,Chen Sicheng,Director,Directing,FALSE
+3506,463,Chen Sicheng,Writer,Writing,FALSE
+3507,463,Wang Hongwei,Producer,Production,FALSE
+3508,463,Luo Wei,Composer,Sound,FALSE
+3509,463,Pan Heng,Cinematographer,Camera,FALSE
+3510,463,He Rongguang,Editor,Editing,FALSE
+3511,463,Han Zhong,Production Designer,Art,FALSE
+3512,464,Steven Spielberg,Director,Directing,FALSE
+3513,464,Jeff Nathanson,Writer,Writing,FALSE
+3514,464,Kathleen Kennedy,Producer,Production,FALSE
+3515,464,John Williams,Composer,Sound,FALSE
+3516,464,Janusz Kamiński,Cinematographer,Camera,FALSE
+3517,464,Michael Kahn,Editor,Editing,FALSE
+3518,464,Jeannine Oppewall,Production Designer,Art,FALSE
+3519,465,Matthew Vaughn,Director,Directing,FALSE
+3520,465,Jane Goldman,Writer,Writing,FALSE
+3521,465,Bryan Singer,Producer,Production,FALSE
+3522,465,Henry Jackman,Composer,Sound,FALSE
+3523,465,John Mathieson,Cinematographer,Camera,FALSE
+3524,465,Eddie Hamilton,Editor,Editing,FALSE
+3525,465,Chris Seagers,Production Designer,Art,FALSE
+3526,466,Makoto Shinkai,Director,Directing,TRUE
+3527,466,Makoto Shinkai,Writer,Writing,TRUE
+3528,466,Genki Kawamura,Producer,Production,TRUE
+3529,466,Radwimps,Composer,Sound,TRUE
+3530,466,Masayoshi Tanaka,Character Designer,Art,TRUE
+3531,466,Atsushi Tamura,Cinematographer,Camera,TRUE
+3532,466,Takahiro Chiba,Editor,Editing,FALSE
+3533,467,Andrew Davis,Director,Directing,FALSE
+3534,467,Jeb Stuart,Writer,Writing,FALSE
+3535,467,Arnold Kopelson,Producer,Production,FALSE
+3536,467,James Newton Howard,Composer,Sound,FALSE
+3537,467,Michael Chapman,Cinematographer,Camera,FALSE
+3538,467,Dennis Virkler,Editor,Editing,FALSE
+3539,467,Norman Garwood,Production Designer,Art,FALSE
+3540,468,Shawn Levy,Director,Directing,FALSE
+3541,468,David Guion,Writer,Writing,FALSE
+3542,468,Michael Handelman,Writer,Writing,FALSE
+3543,468,Chris Columbus,Producer,Production,FALSE
+3544,468,Alan Silvestri,Composer,Sound,FALSE
+3545,468,Guillermo Navarro,Cinematographer,Camera,FALSE
+3546,468,Dean Zimmerman,Editor,Editing,FALSE
+3547,468,Claude Paré,Production Designer,Art,FALSE
+3548,469,Baz Luhrmann,Director,Directing,FALSE
+3549,469,Craig Pearce,Writer,Writing,FALSE
+3550,469,Catherine Martin,Producer,Production,TRUE
+3551,469,Craig Armstrong,Composer,Sound,FALSE
+3552,469,Simon Duggan,Cinematographer,Camera,FALSE
+3553,469,Matt Villa,Editor,Editing,FALSE
+3554,469,Catherine Martin,Production Designer,Art,TRUE
+3555,470,Tim Burton,Director,Directing,FALSE
+3556,470,Ehren Kruger,Writer,Writing,FALSE
+3557,470,Derek Frey,Producer,Production,FALSE
+3558,470,Danny Elfman,Composer,Sound,FALSE
+3559,470,Ben Davis,Cinematographer,Camera,FALSE
+3560,470,Chris Lebenzon,Editor,Editing,FALSE
+3561,470,Rick Heinrichs,Production Designer,Art,FALSE
+3562,471,Darren Aronofsky,Director,Directing,FALSE
+3563,471,Ari Handel,Writer,Writing,FALSE
+3564,471,Scott Franklin,Producer,Production,FALSE
+3565,471,Clint Mansell,Composer,Sound,FALSE
+3566,471,Matthew Libatique,Cinematographer,Camera,FALSE
+3567,471,Andrew Weisblum,Editor,Editing,FALSE
+3568,471,Mark Friedberg,Production Designer,Art,FALSE
+3569,472,Paul Verhoeven,Director,Directing,FALSE
+3570,472,Joe Eszterhas,Writer,Writing,FALSE
+3571,472,Alan Marshall,Producer,Production,FALSE
+3572,472,Jerry Goldsmith,Composer,Sound,FALSE
+3573,472,Jan de Bont,Cinematographer,Camera,FALSE
+3574,472,Frank J. Urioste,Editor,Editing,FALSE
+3575,472,Terence Marsh,Production Designer,Art,FALSE
+3576,473,Clay Kaytis,Director,Directing,FALSE
+3577,473,Fergal Reilly,Director,Directing,FALSE
+3578,473,Jon Vitti,Writer,Writing,FALSE
+3579,473,John Cohen,Producer,Production,FALSE
+3580,473,Heitor Pereira,Composer,Sound,FALSE
+3581,473,Simon Dunsdon,Editor,Editing,FALSE
+3582,473,Phoebe Gittins,Production Designer,Art,FALSE
+3583,474,Chuck Russell,Director,Directing,FALSE
+3584,474,Michael Fallon,Writer,Writing,FALSE
+3585,474,Bob Engelman,Producer,Production,FALSE
+3586,474,Randy Edelman,Composer,Sound,FALSE
+3587,474,John R. Leonetti,Cinematographer,Camera,FALSE
+3588,474,Don Zimmerman,Editor,Editing,FALSE
+3589,474,Craig Stearns,Production Designer,Art,FALSE
+3590,475,Harald Zwart,Director,Directing,FALSE
+3591,475,Christopher Murphey,Writer,Writing,FALSE
+3592,475,Jerry Weintraub,Producer,Production,FALSE
+3593,475,James Horner,Composer,Sound,FALSE
+3594,475,Roger Pratt,Cinematographer,Camera,FALSE
+3595,475,Joel Negron,Editor,Editing,FALSE
+3596,475,Neil Spisak,Production Designer,Art,FALSE
+3597,476,Kenneth Branagh,Director,Directing,FALSE
+3598,476,Michael Green,Writer,Writing,FALSE
+3599,476,Ridley Scott,Producer,Production,FALSE
+3600,476,Patrick Doyle,Composer,Sound,FALSE
+3601,476,Haris Zambarloukos,Cinematographer,Camera,FALSE
+3602,476,Mick Audsley,Editor,Editing,FALSE
+3603,476,Jim Clay,Production Designer,Art,FALSE
+3604,477,Robert Zemeckis,Director,Directing,TRUE
+3605,477,Jeffrey Price,Writer,Writing,FALSE
+3606,477,Frank Marshall,Producer,Production,FALSE
+3607,477,Alan Silvestri,Composer,Sound,FALSE
+3608,477,Dean Cundey,Cinematographer,Camera,FALSE
+3609,477,Arthur Schmidt,Editor,Editing,TRUE
+3610,477,Elliot Scott,Production Designer,Art,FALSE
+3611,478,Chris Renaud,Director,Directing,FALSE
+3612,478,Kyle Balda,Co-Director,Directing,FALSE
+3613,478,Ken Daurio,Writer,Writing,FALSE
+3614,478,Chris Meledandri,Producer,Production,FALSE
+3615,478,John Powell,Composer,Sound,FALSE
+3616,478,Ken Schretzmann,Editor,Editing,FALSE
+3617,478,Eric Guillon,Production Designer,Art,FALSE
+3618,479,Fede Álvarez,Director,Directing,FALSE
+3619,479,Rodo Sayagues,Writer,Writing,FALSE
+3620,479,Ridley Scott,Producer,Production,FALSE
+3621,479,Benjamin Wallfisch,Composer,Sound,FALSE
+3622,479,Galo Olivares,Cinematographer,Camera,FALSE
+3623,479,Alex Rodríguez,Editor,Editing,FALSE
+3624,479,Chris Seagers,Production Designer,Art,FALSE
+3625,480,Ridley Scott,Director,Directing,FALSE
+3626,480,David Mamet,Writer,Writing,FALSE
+3627,480,Dino De Laurentiis,Producer,Production,FALSE
+3628,480,Hans Zimmer,Composer,Sound,FALSE
+3629,480,John Mathieson,Cinematographer,Camera,FALSE
+3630,480,Pietro Scalia,Editor,Editing,FALSE
+3631,480,Norris Spencer,Production Designer,Art,FALSE
+3632,481,Justin Baldoni,Director,Directing,FALSE
+3633,481,Christy Hall,Writer,Writing,FALSE
+3634,481,Alex Saks,Producer,Production,FALSE
+3635,481,Finneas O’Connell,Composer,Sound,FALSE
+3636,481,Zac Nicholson,Cinematographer,Camera,FALSE
+3637,481,Melissa Kent,Editor,Editing,FALSE
+3638,481,Tamara Deverell,Production Designer,Art,FALSE
+3639,482,Mimi Leder,Director,Directing,FALSE
+3640,482,Bruce Joel Rubin,Writer,Writing,FALSE
+3641,482,David Brown,Producer,Production,FALSE
+3642,482,James Horner,Composer,Sound,FALSE
+3643,482,Dietrich Lohmann,Cinematographer,Camera,FALSE
+3644,482,Paul Cichocki,Editor,Editing,FALSE
+3645,482,Leslie Dilley,Production Designer,Art,FALSE
+3646,483,Mike Mitchell,Director,Directing,FALSE
+3647,483,Jonathan Aibel,Writer,Writing,FALSE
+3648,483,Janice Karman,Producer,Production,FALSE
+3649,483,Mark Mothersbaugh,Composer,Sound,FALSE
+3650,483,Anthony B. Richmond,Cinematographer,Camera,FALSE
+3651,483,Peter S. Elliot,Editor,Editing,FALSE
+3652,483,Richard Holland,Production Designer,Art,FALSE
+3653,484,Alex Proyas,Director,Directing,FALSE
+3654,484,Jeff Vintar,Writer,Writing,FALSE
+3655,484,Akiva Goldsman,Writer,Writing,FALSE
+3656,484,John Davis,Producer,Production,FALSE
+3657,484,Marco Beltrami,Composer,Sound,FALSE
+3658,484,Simon Duggan,Cinematographer,Camera,FALSE
+3659,484,William Hoy,Editor,Editing,FALSE
+3660,484,Patrick Tatopoulos,Production Designer,Art,FALSE
+3661,485,Raja Gosnell,Director,Directing,FALSE
+3662,485,J. David Stem,Writer,Writing,FALSE
+3663,485,Jordan Kerner,Producer,Production,FALSE
+3664,485,Heitor Pereira,Composer,Sound,FALSE
+3665,485,Phil Meheux,Cinematographer,Camera,FALSE
+3666,485,Peter S. Elliot,Editor,Editing,FALSE
+3667,485,Brett M. Sullivan,Production Designer,Art,FALSE
+3668,486,Wes Ball,Director,Directing,FALSE
+3669,486,Noah Oppenheim,Writer,Writing,FALSE
+3670,486,Ellen Goldsmith-Vein,Producer,Production,FALSE
+3671,486,John Paesano,Composer,Sound,FALSE
+3672,486,Gyula Pados,Cinematographer,Camera,FALSE
+3673,486,Dan Zimmerman,Editor,Editing,FALSE
+3674,486,Marc Fisichella,Production Designer,Art,FALSE
+3675,487,Francis Lawrence,Director,Directing,FALSE
+3676,487,Michael Lesslie,Writer,Writing,FALSE
+3677,487,Suzanne Collins,Writer,Writing,FALSE
+3678,487,Nina Jacobson,Producer,Production,FALSE
+3679,487,James Newton Howard,Composer,Sound,FALSE
+3680,487,Jo Willems,Cinematographer,Camera,FALSE
+3681,487,Mark Yoshikawa,Editor,Editing,FALSE
+3682,487,Naomi Shohan,Production Designer,Art,FALSE
+3683,488,Ron Howard,Director,Directing,FALSE
+3684,488,Jeffrey Price,Writer,Writing,FALSE
+3685,488,Brian Grazer,Producer,Production,FALSE
+3686,488,James Horner,Composer,Sound,FALSE
+3687,488,Don Peterman,Cinematographer,Camera,FALSE
+3688,488,Dan Hanley,Editor,Editing,FALSE
+3689,488,Michael Corenblith,Production Designer,Art,FALSE
+3690,489,Brett Ratner,Director,Directing,FALSE
+3691,489,Jeff Nathanson,Writer,Writing,FALSE
+3692,489,Arthur Sarkissian,Producer,Production,FALSE
+3693,489,Lalo Schifrin,Composer,Sound,FALSE
+3694,489,Andrew Lesnie,Cinematographer,Camera,FALSE
+3695,489,Mark Helfrich,Editor,Editing,FALSE
+3696,489,Paul Peters,Production Designer,Art,FALSE
+3697,490,Mike Gabriel,Director,Directing,FALSE
+3698,490,Eric Goldberg,Director,Directing,FALSE
+3699,490,Carl Binder,Writer,Writing,FALSE
+3700,490,James Pentecost,Producer,Production,FALSE
+3701,490,Alan Menken,Composer,Sound,TRUE
+3702,490,Russ Edmonds,Animation Supervisor,Art,FALSE
+3703,490,Tom Sito,Story Supervisor,Writing,FALSE
+3704,490,Michael Cedeno,Layout Artist,Art,FALSE
+3705,491,Rob Marshall,Director,Directing,FALSE
+3706,491,David Magee,Writer,Writing,FALSE
+3707,491,John DeLuca,Producer,Production,FALSE
+3708,491,Marc Shaiman,Composer,Sound,FALSE
+3709,491,Dion Beebe,Cinematographer,Camera,FALSE
+3710,491,Wyatt Smith,Editor,Editing,FALSE
+3711,491,John Myhre,Production Designer,Art,FALSE
+
+3712,492,D.J. Caruso,Director,Directing,FALSE
+3713,492,F. Scott Frazier,Writer,Writing,FALSE
+3714,492,Neal H. Moritz,Producer,Production,FALSE
+3715,492,Brian Tyler,Composer,Sound,FALSE
+3716,492,Russell Carpenter,Cinematographer,Camera,FALSE
+3717,492,Jim Page,Editor,Editing,FALSE
+3718,492,Jon Billington,Production Designer,Art,FALSE
+
+3719,493,Tim Johnson,Director,Directing,FALSE
+3720,493,Karey Kirkpatrick,Writer,Writing,FALSE
+3721,493,Bonnie Arnold,Producer,Production,FALSE
+3722,493,Ben Folds,Composer,Sound,FALSE
+3723,493,Sharon Calahan,Cinematographer,Camera,FALSE
+3724,493,Hugh Hughes,Editor,Editing,FALSE
+3725,493,David James,Production Designer,Art,FALSE
+
+3726,494,Mike Mitchell,Director,Directing,FALSE
+3727,494,Jonathan Aibel,Writer,Writing,FALSE
+3728,494,Gina Shay,Producer,Production,FALSE
+3729,494,Justin Timberlake,Composer,Sound,FALSE
+3730,494,Yong Duk Jhun,Cinematographer,Camera,FALSE
+3731,494,Nick Fletcher,Editor,Editing,FALSE
+3732,494,Kendall Cronkhite,Production Designer,Art,FALSE
+
+3733,495,Louis Leterrier,Director,Directing,FALSE
+3734,495,Ed Solomon,Writer,Writing,FALSE
+3735,495,Alex Kurtzman,Writer,Writing,FALSE
+3736,495,Bobby Cohen,Producer,Production,FALSE
+3737,495,Brian Tyler,Composer,Sound,FALSE
+3738,495,Larry Fong,Cinematographer,Camera,FALSE
+3739,495,Robert Leighton,Editor,Editing,FALSE
+3740,495,Peter Wenham,Production Designer,Art,FALSE
+
+3741,496,Timur Bekmambetov,Director,Directing,FALSE
+3742,496,Michael Brandt,Writer,Writing,FALSE
+3743,496,Derek Haas,Writer,Writing,FALSE
+3744,496,Marc Platt,Producer,Production,FALSE
+3745,496,Danny Elfman,Composer,Sound,FALSE
+3746,496,Mitchell Amundsen,Cinematographer,Camera,FALSE
+3747,496,David Brenner,Editor,Editing,FALSE
+3748,496,John Myhre,Production Designer,Art,FALSE
+
+3749,497,Raman Hui,Director,Directing,FALSE
+3750,497,Alan Yuen,Writer,Writing,FALSE
+3751,497,Bill Kong,Producer,Production,FALSE
+3752,497,Leon Ko,Composer,Sound,FALSE
+3753,497,Chan Chi Ying,Cinematographer,Camera,FALSE
+3754,497,Chi-Leung Kwong,Editor,Editing,FALSE
+3755,497,Yee Chung-Man,Production Designer,Art,FALSE
+
+3756,498,Steven Spielberg,Director,Directing,FALSE
+3757,498,Steven Spielberg,Writer,Writing,FALSE
+3758,498,Julia Phillips,Producer,Production,FALSE
+3759,498,John Williams,Composer,Sound,FALSE
+3760,498,Vilmos Zsigmond,Cinematographer,Camera,TRUE
+3761,498,Michael Kahn,Editor,Editing,FALSE
+3762,498,Joe Alves,Production Designer,Art,FALSE
+
+3763,499,Kevin Lima,Director,Directing,FALSE
+3764,499,Bill Kelly,Writer,Writing,FALSE
+3765,499,Barry Sonnenfeld,Producer,Production,FALSE
+3766,499,Alan Menken,Composer,Sound,FALSE
+3767,499,Don Burgess,Cinematographer,Camera,FALSE
+3768,499,Gregory Perler,Editor,Editing,FALSE
+3769,499,Stuart Wurtzel,Production Designer,Art,FALSE
+
+3770,500,Roger Spottiswoode,Director,Directing,FALSE
+3771,500,Bruce Feirstein,Writer,Writing,FALSE
+3772,500,Michael G. Wilson,Producer,Production,FALSE
+3773,500,David Arnold,Composer,Sound,FALSE
+3774,500,Robert Elswit,Cinematographer,Camera,FALSE
+3775,500,Michel Arcand,Editor,Editing,FALSE
+3776,500,Allan Cameron,Production Designer,Art,FALSE

@@ -1,0 +1,1 @@
+2025-10-19 — İlk ER taslağı ve veri sözlüğü iskeleti.

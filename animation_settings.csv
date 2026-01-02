@@ -1,0 +1,501 @@
+film_id,animation_type,visual_style,frame_rate,render_technique,character_design_style,color_palette_type,animation_realism_level,hand_drawn_elements_present,motion_capture_used,stop_motion_used,ai_generated_elements_present,production_software,art_direction_tone,animation_award_won
+1,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+2,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+3,3D,Realistic,48,PathTracing,Proportional,Vibrant,0.98,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+4,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Naturalistic,TRUE
+5,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+6,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+7,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Ep ic,TRUE
+8,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+9,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+10,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+11,3D,Realistic,24,RayTracing,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+12,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+13,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+14,3D,Realistic,24,Rasterization,Proportional,Cold,0.95,FALSE,FALSE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+15,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+16,Hybrid,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Unreal,Whimsical,TRUE
+17,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+18,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+19,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Ep ic,FALSE
+20,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+21,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+22,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+23,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+24,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+25,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+26,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+27,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+28,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+29,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+30,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+31,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+32,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+33,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+34,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+35,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+36,3D,Realistic,24,Rasterization,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+37,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+38,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+39,Hybrid,Stylized,24,Rasterization,Proportional,Desaturated,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Dark,TRUE
+40,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+41,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+42,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+43,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+44,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+45,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+46,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+47,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+48,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+49,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+50,Hybrid,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,FALSE
+51,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+52,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,TRUE
+53,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+54,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,RenderMan,Naturalistic,TRUE
+55,3D,Realistic,48,PathTracing,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+56,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+57,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+58,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.7,TRUE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+59,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.95,FALSE,FALSE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+60,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+61,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,TRUE,Blender,Whimsical,FALSE
+62,Hybrid,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+63,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+64,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+65,3D,Realistic,48,PathTracing,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+66,3D,Stylized,24,Rasterization,Abstract,Vibrant,0.8,FALSE,FALSE,FALSE,TRUE,Unity,Whimsical,FALSE
+67,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,TRUE
+68,Hybrid,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+69,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+70,3D,Realistic,48,PathTracing,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+71,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+72,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+73,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Naturalistic,TRUE
+74,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+75,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+76,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+77,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+78,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+79,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+80,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+81,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+82,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+83,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+84,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.95,FALSE,FALSE,FALSE,FALSE,Maya,Naturalistic,TRUE
+85,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,TRUE
+86,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+87,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+88,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,FALSE
+89,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+90,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Ep ic,FALSE
+91,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+92,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+93,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,FALSE
+94,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+95,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+96,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+97,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Blender,Naturalistic,TRUE
+98,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+99,3D,Stylized,24,Rasterization,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dark,FALSE
+100,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,FALSE,FALSE,FALSE,Maya,Dreamlike,TRUE
+101,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+102,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+103,3D,Realistic,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+104,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+105,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+106,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+107,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+108,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.8,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+109,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+110,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+111,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+112,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+113,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+114,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Naturalistic,FALSE
+115,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+116,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+117,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+118,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+119,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Custom,Ep ic,TRUE
+120,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,TRUE
+121,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+122,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+123,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Dark,FALSE
+124,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+125,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+126,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+127,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+128,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,TRUE
+129,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+130,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+131,Hybrid,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Unreal,Dreamlike,FALSE
+132,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+133,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+134,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+135,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+136,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Ep ic,TRUE
+137,3D,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Futuristic,TRUE
+138,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+139,3D,Realistic,24,RayTracing,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+140,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+141,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+142,3D,Realistic,24,PathTracing,Proportional,Desaturated,0.95,FALSE,FALSE,FALSE,FALSE,Houdini,Ep ic,TRUE
+143,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+144,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+145,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,TRUE
+146,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+147,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+148,3D,Stylized,24,Rasterization,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dark,FALSE
+149,Hybrid,Stylized,24,Rasterization,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dark,TRUE
+150,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+151,3D,Stylized,24,Hybrid,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+152,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+153,3D,Stylized,24,Rasterization,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dark,FALSE
+154,3D,Realistic,24,PathTracing,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Dreamlike,TRUE
+155,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+156,3D,Stylized,24,Rasterization,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dark,FALSE
+157,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+158,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Dark,TRUE
+159,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,TRUE
+160,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+161,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+162,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+163,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+164,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+165,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,FALSE
+166,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+167,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+168,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,FALSE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+169,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+170,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+171,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Dark,FALSE
+172,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+173,3D,Realistic,24,PathTracing,Proportional,Desaturated,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Dreamlike,TRUE
+174,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Custom,Ep ic,TRUE
+175,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,FALSE
+176,Hybrid,Stylized,24,Rasterization,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Unreal,Whimsical,TRUE
+177,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+178,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+179,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+180,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+181,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Ep ic,FALSE
+182,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+183,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+184,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+185,3D,Realistic,24,Other,Proportional,Desaturated,0.95,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+186,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+187,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Dreamlike,TRUE
+188,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+189,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Ep ic,FALSE
+190,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+191,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+192,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+193,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+194,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+195,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+196,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+197,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+198,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Houdini,Ep ic,FALSE
+199,3D,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+200,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+201,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,FALSE
+202,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+203,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Unreal,Futuristic,TRUE
+204,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+205,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+206,Hybrid,Realistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,FALSE
+207,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+208,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+209,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+210,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+211,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,FALSE
+212,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+213,Hybrid,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Unreal,Dreamlike,FALSE
+214,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+215,Hybrid,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+216,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+217,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+218,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+219,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+220,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+221,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Houdini,Ep ic,FALSE
+222,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+223,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+224,3D,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+225,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+226,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Custom,Ep ic,TRUE
+227,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,FALSE
+228,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+229,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+230,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+231,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+232,Hybrid,Stylized,24,Rasterization,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+233,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+234,3D,Realistic,24,PathTracing,Proportional,Desaturated,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+235,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+236,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+237,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+238,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+239,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,TRUE
+240,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+241,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+242,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+243,2D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.7,TRUE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+244,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+245,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Futuristic,FALSE
+246,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+247,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+248,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+249,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dreamlike,TRUE
+250,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+251,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,FALSE
+252,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+253,3D,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Other,Futuristic,TRUE
+254,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+255,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Custom,Ep ic,TRUE
+256,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+257,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+258,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dreamlike,TRUE
+259,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.75,TRUE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+260,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,FALSE
+261,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+262,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+263,Hybrid,Naturalistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+264,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+265,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+266,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+267,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+268,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+269,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+270,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+271,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dreamlike,TRUE
+272,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Unreal,Whimsical,FALSE
+273,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,TRUE
+274,Hybrid,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,TRUE
+275,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+276,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Naturalistic,TRUE
+277,3D,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+278,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+279,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+280,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+281,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,FALSE
+282,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+283,3D,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+284,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Custom,Ep ic,TRUE
+285,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+286,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Futuristic,FALSE
+287,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+288,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+289,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+290,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Dark,FALSE
+291,3D,Realistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+292,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,TRUE,Other,Dark,FALSE
+293,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Dark,TRUE
+294,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+295,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+296,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+297,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+298,3D,Stylized,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Futuristic,TRUE
+299,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+300,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+301,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+302,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+303,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+304,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+305,Hybrid,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Other,Ep ic,TRUE
+306,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+307,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Naturalistic,TRUE
+308,3D,Realistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+309,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,TRUE,Other,Whimsical,FALSE
+310,3D,Stylized,24,Rasterization,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+311,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Unreal,Whimsical,FALSE
+312,3D,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+313,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+314,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+315,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+316,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+317,3D,Realistic,24,Other,Proportional,Warm,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+318,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+319,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,TRUE
+320,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+321,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+322,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+323,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+324,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+325,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+326,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+327,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+328,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,FALSE
+329,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Unreal,Ep ic,TRUE
+330,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.75,TRUE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+331,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+332,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+333,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+334,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+335,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+336,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+337,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+338,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+339,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+340,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+341,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+342,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+343,3D,Realistic,24,PathTracing,Proportional,Desaturated,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+344,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+345,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+346,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+347,3D,Stylized,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Futuristic,FALSE
+348,Hybrid,Naturalistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+349,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,TRUE,Other,Whimsical,FALSE
+350,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+351,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+352,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+353,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+354,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+355,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+356,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,FALSE
+357,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,FALSE
+358,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+359,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Ep ic,FALSE
+360,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+361,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+362,3D,Stylized,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+363,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+364,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,FALSE
+365,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+366,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+367,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,FALSE
+368,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Unreal,Ep ic,FALSE
+369,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+370,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+371,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+372,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+373,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Unreal,Whimsical,TRUE
+374,3D,Realistic,24,PathTracing,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+375,3D,Stylized,24,Rasterization,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Dark,TRUE
+376,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+377,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+378,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+379,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+380,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+381,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Whimsical,FALSE
+382,3D,Futuristic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+383,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+384,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+385,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,FALSE
+386,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+387,2D,Painterly,24,Rasterization,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Custom,Dreamlike,TRUE
+388,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+389,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.95,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+390,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+391,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+392,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+393,3D,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Ep ic,TRUE
+394,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+395,3D,Stylized,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Maya,Futuristic,TRUE
+396,3D,Realistic,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+397,3D,Stylized,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+398,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+399,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.75,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+400,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+401,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+402,3D,Realistic,24,Hybrid,Proportional,Warm,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Naturalistic,FALSE
+403,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+404,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Naturalistic,TRUE
+405,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+406,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,TRUE,Maya,Ep ic,FALSE
+407,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+408,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+409,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dark,FALSE
+410,3D,Realistic,24,Hybrid,Proportional,Desaturated,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+411,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+412,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,FALSE
+413,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+414,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+415,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Other,Ep ic,FALSE
+416,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+417,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+418,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+419,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,FALSE
+420,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+421,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Custom,Whimsical,TRUE
+422,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+423,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+424,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,TRUE,Other,Dark,FALSE
+425,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+426,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dark,FALSE
+427,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+428,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+429,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+430,3D,Realistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+431,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dreamlike,TRUE
+432,Hybrid,Naturalistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+433,3D,Stylized,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+434,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+435,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+436,Hybrid,Stylized,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,TRUE,Other,Dark,FALSE
+437,3D,Stylized,24,Hybrid,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Futuristic,TRUE
+438,Hybrid,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+439,Hybrid,Dark,24,Other,Proportional,Desaturated,0.85,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+440,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+441,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+442,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,FALSE
+443,3D,Realistic,24,Other,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+444,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+445,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,RenderMan,Whimsical,TRUE
+446,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+447,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+448,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+449,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+450,3D,Stylized,24,Other,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+451,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+452,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Naturalistic,FALSE
+453,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+454,3D,Stylized,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+455,Hybrid,Cartoony,24,Other,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,FALSE
+456,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+457,3D,Naturalistic,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+458,3D,Realistic,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+459,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+460,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+461,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+462,3D,Stylized,24,Rasterization,Proportional,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Maya,Naturalistic,TRUE
+463,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+464,Hybrid,Naturalistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+465,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
+466,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Custom,Dreamlike,TRUE
+467,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+468,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,FALSE
+469,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dreamlike,TRUE
+470,Hybrid,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Whimsical,TRUE
+471,3D,Realistic,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,TRUE
+472,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+473,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+474,3D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.85,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+475,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+476,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Naturalistic,TRUE
+477,Hybrid,Cartoony,24,Other,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+478,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+479,3D,Realistic,24,PathTracing,Proportional,Cold,0.95,FALSE,TRUE,FALSE,FALSE,Houdini,Dark,FALSE
+480,Hybrid,Realistic,24,Other,Proportional,Desaturated,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dark,TRUE
+481,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,FALSE,FALSE,TRUE,Other,Naturalistic,FALSE
+482,3D,Realistic,24,Other,Proportional,Cold,0.9,FALSE,FALSE,FALSE,FALSE,Other,Ep ic,TRUE
+483,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+484,3D,Stylized,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Futuristic,TRUE
+485,Hybrid,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+486,3D,Stylized,24,Hybrid,Proportional,Desaturated,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+487,3D,Stylized,24,Hybrid,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Houdini,Ep ic,FALSE
+488,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.85,FALSE,TRUE,FALSE,FALSE,Other,Whimsical,TRUE
+489,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+490,2D,Stylized,24,Rasterization,Exaggerated,Vibrant,0.8,TRUE,FALSE,FALSE,FALSE,Custom,Whimsical,TRUE
+491,Hybrid,Stylized,24,Other,Proportional,Warm,0.85,FALSE,TRUE,FALSE,FALSE,Other,Whimsical,TRUE
+492,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,FALSE
+493,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Maya,Whimsical,TRUE
+494,3D,Cartoony,24,Rasterization,Exaggerated,Vibrant,0.8,FALSE,FALSE,FALSE,FALSE,Blender,Whimsical,TRUE
+495,Hybrid,Stylized,24,Other,Proportional,Vibrant,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dreamlike,TRUE
+496,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Dark,TRUE
+497,3D,Stylized,24,Hybrid,Proportional,Vibrant,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Whimsical,TRUE
+498,3D,Realistic,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Dreamlike,TRUE
+499,Hybrid,Stylized,24,Other,Proportional,Warm,0.9,FALSE,FALSE,FALSE,FALSE,Other,Whimsical,TRUE
+500,3D,Stylized,24,Other,Proportional,Cold,0.9,FALSE,TRUE,FALSE,FALSE,Maya,Ep ic,TRUE
